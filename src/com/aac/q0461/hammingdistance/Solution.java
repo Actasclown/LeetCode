@@ -1,4 +1,4 @@
-package com.aac.q461.hammingdistance;
+package com.aac.q0461.hammingdistance;
 
 /**
  * Created by Yunqi on 2017/2/26.

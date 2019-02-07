@@ -1,10 +1,8 @@
-package com.aac.q513.findbottomlefttreevalue;
+package com.aac.q0513.findbottomlefttreevalue;
 
 /**
  * Created by Yunqi on 2017/3/26.
  */
-
-import java.util.LinkedList;
 
 /**
  * Definition for a binary tree node.
