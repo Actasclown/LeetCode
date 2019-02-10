@@ -4,15 +4,15 @@
     <bookmark url="file://$PROJECT_DIR$/src/com/aac/q0605/canplaceflowers/Solution.java" line="4" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Examples of binary search including q0069, q0441, q0540.">
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0122/besttimetobuyandsellstockii/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0392/issubsequence/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0406/queuerreconstructionbyheight/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0452/minimumnumberofarrowstoburstballons/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0455/assigncookies/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0605/canplaceflowers/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0665/nondecreasingarray/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0763/partitionlabels/Solution.java" afterDir="false" />
+    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Examples of greedy algorithm including q0445, q0452, q0122, q0605, q0665, q0392, q0763, q0406.">
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0088/mergesortedarray/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0141/linkedlistcycle/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0141/linkedlistcycle/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0167/twosumiiinputarrayissorted/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0345/reversevowelsofastring/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0524/longestwordindictionarythroughdeleting/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0633/sumofsquarenumbers/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q680/validpalindromeii/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -24,63 +24,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/aac/q0461/hammingdistance/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="16" column="16" selection-start-line="16" selection-start-column="16" selection-end-line="16" selection-end-column="16" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/aac/q0605/canplaceflowers/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="60" selection-start-line="3" selection-start-column="60" selection-end-line="15" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/aac/q0665/nondecreasingarray/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="57">
-              <caret line="3" column="49" selection-start-line="3" selection-start-column="49" selection-end-line="17" selection-end-column="20" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/aac/q0392/issubsequence/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="152">
-              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/aac/q0763/partitionlabels/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="24" column="64" lean-forward="true" selection-start-line="24" selection-start-column="64" selection-end-line="24" selection-end-column="64" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/aac/q0406/queuerreconstructionbyheight/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/com/aac/q0524/longestwordindictionarythroughdeleting/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="328">
-              <caret line="42" column="9" lean-forward="true" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+            <state relative-caret-position="411">
+              <caret line="34" column="61" selection-start-line="34" selection-start-column="61" selection-end-line="34" selection-end-column="61" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#363#364#0" expanded="true" />
-                <element signature="e#442#443#0" expanded="true" />
+                <element signature="e#318#326#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -122,12 +73,20 @@
         <option value="$PROJECT_DIR$/src/com/aac/q0392/issubsequence/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/aac/q0763/partitionlabels/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/aac/q0406/queuerreconstructionbyheight/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0167/twosumiiinputarrayissorted/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0345/reversevowelsofastring/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0633/sumofsquarenumbers/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q680/validpalindromeii/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0088/mergesortedarray/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0141/linkedlistcycle/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0141/linkedlistcycle/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0524/longestwordindictionarythroughdeleting/Solution.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
-    <option name="x" value="-10" />
-    <option name="y" value="-10" />
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="x" value="-369" />
+    <option name="y" value="-22" />
     <option name="width" value="1940" />
     <option name="height" value="1100" />
   </component>
@@ -167,7 +126,7 @@
               <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="aac" type="462c0819:PsiDirectoryNode" />
-              <item name="queuerreconstructionbyheight" type="462c0819:PsiDirectoryNode" />
+              <item name="longestwordindictionarythroughdeleting" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -178,7 +137,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549702019571" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549783104039" />
     <property name="settings.editor.selected.configurable" value="file.status.colors" />
   </component>
   <component name="RunDashboard">
@@ -193,7 +152,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (3)">
+  <component name="RunManager" selected="Application.Solution (4)">
     <configuration default="true" type="AndroidTestRunConfigurationType" factoryName="Android Tests">
       <module name="" />
       <option name="TESTING_TYPE" value="0" />
@@ -228,12 +187,12 @@
       </method>
     </configuration>
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aac.q0392.issubsequence.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.aac.q680.validpalindromeii.Solution" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aac.q0392.issubsequence.*" />
+          <option name="PATTERN" value="com.aac.q680.validpalindromeii.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -242,12 +201,12 @@
       </method>
     </configuration>
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aac.q0763.partitionlabels.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.aac.q0088.mergesortedarray.Solution" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aac.q0763.partitionlabels.*" />
+          <option name="PATTERN" value="com.aac.q0088.mergesortedarray.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -256,12 +215,12 @@
       </method>
     </configuration>
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aac.q0406.queuerreconstructionbyheight.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.aac.q0141.linkedlistcycle.Solution" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aac.q0406.queuerreconstructionbyheight.*" />
+          <option name="PATTERN" value="com.aac.q0141.linkedlistcycle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -269,13 +228,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aac.q0122.besttimetobuyandsellstockii.Solution" />
+    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aac.q0524.longestwordindictionarythroughdeleting.Solution" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aac.q0122.besttimetobuyandsellstockii.*" />
+          <option name="PATTERN" value="com.aac.q0524.longestwordindictionarythroughdeleting.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -284,12 +243,12 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aac.q0665.nondecreasingarray.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.aac.q0633.sumofsquarenumbers.Solution" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aac.q0665.nondecreasingarray.*" />
+          <option name="PATTERN" value="com.aac.q0633.sumofsquarenumbers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -462,11 +421,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -483,7 +442,8 @@
       <workItem from="1492139967008" duration="326000" />
       <workItem from="1548999161694" duration="18737000" />
       <workItem from="1549176063484" duration="3629000" />
-      <workItem from="1549504465607" duration="25959000" />
+      <workItem from="1549504465607" duration="35743000" />
+      <workItem from="1549767896532" duration="7865000" />
     </task>
     <task id="LOCAL-00001" summary="idea default changes.">
       <created>1548999425407</created>
@@ -506,17 +466,24 @@
       <option name="project" value="LOCAL" />
       <updated>1549523563197</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Examples of greedy algorithm including q0445, q0452, q0122, q0605, q0665, q0392, q0763, q0406.">
+      <created>1549702201124</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1549702201124</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="48651000" />
+    <option name="totallyTimeSpent" value="66300000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1536" height="864" extended-state="0" />
+    <frame x="0" y="0" width="1536" height="864" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22922252" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28820375" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Nl-Palette" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -524,10 +491,9 @@
       <window_info id="Designer" order="5" />
       <window_info id="UI Designer" order="6" />
       <window_info id="Capture Tool" order="7" />
-      <window_info anchor="bottom" id="Messages" weight="0.32996207" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.30594185" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3211125" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -537,6 +503,7 @@
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32996207" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32996207" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
@@ -549,6 +516,40 @@
       <window_info anchor="right" id="Maven Projects" order="9" />
       <window_info anchor="right" id="Maven" order="10" />
     </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23257373" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Nl-Palette" order="2" />
+      <window_info id="Favorites" order="3" side_tool="true" />
+      <window_info id="Image Layers" order="4" />
+      <window_info id="Designer" order="5" />
+      <window_info id="UI Designer" order="6" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32237673" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32996207" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32996207" />
+      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32996207" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Properties" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Maven Projects" order="9" />
+      <window_info anchor="right" id="Maven" order="10" />
+    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -557,7 +558,8 @@
     <MESSAGE value="idea default changes." />
     <MESSAGE value="Some examples of binary search including q0069, q0441, q0540." />
     <MESSAGE value="Examples of binary search including q0069, q0441, q0540." />
-    <option name="LAST_COMMIT_MESSAGE" value="Examples of binary search including q0069, q0441, q0540." />
+    <MESSAGE value="Examples of greedy algorithm including q0445, q0452, q0122, q0605, q0665, q0392, q0763, q0406." />
+    <option name="LAST_COMMIT_MESSAGE" value="Examples of greedy algorithm including q0445, q0452, q0122, q0605, q0665, q0392, q0763, q0406." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -699,6 +701,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0406/queuerreconstructionbyheight/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="42" column="9" lean-forward="true" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#442#443#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/aac/q0392/issubsequence/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -708,7 +722,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/aac/q0763/partitionlabels/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
+        <state relative-caret-position="437">
           <caret line="24" column="64" lean-forward="true" selection-start-line="24" selection-start-column="64" selection-end-line="24" selection-end-column="64" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -716,14 +730,68 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0406/queuerreconstructionbyheight/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0167/twosumiiinputarrayissorted/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="328">
-          <caret line="42" column="9" lean-forward="true" selection-start-line="42" selection-start-column="9" selection-end-line="42" selection-end-column="9" />
+        <state relative-caret-position="228">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0345/reversevowelsofastring/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="13" column="37" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#363#364#0" expanded="true" />
-            <element signature="e#442#443#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0633/sumofsquarenumbers/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="18" selection-start-line="12" selection-start-column="18" selection-end-line="12" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q680/validpalindromeii/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0088/mergesortedarray/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="63" lean-forward="true" selection-start-line="3" selection-start-column="63" selection-end-line="11" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0141/linkedlistcycle/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="18" lean-forward="true" selection-start-line="8" selection-start-column="18" selection-end-line="8" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0141/linkedlistcycle/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="30" lean-forward="true" selection-start-line="13" selection-start-column="30" selection-end-line="13" selection-end-column="30" />
+          <folding>
+            <element signature="e#563#564#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0524/longestwordindictionarythroughdeleting/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="411">
+          <caret line="34" column="61" selection-start-line="34" selection-start-column="61" selection-end-line="34" selection-end-column="61" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#318#326#0" expanded="true" />
           </folding>
         </state>
       </provider>
