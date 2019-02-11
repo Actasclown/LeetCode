@@ -1,4 +1,4 @@
-package com.aac.q680.validpalindromeii;
+package com.aac.q0680.validpalindromeii;
 
 public class Solution {
     private boolean isPalindrome(char[] s, int startIdx, int endIdx) {

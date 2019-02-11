@@ -4,15 +4,7 @@
     <bookmark url="file://$PROJECT_DIR$/src/com/aac/q0605/canplaceflowers/Solution.java" line="4" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Examples of greedy algorithm including q0445, q0452, q0122, q0605, q0665, q0392, q0763, q0406.">
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0088/mergesortedarray/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0141/linkedlistcycle/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0141/linkedlistcycle/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0167/twosumiiinputarrayissorted/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0345/reversevowelsofastring/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0524/longestwordindictionarythroughdeleting/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0633/sumofsquarenumbers/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q680/validpalindromeii/Solution.java" afterDir="false" />
+    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Examples of two pointers including q0167, q0345, q0633, q0680, q0088, q0141, q0524.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -27,8 +19,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/aac/q0524/longestwordindictionarythroughdeleting/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="411">
-              <caret line="34" column="61" selection-start-line="34" selection-start-column="61" selection-end-line="34" selection-end-column="61" />
+            <state relative-caret-position="492">
+              <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#318#326#0" expanded="true" />
@@ -84,9 +76,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="-369" />
-    <option name="y" value="-22" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-370" />
+    <option name="y" value="-23" />
     <option name="width" value="1940" />
     <option name="height" value="1100" />
   </component>
@@ -108,11 +100,6 @@
             <path>
               <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
               <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name=".idea" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -120,13 +107,6 @@
               <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="aac" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="aac" type="462c0819:PsiDirectoryNode" />
-              <item name="longestwordindictionarythroughdeleting" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -137,7 +117,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549783104039" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1549851507820" />
     <property name="settings.editor.selected.configurable" value="file.status.colors" />
   </component>
   <component name="RunDashboard">
@@ -443,7 +423,7 @@
       <workItem from="1548999161694" duration="18737000" />
       <workItem from="1549176063484" duration="3629000" />
       <workItem from="1549504465607" duration="35743000" />
-      <workItem from="1549767896532" duration="7865000" />
+      <workItem from="1549767896532" duration="10631000" />
     </task>
     <task id="LOCAL-00001" summary="idea default changes.">
       <created>1548999425407</created>
@@ -473,17 +453,23 @@
       <option name="project" value="LOCAL" />
       <updated>1549702201124</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Examples of two pointers including q0167, q0345, q0633, q0680, q0088, q0141, q0524.">
+      <created>1549783394927</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1549783394927</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="66300000" />
+    <option name="totallyTimeSpent" value="69066000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1536" height="864" extended-state="6" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="878" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.28820375" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.28820375" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Nl-Palette" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -493,7 +479,7 @@
       <window_info id="Capture Tool" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.3211125" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33072916" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -559,7 +545,8 @@
     <MESSAGE value="Some examples of binary search including q0069, q0441, q0540." />
     <MESSAGE value="Examples of binary search including q0069, q0441, q0540." />
     <MESSAGE value="Examples of greedy algorithm including q0445, q0452, q0122, q0605, q0665, q0392, q0763, q0406." />
-    <option name="LAST_COMMIT_MESSAGE" value="Examples of greedy algorithm including q0445, q0452, q0122, q0605, q0665, q0392, q0763, q0406." />
+    <MESSAGE value="Examples of two pointers including q0167, q0345, q0633, q0680, q0088, q0141, q0524." />
+    <option name="LAST_COMMIT_MESSAGE" value="Examples of two pointers including q0167, q0345, q0633, q0680, q0088, q0141, q0524." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/README.md">
@@ -787,8 +774,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/aac/q0524/longestwordindictionarythroughdeleting/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="34" column="61" selection-start-line="34" selection-start-column="61" selection-end-line="34" selection-end-column="61" />
+        <state relative-caret-position="492">
+          <caret line="32" column="7" selection-start-line="32" selection-start-column="7" selection-end-line="32" selection-end-column="7" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#318#326#0" expanded="true" />
