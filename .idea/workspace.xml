@@ -4,9 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/src/com/aac/q0605/canplaceflowers/Solution.java" line="4" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Examples of search including q0017, q0037, q0039, q0040, q0046, q0047, q0051, q0077, q0078, q0079, q0090, q0093, q0130, q0131, q0200, q0257, q0417, q0547, q0695.">
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0241/differentwaystoaddparentheses/Solution.java" afterDir="false" />
+    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Examples of partition including q0241.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/q0241/differentwaystoaddparentheses/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/q0241/differentwaystoaddparentheses/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,11 +40,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/aac/q0241/differentwaystoaddparentheses/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+            <state relative-caret-position="399">
+              <caret line="27" selection-start-line="27" selection-end-line="27" />
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#1158#1159#0" expanded="true" />
+                <element signature="e#1175#1176#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -468,7 +468,7 @@
       <workItem from="1553764560972" duration="11575000" />
       <workItem from="1553924304757" duration="25115000" />
       <workItem from="1554005312862" duration="23394000" />
-      <workItem from="1554458585227" duration="1204000" />
+      <workItem from="1554458585227" duration="2978000" />
     </task>
     <task id="LOCAL-00001" summary="idea default changes.">
       <created>1548999425407</created>
@@ -526,11 +526,18 @@
       <option name="project" value="LOCAL" />
       <updated>1554037530814</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Examples of partition including q0241.">
+      <created>1554460036381</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1554460036381</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="186002000" />
+    <option name="totallyTimeSpent" value="187776000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -543,9 +550,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1536" height="864" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.3069705" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3069705" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Nl-Palette" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -555,7 +561,7 @@
       <window_info id="Capture Tool" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32996207" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.2692794" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.2692794" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39949432" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -625,16 +631,10 @@
     <MESSAGE value="Examples of two pointers including q0167, q0345, q0633, q0680, q0088, q0141, q0524." />
     <MESSAGE value="Examples of sort including q0215, q0347." />
     <MESSAGE value="Examples of search including q0017, q0037, q0039, q0040, q0046, q0047, q0051, q0077, q0078, q0079, q0090, q0093, q0130, q0131, q0200, q0257, q0417, q0547, q0695." />
-    <option name="LAST_COMMIT_MESSAGE" value="Examples of search including q0017, q0037, q0039, q0040, q0046, q0047, q0051, q0077, q0078, q0079, q0090, q0093, q0130, q0131, q0200, q0257, q0417, q0547, q0695." />
+    <MESSAGE value="Examples of partition including q0241." />
+    <option name="LAST_COMMIT_MESSAGE" value="Examples of partition including q0241." />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0513/findbottomlefttreevalue/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="15" column="1" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/aac/q0455/assigncookies/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
@@ -1058,13 +1058,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0343/integerbreak/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/aac/q0241/differentwaystoaddparentheses/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="27" column="20" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+        <state relative-caret-position="399">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#1158#1159#0" expanded="true" />
+            <element signature="e#1175#1176#0" expanded="true" />
           </folding>
         </state>
       </provider>

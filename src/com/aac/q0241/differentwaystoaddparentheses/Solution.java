@@ -25,6 +25,7 @@ public class Solution {
         }
         if(isNum)
             ret.add(Integer.parseInt(input));
+
         return ret;
     }
 
