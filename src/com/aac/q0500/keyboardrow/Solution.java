@@ -19,7 +19,7 @@ public class Solution {
 
 //    public static void main(String[] args) {
 //        String[] str = {"asdas", "dasqwe"};
-//        for(String out:new Solution().findWords(str)) {
+//        for(String out:new NumArray().findWords(str)) {
 //            System.out.println(out);
 //        }
 //    }

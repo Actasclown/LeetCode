@@ -20,6 +20,6 @@ public class Solution {
 
 //    public static void main(String[] args) {
 //        char[][] test = {{'X', '.', 'X'}, {'X', '.', 'X'}, {'X', '.', 'X'}};
-//        System.out.println(new Solution().countBattleships(test));
+//        System.out.println(new NumArray().countBattleships(test));
 //    }
 }
