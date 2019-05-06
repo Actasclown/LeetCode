@@ -4,39 +4,20 @@
     <bookmark url="file://$PROJECT_DIR$/src/com/aac/q0605/canplaceflowers/Solution.java" line="4" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Example of partition including q0241.">
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0053/maximumsubarray/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0062/uniquepaths/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0064/minimumpathsum/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0070/climbingstairs/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0072/editdistance/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0091/decodeways/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0121/besttimetobuyandsellstock/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0123/besttimetobuyandsellstockiii/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0139/wordbreak/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0188/besttimetobuyandsellstockiv/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0198/houserobber/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0213/houserobberii/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0279/perfectsquares/BFSSolution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0279/perfectsquares/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0300/longestincreasingsubsequence/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0303/rangesumqueryimmutable/NumArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0309/besttimetobuyandsellstockwithcooldown/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0322/coinchange/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0343/integerbreak/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0376/wigglesubsequence/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0377/combinationsumiv/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0413/arithmeticslices/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0416/partitionequalsubsetsum/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0474/onesandzeros/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0494/targetsum/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0583/deleteoperationfortwostrings/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0646/maximumlengthofpairchain/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0650/twokeyskeyboard/Solution.java" afterDir="false" />
+    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Examples of dynamic programming including q0343, q0279, q0091, q0062, q0064, q0070, q0198, q0213, q0300, q0376, q0416, q0139, q0494, q0474, q0322, q0377, q0123, q0188, q0303, q0053, q0413, q0583, q0072, q0309, q0338, q0646, q0121, q0650.">
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0067/addbinary/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0169/majorityelement/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0172/factorialtrailingzeroes/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0204/countprimes/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0238/productofarrayexceptself/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0326/powerofthree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0367/validperfectsquare/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0405/convertanumbertohexadecimal/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0415/addStrings/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0462/minimummovestoequalarrayelementsii/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0504/base7/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0628/maximumproductofthreenumbers/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/q0338/countingbits/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/q0338/countingbits/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/q0419/battleshipsinaboard/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/q0419/battleshipsinaboard/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/q0500/keyboardrow/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/q0500/keyboardrow/Solution.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -75,7 +56,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/aac/q0646/maximumlengthofpairchain/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-708">
+            <state relative-caret-position="-152">
               <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
               <folding>
                 <element signature="imports" expanded="true" />
@@ -84,14 +65,63 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/aac/q0650/twokeyskeyboard/Solution.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/aac/q0462/minimummovestoequalarrayelementsii/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="408">
-              <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+            <state relative-caret-position="47">
+              <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="38" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/aac/q0169/majorityelement/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="123">
+              <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="39" selection-end-column="5" />
               <folding>
-                <element signature="e#1038#1039#0" expanded="true" />
+                <element signature="e#1259#1260#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/aac/q0367/validperfectsquare/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="28">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="30" selection-end-column="5" />
+              <folding>
+                <element signature="e#343#344#0" expanded="true" />
+                <element signature="e#413#414#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/aac/q0326/powerofthree/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/aac/q0628/maximumproductofthreenumbers/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="95">
+              <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="27" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/aac/q0238/productofarrayexceptself/Solution.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -101,6 +131,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Singleton" />
         <option value="Class" />
       </list>
     </option>
@@ -117,18 +148,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/aac/q0695/maxareaofisland/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0547/friendcircles/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0200/numberofislands/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0257/binarytreepaths/TreeNode.java" />
-        <option value="F:/MHW stuff/Translation (Simplified Chinese) -Diangua233-142-5-3-1545465721/config.json" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0257/binarytreepaths/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0130/surroundedregions/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0417/pacificatlanticwaterflow/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0051/nqueens/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0017/lettercombinationsofaphonenumber/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0093/restoreipaddresses/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0046/permutations/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/aac/q0047/permutationsii/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/aac/q0077/combinations/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/aac/q0039/combinationsum/Solution.java" />
@@ -168,6 +187,18 @@
         <option value="$PROJECT_DIR$/src/com/aac/q0338/countingbits/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/aac/q0646/maximumlengthofpairchain/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/aac/q0650/twokeyskeyboard/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0204/countprimes/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0504/base7/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0405/convertanumbertohexadecimal/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0172/factorialtrailingzeroes/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0067/addbinary/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0415/addStrings/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0462/minimummovestoequalarrayelementsii/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0169/majorityelement/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0367/validperfectsquare/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0326/powerofthree/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0628/maximumproductofthreenumbers/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0238/productofarrayexceptself/Solution.java" />
       </list>
     </option>
   </component>
@@ -205,7 +236,14 @@
               <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="aac" type="462c0819:PsiDirectoryNode" />
-              <item name="twokeyskeyboard" type="462c0819:PsiDirectoryNode" />
+              <item name="productofarrayexceptself" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Leetcode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Leetcode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="aac" type="462c0819:PsiDirectoryNode" />
+              <item name="maximumproductofthreenumbers" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -237,20 +275,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (2)">
+  <component name="RunManager" selected="Application.Solution (5)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aac.q0646.maximumlengthofpairchain.Solution" />
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aac.q0462.minimummovestoequalarrayelementsii.Solution" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aac.q0646.maximumlengthofpairchain.*" />
+          <option name="PATTERN" value="com.aac.q0462.minimummovestoequalarrayelementsii.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -258,13 +296,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aac.q0650.twokeyskeyboard.Solution" />
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aac.q0169.majorityelement.Solution" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aac.q0650.twokeyskeyboard.*" />
+          <option name="PATTERN" value="com.aac.q0169.majorityelement.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -273,12 +311,12 @@
       </method>
     </configuration>
     <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aac.q0072.editdistance.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.aac.q0367.validperfectsquare.Solution" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aac.q0072.editdistance.*" />
+          <option name="PATTERN" value="com.aac.q0367.validperfectsquare.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -287,12 +325,12 @@
       </method>
     </configuration>
     <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aac.q0338.countingbits.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.aac.q0238.productofarrayexceptself.Solution" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aac.q0338.countingbits.*" />
+          <option name="PATTERN" value="com.aac.q0238.productofarrayexceptself.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -301,12 +339,12 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aac.q0309.besttimetobuyandsellstockwithcooldown.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.aac.q0628.maximumproductofthreenumbers.Solution" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aac.q0309.besttimetobuyandsellstockwithcooldown.*" />
+          <option name="PATTERN" value="com.aac.q0628.maximumproductofthreenumbers.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -481,11 +519,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (4)" />
+        <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.Solution (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -523,7 +561,7 @@
       <workItem from="1556079606209" duration="60999000" />
       <workItem from="1556858941083" duration="25662000" />
       <workItem from="1557021201108" duration="6358000" />
-      <workItem from="1557051012727" duration="10810000" />
+      <workItem from="1557051012727" duration="30267000" />
     </task>
     <task id="LOCAL-00001" summary="idea default changes.">
       <created>1548999425407</created>
@@ -595,11 +633,18 @@
       <option name="project" value="LOCAL" />
       <updated>1554463534835</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Examples of dynamic programming including q0343, q0279, q0091, q0062, q0064, q0070, q0198, q0213, q0300, q0376, q0416, q0139, q0494, q0474, q0322, q0377, q0123, q0188, q0303, q0053, q0413, q0583, q0072, q0309, q0338, q0646, q0121, q0650.">
+      <created>1557064534867</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1557064534867</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="326284000" />
+    <option name="totallyTimeSpent" value="345741000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -624,13 +669,13 @@
       <window_info id="Capture Tool" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32996207" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49932975" visible="true" weight="0.3249052" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49865952" visible="true" weight="0.3249052" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39949432" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32996207" />
       <window_info anchor="bottom" id="Terminal" order="7" weight="0.32996207" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50067025" side_tool="true" weight="0.2692794" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5013405" side_tool="true" weight="0.3249052" />
       <window_info anchor="bottom" id="Version Control" order="9" weight="0.32996207" />
       <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="11" />
@@ -706,124 +751,10 @@
     <MESSAGE value="Examples of search including q0017, q0037, q0039, q0040, q0046, q0047, q0051, q0077, q0078, q0079, q0090, q0093, q0130, q0131, q0200, q0257, q0417, q0547, q0695." />
     <MESSAGE value="Examples of partition including q0241." />
     <MESSAGE value="Example of partition including q0241." />
-    <option name="LAST_COMMIT_MESSAGE" value="Example of partition including q0241." />
+    <MESSAGE value="Examples of dynamic programming including q0343, q0279, q0091, q0062, q0064, q0070, q0198, q0213, q0300, q0376, q0416, q0139, q0494, q0474, q0322, q0377, q0123, q0188, q0303, q0053, q0413, q0583, q0072, q0309, q0338, q0646, q0121, q0650." />
+    <option name="LAST_COMMIT_MESSAGE" value="Examples of dynamic programming including q0343, q0279, q0091, q0062, q0064, q0070, q0198, q0213, q0300, q0376, q0416, q0139, q0494, q0474, q0322, q0377, q0123, q0188, q0303, q0053, q0413, q0583, q0072, q0309, q0338, q0646, q0121, q0650." />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0069/sqrtx/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="532">
-          <caret line="28" selection-start-line="28" selection-end-line="28" />
-          <folding>
-            <element signature="e#856#857#0" expanded="true" />
-            <element signature="e#916#917#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0130/surroundedregions/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="38" selection-start-line="18" selection-start-column="38" selection-end-line="18" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0051/nqueens/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="51" lean-forward="true" selection-start-line="8" selection-start-column="51" selection-end-line="8" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0417/pacificatlanticwaterflow/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="76" column="17" lean-forward="true" selection-start-line="74" selection-start-column="4" selection-end-line="80" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0093/restoreipaddresses/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="279">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Program Files (x86)/Java/jdk1.8.0_73/src.zip!/java/util/ArrayList.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="175" column="11" selection-start-line="175" selection-start-column="11" selection-end-line="175" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0047/permutationsii/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="141">
-          <caret line="13" column="33" selection-start-line="13" selection-start-column="33" selection-end-line="13" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0017/lettercombinationsofaphonenumber/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="32" column="40" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0039/combinationsum/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="205">
-          <caret line="32" column="4" lean-forward="true" selection-start-line="32" selection-start-column="4" selection-end-line="41" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0040/combinationsumii/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="684">
-          <caret line="36" lean-forward="true" selection-start-line="36" selection-end-line="36" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0046/permutations/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="741">
-          <caret line="39" column="4" selection-start-line="39" selection-start-column="4" selection-end-line="48" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0090/subsetsii/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="623">
-          <caret line="37" column="27" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/aac/q0078/subsets/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="205">
@@ -1130,9 +1061,80 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0204/countprimes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="17" selection-end-column="5" />
+          <folding>
+            <element signature="e#562#563#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0504/base7/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+          <folding>
+            <element signature="e#413#414#0" expanded="true" />
+            <element signature="e#441#442#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0405/convertanumbertohexadecimal/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="16" selection-end-column="5" />
+          <folding>
+            <element signature="e#506#507#0" expanded="true" />
+            <element signature="e#527#528#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0172/factorialtrailingzeroes/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0067/addbinary/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="6" column="49" lean-forward="true" selection-start-line="6" selection-start-column="49" selection-end-line="17" selection-end-column="19" />
+          <folding>
+            <element signature="e#662#663#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0415/addStrings/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="18" selection-end-column="5" />
+          <folding>
+            <element signature="e#609#610#0" expanded="true" />
+            <element signature="e#630#631#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0650/twokeyskeyboard/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-29">
+          <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
+          <folding>
+            <element signature="e#989#990#0" expanded="true" />
+            <element signature="e#1051#1052#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/aac/q0646/maximumlengthofpairchain/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-708">
+        <state relative-caret-position="-152">
           <caret line="9" column="4" lean-forward="true" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
           <folding>
             <element signature="imports" expanded="true" />
@@ -1140,13 +1142,52 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0650/twokeyskeyboard/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0462/minimummovestoequalarrayelementsii/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="408">
-          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+        <state relative-caret-position="47">
+          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="38" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0169/majorityelement/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="123">
+          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="39" selection-end-column="5" />
           <folding>
-            <element signature="e#1038#1039#0" expanded="true" />
+            <element signature="e#1259#1260#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0367/validperfectsquare/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="28">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="30" selection-end-column="5" />
+          <folding>
+            <element signature="e#343#344#0" expanded="true" />
+            <element signature="e#413#414#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0326/powerofthree/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="4" lean-forward="true" selection-start-line="10" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0628/maximumproductofthreenumbers/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="27" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0238/productofarrayexceptself/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="13" column="22" lean-forward="true" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
         </state>
       </provider>
     </entry>
