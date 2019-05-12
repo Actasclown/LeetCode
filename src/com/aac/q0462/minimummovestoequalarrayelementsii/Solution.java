@@ -41,7 +41,7 @@ public class Solution {
     public static void main(String[] args) {
         System.out.println(new Solution().minMoves2(new int[] {1, 2}));
 //        int[] test = { -10, -22, 23, 41, 983,22, 0, 3, 4, 1, -22, -1};
-//        new Solution().qsort(test, 0, test.length - 1);
+//        new Myqueue().qsort(test, 0, test.length - 1);
 //        for (int i : test) {
 //            System.out.println(i);
 //        }

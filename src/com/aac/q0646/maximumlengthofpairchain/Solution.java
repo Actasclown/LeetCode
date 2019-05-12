@@ -69,7 +69,7 @@ public class Solution {
 
     public static void main(String[] args) {
         int[][] input = new int[][]{{5, 6}, {2, 3}, {1, 2}, {3, 4}};
-        //System.out.println(new Solution().findLongestChain(input));
+        //System.out.println(new Myqueue().findLongestChain(input));
         int[][] test = new int[][]{{3, 4}, {2, 3}, {1, 2}};
         int[][] test0 = new int[][]{{-10, -8}, {8, 9}, {-5, 0}, {6, 10}, {-6, -4}, {1, 7}, {9, 10}, {-4, 7}};
         new Solution().qsort(test, 0, test.length - 1);
