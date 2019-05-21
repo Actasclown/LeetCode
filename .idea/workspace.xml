@@ -4,16 +4,19 @@
     <bookmark url="file://$PROJECT_DIR$/src/com/aac/q0605/canplaceflowers/Solution.java" line="4" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Problems solved using stack and queue including q0232, q0225, q0155, q0020, q0739, q0496, q0503.&#10;Problems solved using hashtable including q0535, q0001, q0594.&#10;Problems related to string including q0242, q0205, q0409, q0009, q0647, q0696.">
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0142/linkedlistcycleii/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0142/linkedlistcycleii/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0240/searcha2dmatrixii/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0283/movezeros/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0287/findtheduplicatenumber/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0378/kthsmallestelementinasortedmatrix/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0442/findallduplicatesinanarray/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0448/findallnumbersdisappearedinanarray/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0645/setmismatch/Solution.java" afterDir="false" />
+    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Problems related to arrays and matrices including q0283, qo645, q0448, q0442, q0287, q0240, q0378.">
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0021/mergetwosortedlists/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0021/mergetwosortedlists/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0083/removeduplicatesfromsortedlist/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0083/removeduplicatesfromsortedlist/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0160/intersectionoftwolinkedlists/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0160/intersectionoftwolinkedlists/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0206/reverselinkedlist/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0206/reverselinkedlist/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0234/palindromelinkedlist/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0234/palindromelinkedlist/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0328/oddevenlinkedlist/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0328/oddevenlinkedlist/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -50,29 +53,29 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/aac/q0287/findtheduplicatenumber/Solution.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/aac/q0328/oddevenlinkedlist/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="95">
-              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="21" selection-end-column="5" />
+              <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="18" selection-end-column="5" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/aac/q0240/searcha2dmatrixii/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/com/aac/q0328/oddevenlinkedlist/ListNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="418">
-              <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
+            <state relative-caret-position="95">
+              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/aac/q0378/kthsmallestelementinasortedmatrix/Solution.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/aac/q0234/palindromelinkedlist/ListNode.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="456">
-              <caret line="47" column="13" lean-forward="true" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+            <state relative-caret-position="114">
+              <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="9" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -99,18 +102,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/aac/q0343/integerbreak/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0279/perfectsquares/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0279/perfectsquares/BFSSolution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0091/decodeways/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0062/uniquepaths/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0064/minimumpathsum/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0070/climbingstairs/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0198/houserobber/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0213/houserobberii/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q300/longestincreasingsubsequence/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0376/wigglesubsequence/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0416/partitionequalsubsetsum/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/aac/q0139/wordbreak/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/aac/q494/targetsum/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/aac/q0474/onesandzeros/Solution.java" />
@@ -150,6 +141,18 @@
         <option value="$PROJECT_DIR$/src/com/aac/q0287/findtheduplicatenumber/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/aac/q0240/searcha2dmatrixii/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/aac/q0378/kthsmallestelementinasortedmatrix/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0160/intersectionoftwolinkedlists/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0160/intersectionoftwolinkedlists/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0206/reverselinkedlist/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0206/reverselinkedlist/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0021/mergetwosortedlists/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0021/mergetwosortedlists/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0083/removeduplicatesfromsortedlist/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0083/removeduplicatesfromsortedlist/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0234/palindromelinkedlist/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0234/palindromelinkedlist/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0328/oddevenlinkedlist/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0328/oddevenlinkedlist/Solution.java" />
       </list>
     </option>
   </component>
@@ -164,7 +167,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -183,11 +186,25 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="aac" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="aac" type="462c0819:PsiDirectoryNode" />
+              <item name="palindromelinkedlist" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="aac" type="462c0819:PsiDirectoryNode" />
+              <item name="oddevenlinkedlist" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="PackagesPane" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -212,7 +229,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (2)">
+  <component name="RunManager" selected="Application.Solution (3)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -247,13 +264,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aac.q0367.validperfectsquare.Solution" />
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aac.q0234.palindromelinkedlist.Solution" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aac.q0367.validperfectsquare.*" />
+          <option name="PATTERN" value="com.aac.q0234.palindromelinkedlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -457,11 +474,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -505,7 +522,8 @@
       <workItem from="1557842127128" duration="8327000" />
       <workItem from="1557921380542" duration="210000" />
       <workItem from="1557923223262" duration="6462000" />
-      <workItem from="1558191774528" duration="2110000" />
+      <workItem from="1558191774528" duration="15194000" />
+      <workItem from="1558443849497" duration="3115000" />
     </task>
     <task id="LOCAL-00001" summary="idea default changes.">
       <created>1548999425407</created>
@@ -591,11 +609,18 @@
       <option name="project" value="LOCAL" />
       <updated>1557667990980</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Problems related to arrays and matrices including q0283, qo645, q0448, q0442, q0287, q0240, q0378.">
+      <created>1558194076396</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1558194076396</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="367152000" />
+    <option name="totallyTimeSpent" value="383351000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -610,7 +635,7 @@
     <frame x="0" y="0" width="1536" height="864" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3150134" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31903484" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Nl-Palette" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -620,7 +645,7 @@
       <window_info id="Capture Tool" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32996207" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49865952" weight="0.34450403" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49865952" weight="0.34386852" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39949432" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -704,104 +729,10 @@
     <MESSAGE value="Example of partition including q0241." />
     <MESSAGE value="Examples of dynamic programming including q0343, q0279, q0091, q0062, q0064, q0070, q0198, q0213, q0300, q0376, q0416, q0139, q0494, q0474, q0322, q0377, q0123, q0188, q0303, q0053, q0413, q0583, q0072, q0309, q0338, q0646, q0121, q0650." />
     <MESSAGE value="Problems solved using stack and queue including q0232, q0225, q0155, q0020, q0739, q0496, q0503.&#10;Problems solved using hashtable including q0535, q0001, q0594.&#10;Problems related to string including q0242, q0205, q0409, q0009, q0647, q0696." />
-    <option name="LAST_COMMIT_MESSAGE" value="Problems solved using stack and queue including q0232, q0225, q0155, q0020, q0739, q0496, q0503.&#10;Problems solved using hashtable including q0535, q0001, q0594.&#10;Problems related to string including q0242, q0205, q0409, q0009, q0647, q0696." />
+    <MESSAGE value="Problems related to arrays and matrices including q0283, qo645, q0448, q0442, q0287, q0240, q0378." />
+    <option name="LAST_COMMIT_MESSAGE" value="Problems related to arrays and matrices including q0283, qo645, q0448, q0442, q0287, q0240, q0378." />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0070/climbingstairs/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="14" column="4" lean-forward="true" selection-start-line="14" selection-start-column="4" selection-end-line="22" selection-end-column="5" />
-          <folding>
-            <element signature="e#696#697#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0198/houserobber/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="24" lean-forward="true" selection-start-line="2" selection-start-column="23" selection-end-line="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0213/houserobberii/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="21" lean-forward="true" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0300/longestincreasingsubsequence/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="30" column="24" lean-forward="true" selection-start-line="30" selection-start-column="24" selection-end-line="30" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0376/wigglesubsequence/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="33" lean-forward="true" selection-start-line="16" selection-start-column="33" selection-end-line="16" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0416/partitionequalsubsetsum/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0139/wordbreak/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="341">
-          <caret line="21" column="33" lean-forward="true" selection-start-line="21" selection-start-column="33" selection-end-line="21" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://E:/Program Files (x86)/Java/jdk1.8.0_73/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="178">
-          <caret line="3798" column="30" selection-start-line="3798" selection-start-column="30" selection-end-line="3798" selection-end-column="30" />
-          <folding>
-            <element signature="e#177013#177014#0" expanded="true" />
-            <element signature="e#177054#177055#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0474/onesandzeros/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="340">
-          <caret line="53" column="9" lean-forward="true" selection-start-line="53" selection-start-column="9" selection-end-line="53" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0322/coinchange/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="74">
-          <caret line="11" lean-forward="true" selection-start-line="11" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0377/combinationsumiv/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="30" selection-start-line="14" selection-start-column="30" selection-end-line="14" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://E:/Program Files (x86)/mysql-5.7.17-winx64/my-default.ini">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-152" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/aac/q0188/besttimetobuyandsellstockiv/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -1104,6 +1035,27 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0378/kthsmallestelementinasortedmatrix/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="59" column="1" lean-forward="true" selection-start-line="59" selection-start-column="1" selection-end-line="59" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0160/intersectionoftwolinkedlists/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0206/reverselinkedlist/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="9" selection-start-line="6" selection-start-column="23" selection-end-line="16" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/com/aac/q0240/searcha2dmatrixii/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="418">
@@ -1111,10 +1063,73 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0378/kthsmallestelementinasortedmatrix/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0206/reverselinkedlist/ListNode.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="47" column="13" lean-forward="true" selection-start-line="47" selection-start-column="13" selection-end-line="47" selection-end-column="13" />
+        <state relative-caret-position="114">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0160/intersectionoftwolinkedlists/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0021/mergetwosortedlists/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="20" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0021/mergetwosortedlists/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0083/removeduplicatesfromsortedlist/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0083/removeduplicatesfromsortedlist/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0234/palindromelinkedlist/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="665">
+          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0234/palindromelinkedlist/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="9" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0328/oddevenlinkedlist/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0328/oddevenlinkedlist/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="95">
+          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="18" selection-end-column="5" />
         </state>
       </provider>
     </entry>
