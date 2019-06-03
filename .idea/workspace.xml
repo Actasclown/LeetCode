@@ -4,20 +4,56 @@
     <bookmark url="file://$PROJECT_DIR$/src/com/aac/q0605/canplaceflowers/Solution.java" line="4" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Problems related to arrays and matrices including q0283, qo645, q0448, q0442, q0287, q0240, q0378.">
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0021/mergetwosortedlists/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0021/mergetwosortedlists/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0083/removeduplicatesfromsortedlist/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0083/removeduplicatesfromsortedlist/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0160/intersectionoftwolinkedlists/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0160/intersectionoftwolinkedlists/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0206/reverselinkedlist/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0206/reverselinkedlist/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0234/palindromelinkedlist/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0234/palindromelinkedlist/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0328/oddevenlinkedlist/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0328/oddevenlinkedlist/Solution.java" afterDir="false" />
+    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Problems related to linked list including q0160, q0206, q0021, q0083, q0234, q0328.">
+      <change afterPath="$PROJECT_DIR$/src/com/aac/datastructure/ListNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/datastructure/TreeNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0094/binarytreeinordertraversal/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0101/symmetrictree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0104/maximumdepthofbinarytree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0108/convertsortedarraytobinarysearchtree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0110/balancedbinarytree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0111/minimumdepthofbinarytree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0112/pathsum/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0144/binarytreepreordertraversal/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0145/binarytreepostordertraversal/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0226/invertbinarytree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0235/lowestcommonancesterofabinarysearchtree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0236/lowestcommonancestorofabinarytree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0337/houserobberiii/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0404/sumofleftleaves/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0437/pathsumiii/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0501/findmodeinbinarysearchtree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0530/minimumabsolutedifferenceinbst/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0538/convertbsttogreatertree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0543/diameterofbinarytree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0572/subtreeofanothertree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0617/mergetwobinarytrees/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0637/averageoflevelsinbinarytree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0653/twosumivinputisabst/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0669/trimabinarysearchtree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0671/secondminimumnodeinabinarytree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0687/longestunivaluepath/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/q0021/mergetwosortedlists/ListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/q0021/mergetwosortedlists/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/q0021/mergetwosortedlists/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/q0083/removeduplicatesfromsortedlist/ListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/q0083/removeduplicatesfromsortedlist/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/q0083/removeduplicatesfromsortedlist/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/q0141/linkedlistcycle/ListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/q0141/linkedlistcycle/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/q0141/linkedlistcycle/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/q0142/linkedlistcycleii/ListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/q0142/linkedlistcycleii/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/q0142/linkedlistcycleii/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/q0160/intersectionoftwolinkedlists/ListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/q0160/intersectionoftwolinkedlists/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/q0160/intersectionoftwolinkedlists/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/q0206/reverselinkedlist/ListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/q0206/reverselinkedlist/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/q0206/reverselinkedlist/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/q0234/palindromelinkedlist/ListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/q0234/palindromelinkedlist/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/q0234/palindromelinkedlist/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/q0257/binarytreepaths/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/q0257/binarytreepaths/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/q0257/binarytreepaths/TreeNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/q0328/oddevenlinkedlist/ListNode.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/q0328/oddevenlinkedlist/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/q0328/oddevenlinkedlist/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/q0513/findbottomlefttreevalue/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/q0513/findbottomlefttreevalue/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/q0513/findbottomlefttreevalue/TreeNode.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -54,28 +90,13 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/aac/q0328/oddevenlinkedlist/Solution.java">
+        <entry file="file://$PROJECT_DIR$/src/com/aac/q0501/findmodeinbinarysearchtree/Solution.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="18" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/aac/q0328/oddevenlinkedlist/ListNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/aac/q0234/palindromelinkedlist/ListNode.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="9" selection-end-column="32" />
+            <state relative-caret-position="76">
+              <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="43" selection-end-column="5" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -102,62 +123,61 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/aac/q0139/wordbreak/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q494/targetsum/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0474/onesandzeros/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0322/coinchange/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0377/combinationsumiv/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0121/besttimetobuyandsellstock/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0123/besttimetobuyandsellstockiii/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0188/besttimetobuyandsellstockiv/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0303/rangesumqueryimmutable/NumArray.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0053/maximumsubarray/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0413/arithmeticslices/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0583/deleteoperationfortwostrings/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0072/editdistance/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0309/besttimetobuyandsellstockwithcooldown/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0494/targetsum/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0338/countingbits/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0646/maximumlengthofpairchain/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0650/twokeyskeyboard/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0204/countprimes/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0504/base7/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0405/convertanumbertohexadecimal/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0172/factorialtrailingzeroes/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0067/addbinary/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0415/addStrings/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0462/minimummovestoequalarrayelementsii/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0169/majorityelement/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0367/validperfectsquare/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0326/powerofthree/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0628/maximumproductofthreenumbers/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0238/productofarrayexceptself/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0283/movezeros/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0645/setmismatch/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0448/findallnumbersdisappearedinanarray/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0442/findallduplicatesinanarray/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0142/linkedlistcycleii/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0142/linkedlistcycleii/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0287/findtheduplicatenumber/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0240/searcha2dmatrixii/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0378/kthsmallestelementinasortedmatrix/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0160/intersectionoftwolinkedlists/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0160/intersectionoftwolinkedlists/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0206/reverselinkedlist/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0206/reverselinkedlist/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0021/mergetwosortedlists/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0021/mergetwosortedlists/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0083/removeduplicatesfromsortedlist/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0083/removeduplicatesfromsortedlist/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0234/palindromelinkedlist/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0234/palindromelinkedlist/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0328/oddevenlinkedlist/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0112/pathsum/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0437/pathsumiii/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0101/symmetrictree/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0110/balancedbinarytree/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0111/minimumdepthofbinarytree/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0404/sumofleftleaves/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0669/trimabinarysearchtree/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0572/subtreeofanothertree/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0108/convertsortedarraytobinarysearchtree/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0543/diameterofbinarytree/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0669/trimabinarysearchtree/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0617/mergetwobinarytrees/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0572/subtreeofanothertree/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0543/diameterofbinarytree/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0513/findbottomlefttreevalue/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0437/pathsumiii/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0404/sumofleftleaves/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/aac/q0328/oddevenlinkedlist/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0257/binarytreepaths/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0234/palindromelinkedlist/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0226/invertbinarytree/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0206/reverselinkedlist/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0160/intersectionoftwolinkedlists/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0142/linkedlistcycleii/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0141/linkedlistcycle/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0112/pathsum/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0111/minimumdepthofbinarytree/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0110/balancedbinarytree/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0108/convertsortedarraytobinarysearchtree/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0104/maximumdepthofbinarytree/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0101/symmetrictree/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0083/removeduplicatesfromsortedlist/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0021/mergetwosortedlists/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/datastructure/ListNode.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/datastructure/TreeNode.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0671/secondminimumnodeinabinarytree/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0235/lowestcommonancesterofabinarysearchtree/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0236/lowestcommonancestorofabinarytree/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0687/longestunivaluePath.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0687/longestunivaluepath/longestunivaluePath.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0687/longestunivaluepath/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0337/houserobberiii/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0637/averageoflevelsinbinarytree/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0144/binarytreepreordertraversal/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0145/binarytreepostordertraversal/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0094/binarytreeinordertraversal/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0653/twosumivinputisabst/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0530/minimumabsolutedifferenceinbst/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0538/convertbsttogreatertree/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0501/findmodeinbinarysearchtree/Solution.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="x" value="-45" />
+  <component name="ProjectFrameBounds" fullScreen="true">
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
@@ -167,6 +187,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -191,20 +212,12 @@
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="aac" type="462c0819:PsiDirectoryNode" />
-              <item name="palindromelinkedlist" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="aac" type="462c0819:PsiDirectoryNode" />
-              <item name="oddevenlinkedlist" type="462c0819:PsiDirectoryNode" />
+              <item name="findmodeinbinarysearchtree" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -229,7 +242,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (3)">
+  <component name="RunManager" selected="Application.Solution (4)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -278,13 +291,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aac.q0238.productofarrayexceptself.Solution" />
+    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aac.q0538.convertbsttogreatertree.Solution" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aac.q0238.productofarrayexceptself.*" />
+          <option name="PATTERN" value="com.aac.q0538.convertbsttogreatertree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -292,13 +305,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aac.q0628.maximumproductofthreenumbers.Solution" />
+    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aac.q0238.productofarrayexceptself.Solution" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aac.q0628.maximumproductofthreenumbers.*" />
+          <option name="PATTERN" value="com.aac.q0238.productofarrayexceptself.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -474,11 +487,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution (5)" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -523,7 +536,15 @@
       <workItem from="1557921380542" duration="210000" />
       <workItem from="1557923223262" duration="6462000" />
       <workItem from="1558191774528" duration="15194000" />
-      <workItem from="1558443849497" duration="3115000" />
+      <workItem from="1558443849497" duration="12526000" />
+      <workItem from="1558859373437" duration="5197000" />
+      <workItem from="1558877843579" duration="3397000" />
+      <workItem from="1558929457306" duration="2550000" />
+      <workItem from="1559109808150" duration="18000" />
+      <workItem from="1559109916371" duration="6805000" />
+      <workItem from="1559187960259" duration="6133000" />
+      <workItem from="1559361148865" duration="24245000" />
+      <workItem from="1559539189313" duration="2290000" />
     </task>
     <task id="LOCAL-00001" summary="idea default changes.">
       <created>1548999425407</created>
@@ -616,11 +637,18 @@
       <option name="project" value="LOCAL" />
       <updated>1558194076396</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Problems related to linked list including q0160, q0206, q0021, q0083, q0234, q0328.">
+      <created>1558448789267</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1558448789267</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="383351000" />
+    <option name="totallyTimeSpent" value="443397000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -632,10 +660,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1536" height="864" extended-state="6" />
+    <frame x="0" y="0" width="1536" height="864" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31903484" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35656837" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Nl-Palette" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -645,7 +673,7 @@
       <window_info id="Capture Tool" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32996207" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49865952" weight="0.34386852" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49865952" visible="true" weight="0.36409608" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39949432" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -730,406 +758,311 @@
     <MESSAGE value="Examples of dynamic programming including q0343, q0279, q0091, q0062, q0064, q0070, q0198, q0213, q0300, q0376, q0416, q0139, q0494, q0474, q0322, q0377, q0123, q0188, q0303, q0053, q0413, q0583, q0072, q0309, q0338, q0646, q0121, q0650." />
     <MESSAGE value="Problems solved using stack and queue including q0232, q0225, q0155, q0020, q0739, q0496, q0503.&#10;Problems solved using hashtable including q0535, q0001, q0594.&#10;Problems related to string including q0242, q0205, q0409, q0009, q0647, q0696." />
     <MESSAGE value="Problems related to arrays and matrices including q0283, qo645, q0448, q0442, q0287, q0240, q0378." />
-    <option name="LAST_COMMIT_MESSAGE" value="Problems related to arrays and matrices including q0283, qo645, q0448, q0442, q0287, q0240, q0378." />
+    <MESSAGE value="Problems related to linked list including q0160, q0206, q0021, q0083, q0234, q0328." />
+    <option name="LAST_COMMIT_MESSAGE" value="Problems related to linked list including q0160, q0206, q0021, q0083, q0234, q0328." />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0188/besttimetobuyandsellstockiv/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0112/pathsum/TreeNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0437/pathsumiii/TreeNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0226/invertbinarytree/TreeNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0101/symmetrictree/TreeNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0110/balancedbinarytree/TreeNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0111/minimumdepthofbinarytree/TreeNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0404/sumofleftleaves/TreeNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0669/trimabinarysearchtree/TreeNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0572/subtreeofanothertree/TreeNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0108/convertsortedarraytobinarysearchtree/TreeNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0543/diameterofbinarytree/TreeNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/aac/TreeNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0669/trimabinarysearchtree/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="38" lean-forward="true" selection-start-line="21" selection-start-column="38" selection-end-line="21" selection-end-column="38" />
+        <state relative-caret-position="171">
+          <caret line="9" column="14" lean-forward="true" selection-start-line="9" selection-start-column="14" selection-end-line="9" selection-end-column="14" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0121/besttimetobuyandsellstock/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="40" lean-forward="true" selection-start-line="3" selection-start-column="40" selection-end-line="3" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0122/besttimetobuyandsellstockii/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0123/besttimetobuyandsellstockiii/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="22" column="24" lean-forward="true" selection-start-line="22" selection-start-column="24" selection-end-line="22" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0215/kthlargesteelementinanarray/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0303/rangesumqueryimmutable/NumArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
-          <folding>
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#347#348#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0053/maximumsubarray/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="494">
-          <caret line="26" column="40" selection-start-line="26" selection-start-column="40" selection-end-line="26" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0413/arithmeticslices/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0583/deleteoperationfortwostrings/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="23" selection-start-line="2" selection-start-column="23" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0072/editdistance/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="22" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0309/besttimetobuyandsellstockwithcooldown/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="46" lean-forward="true" selection-start-line="19" selection-start-column="46" selection-end-line="19" selection-end-column="46" />
-          <folding>
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#205#206#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0494/targetsum/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0338/countingbits/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="31" column="42" lean-forward="true" selection-start-line="31" selection-start-column="42" selection-end-line="31" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0204/countprimes/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="17" selection-end-column="5" />
-          <folding>
-            <element signature="e#562#563#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0504/base7/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-          <folding>
-            <element signature="e#413#414#0" expanded="true" />
-            <element signature="e#441#442#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0405/convertanumbertohexadecimal/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="16" selection-end-column="5" />
-          <folding>
-            <element signature="e#506#507#0" expanded="true" />
-            <element signature="e#527#528#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0172/factorialtrailingzeroes/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0067/addbinary/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="6" column="49" lean-forward="true" selection-start-line="6" selection-start-column="49" selection-end-line="17" selection-end-column="19" />
-          <folding>
-            <element signature="e#662#663#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0415/addStrings/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="85">
-          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="18" selection-end-column="5" />
-          <folding>
-            <element signature="e#609#610#0" expanded="true" />
-            <element signature="e#630#631#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0650/twokeyskeyboard/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-29">
-          <caret line="21" column="32" lean-forward="true" selection-start-line="21" selection-start-column="32" selection-end-line="21" selection-end-column="32" />
-          <folding>
-            <element signature="e#989#990#0" expanded="true" />
-            <element signature="e#1051#1052#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0646/maximumlengthofpairchain/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0617/mergetwobinarytrees/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
-          <caret line="9" column="4" selection-start-line="9" selection-start-column="4" selection-end-line="9" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="8" column="47" lean-forward="true" selection-start-line="8" selection-start-column="47" selection-end-line="8" selection-end-column="47" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0462/minimummovestoequalarrayelementsii/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0572/subtreeofanothertree/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0543/diameterofbinarytree/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0437/pathsumiii/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0404/sumofleftleaves/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0328/oddevenlinkedlist/ListNode.java" />
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0328/oddevenlinkedlist/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0257/binarytreepaths/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="38" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0169/majorityelement/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="4" selection-start-line="27" selection-start-column="4" selection-end-line="39" selection-end-column="5" />
-          <folding>
-            <element signature="e#1172#1173#0" expanded="true" />
-            <element signature="e#1259#1260#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0367/validperfectsquare/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" selection-start-line="14" selection-end-line="30" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0326/powerofthree/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0628/maximumproductofthreenumbers/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="27" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0238/productofarrayexceptself/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="22" selection-start-line="13" selection-start-column="22" selection-end-line="13" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0283/movezeros/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0645/setmismatch/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="26" selection-start-line="5" selection-start-column="23" selection-end-line="26" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0448/findallnumbersdisappearedinanarray/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0442/findallduplicatesinanarray/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0017/lettercombinationsofaphonenumber/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0141/linkedlistcycle/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0142/linkedlistcycleii/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="513">
-          <caret line="27" column="36" lean-forward="true" selection-start-line="27" selection-start-column="36" selection-end-line="27" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0141/linkedlistcycle/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="7" selection-start-line="2" selection-end-line="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0142/linkedlistcycleii/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0287/findtheduplicatenumber/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="21" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0378/kthsmallestelementinasortedmatrix/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1050">
-          <caret line="59" column="1" lean-forward="true" selection-start-line="59" selection-start-column="1" selection-end-line="59" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0160/intersectionoftwolinkedlists/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="23" lean-forward="true" selection-start-line="18" selection-start-column="23" selection-end-line="29" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0206/reverselinkedlist/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="9" selection-start-line="6" selection-start-column="23" selection-end-line="16" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0240/searcha2dmatrixii/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="418">
-          <caret line="22" lean-forward="true" selection-start-line="22" selection-end-line="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0206/reverselinkedlist/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0160/intersectionoftwolinkedlists/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0021/mergetwosortedlists/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="20" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0021/mergetwosortedlists/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="10" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0083/removeduplicatesfromsortedlist/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" selection-start-line="13" selection-end-line="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0083/removeduplicatesfromsortedlist/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/aac/q0234/palindromelinkedlist/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="665">
-          <caret line="39" lean-forward="true" selection-start-line="39" selection-end-line="39" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0234/palindromelinkedlist/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
-          <caret line="6" column="23" lean-forward="true" selection-start-line="6" selection-start-column="23" selection-end-line="9" selection-end-column="32" />
+          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0328/oddevenlinkedlist/ListNode.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0226/invertbinarytree/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="5" selection-end-column="23" />
+        <state relative-caret-position="152">
+          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0328/oddevenlinkedlist/Solution.java">
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0206/reverselinkedlist/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0160/intersectionoftwolinkedlists/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0142/linkedlistcycleii/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0141/linkedlistcycle/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="95">
-          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="18" selection-end-column="5" />
+          <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0112/pathsum/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0101/symmetrictree/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0083/removeduplicatesfromsortedlist/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0021/mergetwosortedlists/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0104/maximumdepthofbinarytree/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/datastructure/TreeNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0108/convertsortedarraytobinarysearchtree/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
+          <folding>
+            <element signature="e#178#179#0" expanded="true" />
+            <element signature="e#243#244#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/datastructure/ListNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0111/minimumdepthofbinarytree/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0110/balancedbinarytree/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0671/secondminimumnodeinabinarytree/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0235/lowestcommonancesterofabinarysearchtree/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0236/lowestcommonancestorofabinarytree/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="13" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0687/longestunivaluepath/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0337/houserobberiii/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="646">
+          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0637/averageoflevelsinbinarytree/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0513/findbottomlefttreevalue/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="34" column="7" selection-start-line="34" selection-start-column="4" selection-end-line="51" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0144/binarytreepreordertraversal/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="46" lean-forward="true" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0145/binarytreepostordertraversal/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="46" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0094/binarytreeinordertraversal/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="399">
+          <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0653/twosumivinputisabst/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="35" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0530/minimumabsolutedifferenceinbst/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="27" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0538/convertbsttogreatertree/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="29" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0501/findmodeinbinarysearchtree/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="43" selection-end-column="5" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

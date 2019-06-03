@@ -1,5 +1,7 @@
 package com.aac.q0141.linkedlistcycle;
 
+import com.aac.datastructure.ListNode;
+
 public class Solution {
     public boolean hasCycle(ListNode head) {
         if(head == null)

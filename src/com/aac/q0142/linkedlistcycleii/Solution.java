@@ -4,6 +4,8 @@ package com.aac.q0142.linkedlistcycleii;
  * Created by He at 20:33 2019/5/15
  */
 
+import com.aac.datastructure.ListNode;
+
 /**
  * Definition for singly-linked list.
  * class ListNode {

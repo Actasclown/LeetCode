@@ -1,5 +1,7 @@
 package com.aac.q0083.removeduplicatesfromsortedlist;
 
+import com.aac.datastructure.ListNode;
+
 /**
  * Created by He at 23:12 2019/5/19
  */

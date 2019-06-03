@@ -4,6 +4,8 @@ package com.aac.q0160.intersectionoftwolinkedlists;
  * Created by He at 19:44 2019/5/19
  */
 
+import com.aac.datastructure.ListNode;
+
 /**
  * Definition for singly-linked list.
  * public class ListNode {

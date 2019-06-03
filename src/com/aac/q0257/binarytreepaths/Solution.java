@@ -1,5 +1,7 @@
 package com.aac.q0257.binarytreepaths;
 
+import com.aac.datastructure.TreeNode;
+
 import java.util.ArrayList;
 import java.util.List;
 

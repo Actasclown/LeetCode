@@ -1,5 +1,7 @@
 package com.aac.q0206.reverselinkedlist;
 
+import com.aac.datastructure.ListNode;
+
 /**
  * Created by He at 22:42 2019/5/19
  */

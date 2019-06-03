@@ -1,5 +1,7 @@
 package com.aac.q0234.palindromelinkedlist;
 
+import com.aac.datastructure.ListNode;
+
 /**
  * Created by He at 19:57 2019/5/20
  */

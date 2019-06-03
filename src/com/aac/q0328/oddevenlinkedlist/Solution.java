@@ -1,5 +1,7 @@
 package com.aac.q0328.oddevenlinkedlist;
 
+import com.aac.datastructure.ListNode;
+
 /**
  * Created by He at 21:05 2019/5/21
  */
