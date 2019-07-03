@@ -4,11 +4,9 @@
     <bookmark url="file://$PROJECT_DIR$/src/com/aac/q0605/canplaceflowers/Solution.java" line="4" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Refactored ListNode.java and TreeNode.java.&#10;Problems related to tree including q0094, q0101, q0104, q0108, q0110, q0111, q0112, q0144, q0145, q0226, q0235, q0236, q0257, q0337, q0404, q0437, q0501, q0513, q0530, q0538, q0543, q0572, q0617, q0637, q0653, q0669, q0671, q0687.">
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0208/implementtrieprefixtree/Trie.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0230/kthsmallestelementinabst/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0677/mapsumpairs/MapSum.java" afterDir="false" />
+    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Supplementary problems related to tree including q0208, q0230, q0677.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/q0677/mapsumpairs/MapSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/q0677/mapsumpairs/MapSum.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -59,8 +57,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/aac/q0677/mapsumpairs/MapSum.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="392">
-              <caret line="47" column="67" lean-forward="true" selection-start-line="47" selection-start-column="67" selection-end-line="47" selection-end-column="67" />
+            <state relative-caret-position="-596">
+              <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -172,13 +170,6 @@
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="aac" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="aac" type="462c0819:PsiDirectoryNode" />
-              <item name="mapsumpairs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -513,7 +504,7 @@
       <workItem from="1559361148865" duration="24245000" />
       <workItem from="1559539189313" duration="5303000" />
       <workItem from="1561812789945" duration="5467000" />
-      <workItem from="1561888947249" duration="20867000" />
+      <workItem from="1561888947249" duration="21689000" />
     </task>
     <task id="LOCAL-00001" summary="idea default changes.">
       <created>1548999425407</created>
@@ -620,11 +611,18 @@
       <option name="project" value="LOCAL" />
       <updated>1559551798283</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="Supplementary problems related to tree including q0208, q0230, q0677.">
+      <created>1562163360759</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1562163360759</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="472744000" />
+    <option name="totallyTimeSpent" value="473566000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -639,7 +637,7 @@
     <frame x="0" y="0" width="1536" height="864" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36997318" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.36997318" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Nl-Palette" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -649,7 +647,7 @@
       <window_info id="Capture Tool" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32996207" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49865952" visible="true" weight="0.24905184" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49865952" visible="true" weight="0.24905184" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39949432" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -736,7 +734,8 @@
     <MESSAGE value="Problems related to arrays and matrices including q0283, qo645, q0448, q0442, q0287, q0240, q0378." />
     <MESSAGE value="Problems related to linked list including q0160, q0206, q0021, q0083, q0234, q0328." />
     <MESSAGE value="Refactored ListNode.java and TreeNode.java.&#10;Problems related to tree including q0094, q0101, q0104, q0108, q0110, q0111, q0112, q0144, q0145, q0226, q0235, q0236, q0257, q0337, q0404, q0437, q0501, q0513, q0530, q0538, q0543, q0572, q0617, q0637, q0653, q0669, q0671, q0687." />
-    <option name="LAST_COMMIT_MESSAGE" value="Refactored ListNode.java and TreeNode.java.&#10;Problems related to tree including q0094, q0101, q0104, q0108, q0110, q0111, q0112, q0144, q0145, q0226, q0235, q0236, q0257, q0337, q0404, q0437, q0501, q0513, q0530, q0538, q0543, q0572, q0617, q0637, q0653, q0669, q0671, q0687." />
+    <MESSAGE value="Supplementary problems related to tree including q0208, q0230, q0677." />
+    <option name="LAST_COMMIT_MESSAGE" value="Supplementary problems related to tree including q0208, q0230, q0677." />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/aac/q0101/symmetrictree/TreeNode.java" />
@@ -1062,8 +1061,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/aac/q0677/mapsumpairs/MapSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="392">
-          <caret line="47" column="67" lean-forward="true" selection-start-line="47" selection-start-column="67" selection-end-line="47" selection-end-column="67" />
+        <state relative-caret-position="-596">
+          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

@@ -1,7 +1,5 @@
 package com.aac.q0677.mapsumpairs;
 
-import javafx.util.Pair;
-
 import java.util.Map;
 import java.util.TreeMap;
 
