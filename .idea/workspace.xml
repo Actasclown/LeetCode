@@ -4,56 +4,11 @@
     <bookmark url="file://$PROJECT_DIR$/src/com/aac/q0605/canplaceflowers/Solution.java" line="4" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Problems related to linked list including q0160, q0206, q0021, q0083, q0234, q0328.">
-      <change afterPath="$PROJECT_DIR$/src/com/aac/datastructure/ListNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/datastructure/TreeNode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0094/binarytreeinordertraversal/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0101/symmetrictree/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0104/maximumdepthofbinarytree/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0108/convertsortedarraytobinarysearchtree/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0110/balancedbinarytree/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0111/minimumdepthofbinarytree/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0112/pathsum/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0144/binarytreepreordertraversal/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0145/binarytreepostordertraversal/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0226/invertbinarytree/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0235/lowestcommonancesterofabinarysearchtree/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0236/lowestcommonancestorofabinarytree/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0337/houserobberiii/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0404/sumofleftleaves/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0437/pathsumiii/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0501/findmodeinbinarysearchtree/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0530/minimumabsolutedifferenceinbst/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0538/convertbsttogreatertree/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0543/diameterofbinarytree/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0572/subtreeofanothertree/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0617/mergetwobinarytrees/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0637/averageoflevelsinbinarytree/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0653/twosumivinputisabst/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0669/trimabinarysearchtree/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0671/secondminimumnodeinabinarytree/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0687/longestunivaluepath/Solution.java" afterDir="false" />
+    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Refactored ListNode.java and TreeNode.java.&#10;Problems related to tree including q0094, q0101, q0104, q0108, q0110, q0111, q0112, q0144, q0145, q0226, q0235, q0236, q0257, q0337, q0404, q0437, q0501, q0513, q0530, q0538, q0543, q0572, q0617, q0637, q0653, q0669, q0671, q0687.">
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0208/implementtrieprefixtree/Trie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0230/kthsmallestelementinabst/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0677/mapsumpairs/MapSum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/q0021/mergetwosortedlists/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/q0021/mergetwosortedlists/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/q0021/mergetwosortedlists/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/q0083/removeduplicatesfromsortedlist/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/q0083/removeduplicatesfromsortedlist/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/q0083/removeduplicatesfromsortedlist/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/q0141/linkedlistcycle/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/q0141/linkedlistcycle/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/q0141/linkedlistcycle/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/q0142/linkedlistcycleii/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/q0142/linkedlistcycleii/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/q0142/linkedlistcycleii/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/q0160/intersectionoftwolinkedlists/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/q0160/intersectionoftwolinkedlists/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/q0160/intersectionoftwolinkedlists/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/q0206/reverselinkedlist/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/q0206/reverselinkedlist/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/q0206/reverselinkedlist/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/q0234/palindromelinkedlist/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/q0234/palindromelinkedlist/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/q0234/palindromelinkedlist/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/q0257/binarytreepaths/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/q0257/binarytreepaths/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/q0257/binarytreepaths/TreeNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/q0328/oddevenlinkedlist/ListNode.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/q0328/oddevenlinkedlist/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/q0328/oddevenlinkedlist/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/q0513/findbottomlefttreevalue/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/q0513/findbottomlefttreevalue/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/q0513/findbottomlefttreevalue/TreeNode.java" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -89,11 +44,23 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/aac/q0501/findmodeinbinarysearchtree/Solution.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/aac/q0208/implementtrieprefixtree/Trie.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="76">
-              <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="43" selection-end-column="5" />
+            <state relative-caret-position="551">
+              <caret line="56" column="1" lean-forward="true" selection-start-line="8" selection-end-line="56" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/aac/q0677/mapsumpairs/MapSum.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="392">
+              <caret line="47" column="67" lean-forward="true" selection-start-line="47" selection-start-column="67" selection-end-line="47" selection-end-column="67" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -123,9 +90,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/com/aac/q0112/pathsum/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0437/pathsumiii/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0101/symmetrictree/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/com/aac/q0110/balancedbinarytree/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/com/aac/q0111/minimumdepthofbinarytree/TreeNode.java" />
         <option value="$PROJECT_DIR$/src/com/aac/q0404/sumofleftleaves/TreeNode.java" />
@@ -174,10 +138,13 @@
         <option value="$PROJECT_DIR$/src/com/aac/q0530/minimumabsolutedifferenceinbst/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/aac/q0538/convertbsttogreatertree/Solution.java" />
         <option value="$PROJECT_DIR$/src/com/aac/q0501/findmodeinbinarysearchtree/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0230/kthsmallestelementinabst/Solution.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0208/implementtrieprefixtree/Trie.java" />
+        <option value="$PROJECT_DIR$/src/com/aac/q0677/mapsumpairs/MapSum.java" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" fullScreen="true">
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
     <option name="width" value="1920" />
     <option name="height" value="1080" />
   </component>
@@ -187,7 +154,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
@@ -212,12 +178,13 @@
               <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="aac" type="462c0819:PsiDirectoryNode" />
-              <item name="findmodeinbinarysearchtree" type="462c0819:PsiDirectoryNode" />
+              <item name="mapsumpairs" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -242,9 +209,23 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Solution (4)">
+  <component name="RunManager" selected="Application.MapSum">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aac.q0677.mapsumpairs.MapSum" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aac.q0677.mapsumpairs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -298,20 +279,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.aac.q0538.convertbsttogreatertree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aac.q0238.productofarrayexceptself.Solution" />
-      <module name="LeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.aac.q0238.productofarrayexceptself.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -487,11 +454,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MapSum" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -544,7 +511,9 @@
       <workItem from="1559109916371" duration="6805000" />
       <workItem from="1559187960259" duration="6133000" />
       <workItem from="1559361148865" duration="24245000" />
-      <workItem from="1559539189313" duration="2290000" />
+      <workItem from="1559539189313" duration="5303000" />
+      <workItem from="1561812789945" duration="5467000" />
+      <workItem from="1561888947249" duration="20867000" />
     </task>
     <task id="LOCAL-00001" summary="idea default changes.">
       <created>1548999425407</created>
@@ -644,11 +613,18 @@
       <option name="project" value="LOCAL" />
       <updated>1558448789267</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Refactored ListNode.java and TreeNode.java.&#10;Problems related to tree including q0094, q0101, q0104, q0108, q0110, q0111, q0112, q0144, q0145, q0226, q0235, q0236, q0257, q0337, q0404, q0437, q0501, q0513, q0530, q0538, q0543, q0572, q0617, q0637, q0653, q0669, q0671, q0687.">
+      <created>1559551798283</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1559551798283</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="443397000" />
+    <option name="totallyTimeSpent" value="472744000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -660,10 +636,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1536" height="864" extended-state="0" />
+    <frame x="0" y="0" width="1536" height="864" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.35656837" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.36997318" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Nl-Palette" order="2" />
       <window_info id="Favorites" order="3" side_tool="true" />
@@ -673,7 +649,7 @@
       <window_info id="Capture Tool" order="7" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32996207" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49865952" visible="true" weight="0.36409608" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49865952" visible="true" weight="0.24905184" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39949432" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -759,12 +735,10 @@
     <MESSAGE value="Problems solved using stack and queue including q0232, q0225, q0155, q0020, q0739, q0496, q0503.&#10;Problems solved using hashtable including q0535, q0001, q0594.&#10;Problems related to string including q0242, q0205, q0409, q0009, q0647, q0696." />
     <MESSAGE value="Problems related to arrays and matrices including q0283, qo645, q0448, q0442, q0287, q0240, q0378." />
     <MESSAGE value="Problems related to linked list including q0160, q0206, q0021, q0083, q0234, q0328." />
-    <option name="LAST_COMMIT_MESSAGE" value="Problems related to linked list including q0160, q0206, q0021, q0083, q0234, q0328." />
+    <MESSAGE value="Refactored ListNode.java and TreeNode.java.&#10;Problems related to tree including q0094, q0101, q0104, q0108, q0110, q0111, q0112, q0144, q0145, q0226, q0235, q0236, q0257, q0337, q0404, q0437, q0501, q0513, q0530, q0538, q0543, q0572, q0617, q0637, q0653, q0669, q0671, q0687." />
+    <option name="LAST_COMMIT_MESSAGE" value="Refactored ListNode.java and TreeNode.java.&#10;Problems related to tree including q0094, q0101, q0104, q0108, q0110, q0111, q0112, q0144, q0145, q0226, q0235, q0236, q0257, q0337, q0404, q0437, q0501, q0513, q0530, q0538, q0543, q0572, q0617, q0637, q0653, q0669, q0671, q0687." />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0112/pathsum/TreeNode.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0437/pathsumiii/TreeNode.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0226/invertbinarytree/TreeNode.java" />
     <entry file="file://$PROJECT_DIR$/src/com/aac/q0101/symmetrictree/TreeNode.java" />
     <entry file="file://$PROJECT_DIR$/src/com/aac/q0110/balancedbinarytree/TreeNode.java" />
     <entry file="file://$PROJECT_DIR$/src/com/aac/q0111/minimumdepthofbinarytree/TreeNode.java" />
@@ -1058,8 +1032,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/aac/q0501/findmodeinbinarysearchtree/Solution.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="10" column="23" lean-forward="true" selection-start-line="10" selection-start-column="23" selection-end-line="43" selection-end-column="5" />
+        <state relative-caret-position="551">
+          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0230/kthsmallestelementinabst/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="456">
+          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0208/implementtrieprefixtree/Trie.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="56" column="1" lean-forward="true" selection-start-line="8" selection-end-line="56" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/aac/q0677/mapsumpairs/MapSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="392">
+          <caret line="47" column="67" lean-forward="true" selection-start-line="47" selection-start-column="67" selection-end-line="47" selection-end-column="67" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
