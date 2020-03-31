@@ -1,13 +1,20 @@
 package com.aac.q0452.minimumnumberofarrowstoburstballons;
 
 import java.util.Arrays;
+import java.util.Comparator;
 
 public class Solution {
     public int findMinArrowShots(int[][] points) {
         int len = points.length;
         if(len == 0)
             return 0;
-        Arrays.sort(points, (a, b) -> (a[1] - b[1]));
+        //Arrays.sort(points, (a, b) -> (a[1] - b[1]));
+        Arrays.sort(points, new Comparator<int[]>() {
+            @Override
+            public int compare(int[] o1, int[] o2) {
+                return o1[1] - o2[1];
+            }
+        });
         int arrow = points[0][1];
         int arrowNum = 1;
         for(int i = 1; i < len; ++i) {

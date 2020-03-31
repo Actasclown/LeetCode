@@ -1,23 +1,34 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="BookmarkManager">
-    <bookmark url="file://$PROJECT_DIR$/src/com/aac/q0605/canplaceflowers/Solution.java" line="4" />
-  </component>
   <component name="ChangeListManager">
-    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Supplementary problems related to tree including q0208, q0230, q0677.">
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0136/singlenumber/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0190/reversebits/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0231/poweroftwo/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0260/singlenumberiii/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0318/maximumproductofwordlengths/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0342/poweroffour/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0371/sumoftwointegers/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0389/findthedifference/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0693/binarynumberwithalternatingbits/Solution.java" afterDir="false" />
+    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Problems related to bit operation including q0461, q0190, q0342, q0231, q0136, q0260, q0693, q0476, q0371, q0318.">
+      <change afterPath="$PROJECT_DIR$/src/com/aac/datastructure/IntegerMountainArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/datastructure/MountainArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/datastructure/NestedInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0102/binarytreelevelordertraversal/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0113/pathsumii/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0191/numberof1bits/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0219/containsduplicateii/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0304/rangesumquery2dimmutable/NumMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0334/increasingtripetsubsequence/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0341/flattennestedlistiterator/NestedIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0341/flattennestedlistiterator/testInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0821/shortestdistancetoacharacter/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0895/maximumfrequencystack/FreqStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0965/univaluedbinarytree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1095/findinmountainarray/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1171/removezerosumconsecutivenodesfromlinkedlist/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1221/splitastringinbalancedstrings/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1253/reconstructa2rowbinarymatrix/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1293/shortestpathinagridwithobstacleselimination/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/datastructure/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/datastructure/ListNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/q0069/sqrtx/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/q0069/sqrtx/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/q0205/isomorphicstrings/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/q0205/isomorphicstrings/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/q0452/minimumnumberofarrowstoburstballons/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/q0452/minimumnumberofarrowstoburstballons/Solution.java" afterDir="false" />
     </list>
-    <ignored path="$PROJECT_DIR$/out/" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,258 +59,51 @@
   <component name="DefaultGradleProjectSettings">
     <option name="isMigrated" value="true" />
   </component>
-  <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/aac/q0190/reversebits/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="20" selection-start-line="7" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/aac/q0342/poweroffour/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="8" selection-end-column="5" />
-              <folding>
-                <element signature="e#138#139#0" expanded="true" />
-                <element signature="e#221#222#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/aac/q0231/poweroftwo/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="8" selection-end-column="5" />
-              <folding>
-                <element signature="e#141#142#0" expanded="true" />
-                <element signature="e#191#192#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/aac/q0136/singlenumber/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="12" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/aac/q0389/findthedifference/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/aac/q0260/singlenumberiii/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="209">
-              <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/aac/q0693/binarynumberwithalternatingbits/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="9" selection-end-column="5" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/aac/q0476/numbercomplement/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/aac/q0371/sumoftwointegers/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="133">
-              <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-              <folding>
-                <element signature="e#144#145#0" expanded="true" />
-                <element signature="e#187#188#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/aac/q0318/maximumproductofwordlengths/Solution.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="266">
-              <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Singleton" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
   </component>
-  <component name="FindInProjectRecents">
-    <dirStrings>
-      <dir>F:\IdeaProjects\Leetcode\src\com\</dir>
-      <dir>F:\IdeaProjects\Leetcode\src\com\aac\q0241\differentwaystoaddparentheses</dir>
-    </dirStrings>
-  </component>
   <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="IdeDocumentHistory">
-    <option name="CHANGED_PATHS">
-      <list>
-        <option value="$PROJECT_DIR$/src/com/aac/q0617/mergetwobinarytrees/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0572/subtreeofanothertree/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0543/diameterofbinarytree/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0513/findbottomlefttreevalue/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0437/pathsumiii/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0404/sumofleftleaves/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0328/oddevenlinkedlist/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0257/binarytreepaths/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0234/palindromelinkedlist/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0226/invertbinarytree/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0206/reverselinkedlist/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0160/intersectionoftwolinkedlists/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0142/linkedlistcycleii/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0141/linkedlistcycle/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0112/pathsum/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0111/minimumdepthofbinarytree/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0110/balancedbinarytree/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0108/convertsortedarraytobinarysearchtree/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0104/maximumdepthofbinarytree/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0101/symmetrictree/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0083/removeduplicatesfromsortedlist/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0021/mergetwosortedlists/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/datastructure/ListNode.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/datastructure/TreeNode.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0671/secondminimumnodeinabinarytree/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0235/lowestcommonancesterofabinarysearchtree/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0236/lowestcommonancestorofabinarytree/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0687/longestunivaluePath.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0687/longestunivaluepath/longestunivaluePath.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0687/longestunivaluepath/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0337/houserobberiii/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0637/averageoflevelsinbinarytree/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0144/binarytreepreordertraversal/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0145/binarytreepostordertraversal/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0094/binarytreeinordertraversal/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0653/twosumivinputisabst/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0530/minimumabsolutedifferenceinbst/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0538/convertbsttogreatertree/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0501/findmodeinbinarysearchtree/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0230/kthsmallestelementinabst/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0208/implementtrieprefixtree/Trie.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0677/mapsumpairs/MapSum.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0190/reversebits/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0342/poweroffour/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0231/poweroftwo/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0136/singlenumber/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0389/findthedifference/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0260/singlenumberiii/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0693/binarynumberwithalternatingbits/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0371/sumoftwointegers/Solution.java" />
-        <option value="$PROJECT_DIR$/src/com/aac/q0318/maximumproductofwordlengths/Solution.java" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
-    <option name="width" value="1920" />
-    <option name="height" value="1080" />
-  </component>
-  <component name="ProjectView">
-    <navigator proportions="" version="1">
-      <hideEmptyPackages ProjectPane="false" />
-      <foldersAlwaysOnTop value="true" />
-    </navigator>
-    <panes>
-      <pane id="PackagesPane" />
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="LeetCode" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeetCode" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="aac" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+  <component name="ProjectId" id="1RyP1AMucS02Zc1R4rmynujhvwO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553693507544" />
+    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/TeX Template.tex" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
-  </component>
-  <component name="RunManager" selected="Application.MapSum">
+  <component name="RunManager" selected="Application.Solution (3)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MapSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aac.q0677.mapsumpairs.MapSum" />
+    <configuration name="NestedIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aac.q0341.flattennestedlistiterator.NestedIterator" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aac.q0677.mapsumpairs.*" />
+          <option name="PATTERN" value="com.aac.q0341.flattennestedlistiterator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -308,12 +112,12 @@
       </method>
     </configuration>
     <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aac.q0645.setmismatch.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.aac.q1293.shortestpathinagridwithobstacleselimination.Solution" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aac.q0645.setmismatch.*" />
+          <option name="PATTERN" value="com.aac.q1293.shortestpathinagridwithobstacleselimination.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -322,12 +126,12 @@
       </method>
     </configuration>
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aac.q0287.findtheduplicatenumber.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.aac.q0965.univaluedbinarytree.Solution" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aac.q0287.findtheduplicatenumber.*" />
+          <option name="PATTERN" value="com.aac.q0965.univaluedbinarytree.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -336,12 +140,12 @@
       </method>
     </configuration>
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aac.q0234.palindromelinkedlist.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.aac.q0113.pathsumii.Solution" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aac.q0234.palindromelinkedlist.*" />
+          <option name="PATTERN" value="com.aac.q0113.pathsumii.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -349,13 +153,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aac.q0538.convertbsttogreatertree.Solution" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aac.q0205.isomorphicstrings.Solution" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aac.q0538.convertbsttogreatertree.*" />
+          <option name="PATTERN" value="com.aac.q0205.isomorphicstrings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -456,6 +260,7 @@
       <setting name="vmparams" value="" />
       <setting name="cmdLine" value="run-app" />
       <setting name="passParentEnv" value="true" />
+      <setting name="grailsApplicationRoot" value="" />
       <setting name="launchBrowser" value="true" />
       <setting name="launchBrowserUrl" value="" />
       <setting name="depsClasspath" value="false" />
@@ -531,13 +336,25 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.MapSum" />
-        <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.NestedIterator" />
         <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -591,7 +408,46 @@
       <workItem from="1559539189313" duration="5303000" />
       <workItem from="1561812789945" duration="5467000" />
       <workItem from="1561888947249" duration="27032000" />
-      <workItem from="1562315077749" duration="5511000" />
+      <workItem from="1562315077749" duration="6226000" />
+      <workItem from="1562489787816" duration="8574000" />
+      <workItem from="1562932090702" duration="2443000" />
+      <workItem from="1562936258805" duration="21000" />
+      <workItem from="1562940423123" duration="8000" />
+      <workItem from="1563069594576" duration="10000" />
+      <workItem from="1563087662071" duration="74000" />
+      <workItem from="1568767567291" duration="615000" />
+      <workItem from="1569339309634" duration="24000" />
+      <workItem from="1569339385132" duration="610000" />
+      <workItem from="1569456468680" duration="8000" />
+      <workItem from="1569715062819" duration="257000" />
+      <workItem from="1569715342820" duration="80000" />
+      <workItem from="1570635854660" duration="245000" />
+      <workItem from="1570636149078" duration="72000" />
+      <workItem from="1570636238692" duration="607000" />
+      <workItem from="1570669461259" duration="6000" />
+      <workItem from="1570680894318" duration="464000" />
+      <workItem from="1570684855229" duration="903000" />
+      <workItem from="1575757603409" duration="78000" />
+      <workItem from="1575757862746" duration="92000" />
+      <workItem from="1575757965008" duration="6986000" />
+      <workItem from="1577396059288" duration="5034000" />
+      <workItem from="1578434026168" duration="531000" />
+      <workItem from="1578435033797" duration="7378000" />
+      <workItem from="1578705862739" duration="6072000" />
+      <workItem from="1580248413794" duration="2635000" />
+      <workItem from="1580328876393" duration="321000" />
+      <workItem from="1580329793055" duration="52000" />
+      <workItem from="1580331210109" duration="23000" />
+      <workItem from="1580533842494" duration="605000" />
+      <workItem from="1580540272844" duration="1219000" />
+      <workItem from="1580624927916" duration="800000" />
+      <workItem from="1581107923216" duration="667000" />
+      <workItem from="1582171711231" duration="6588000" />
+      <workItem from="1582232154712" duration="1634000" />
+      <workItem from="1583609227894" duration="2018000" />
+      <workItem from="1583892716704" duration="1680000" />
+      <workItem from="1584400854468" duration="511000" />
+      <workItem from="1585369877833" duration="36273000" />
     </task>
     <task id="LOCAL-00001" summary="idea default changes.">
       <created>1548999425407</created>
@@ -712,11 +568,15 @@
       <option name="project" value="LOCAL" />
       <updated>1562163873236</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Problems related to bit operation including q0461, q0190, q0342, q0231, q0136, q0260, q0693, q0476, q0371, q0318.">
+      <created>1562335789462</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1562335789462</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
-  </component>
-  <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="484420000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -726,78 +586,6 @@
       <are-packages-shown value="true" />
       <is-autoscroll-to-source value="true" />
     </todo-panel>
-  </component>
-  <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1536" height="864" extended-state="6" />
-    <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.37533513" />
-      <window_info id="Structure" order="1" weight="0.25" />
-      <window_info id="Nl-Palette" order="2" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info id="Image Layers" order="4" />
-      <window_info id="Designer" order="5" />
-      <window_info id="UI Designer" order="6" />
-      <window_info id="Capture Tool" order="7" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32996207" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49865952" weight="0.24905184" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.39949432" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" weight="0.32996207" />
-      <window_info anchor="bottom" id="Terminal" order="7" weight="0.32996207" />
-      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.5013405" side_tool="true" weight="0.3249052" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32996207" />
-      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32996207" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Properties" order="6" />
-      <window_info anchor="right" id="Database" order="7" weight="0.3297587" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Maven Projects" order="9" />
-      <window_info anchor="right" id="Maven" order="10" />
-      <window_info anchor="right" id="Coverage" order="11" side_tool="true" weight="0.3297587" />
-    </layout>
-    <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.23257373" />
-      <window_info id="Structure" order="1" weight="0.25" />
-      <window_info id="Nl-Palette" order="2" />
-      <window_info id="Favorites" order="3" side_tool="true" />
-      <window_info id="Image Layers" order="4" />
-      <window_info id="Designer" order="5" />
-      <window_info id="UI Designer" order="6" />
-      <window_info id="Capture Tool" order="7" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.32237673" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="Terminal" order="7" />
-      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" weight="0.32996207" />
-      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32996207" />
-      <window_info anchor="bottom" id="Docker" order="10" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" order="11" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.32996207" />
-      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
-      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
-      <window_info anchor="right" id="Palette" order="3" />
-      <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info anchor="right" id="Properties" order="6" />
-      <window_info anchor="right" id="Database" order="7" />
-      <window_info anchor="right" id="Palette&#9;" order="8" />
-      <window_info anchor="right" id="Maven Projects" order="9" />
-      <window_info anchor="right" id="Maven" order="10" />
-    </layout-to-restore>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
@@ -810,6 +598,19 @@
         <option value="3" />
         <option value="1" />
       </list>
+    </option>
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
@@ -828,405 +629,85 @@
     <MESSAGE value="Problems related to linked list including q0160, q0206, q0021, q0083, q0234, q0328." />
     <MESSAGE value="Refactored ListNode.java and TreeNode.java.&#10;Problems related to tree including q0094, q0101, q0104, q0108, q0110, q0111, q0112, q0144, q0145, q0226, q0235, q0236, q0257, q0337, q0404, q0437, q0501, q0513, q0530, q0538, q0543, q0572, q0617, q0637, q0653, q0669, q0671, q0687." />
     <MESSAGE value="Supplementary problems related to tree including q0208, q0230, q0677." />
-    <option name="LAST_COMMIT_MESSAGE" value="Supplementary problems related to tree including q0208, q0230, q0677." />
+    <MESSAGE value="Problems related to bit operation including q0461, q0190, q0342, q0231, q0136, q0260, q0693, q0476, q0371, q0318." />
+    <option name="LAST_COMMIT_MESSAGE" value="Problems related to bit operation including q0461, q0190, q0342, q0231, q0136, q0260, q0693, q0476, q0371, q0318." />
   </component>
-  <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0572/subtreeofanothertree/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="34" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0543/diameterofbinarytree/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="41" selection-start-line="9" selection-start-column="41" selection-end-line="9" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0437/pathsumiii/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0404/sumofleftleaves/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="37" lean-forward="true" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0328/oddevenlinkedlist/ListNode.java" />
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0328/oddevenlinkedlist/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="11" lean-forward="true" selection-start-line="11" selection-start-column="11" selection-end-line="11" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0257/binarytreepaths/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="8" column="42" selection-start-line="8" selection-start-column="42" selection-end-line="8" selection-end-column="42" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0234/palindromelinkedlist/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="114">
-          <caret line="8" column="37" selection-start-line="8" selection-start-column="37" selection-end-line="8" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0226/invertbinarytree/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="16" lean-forward="true" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0206/reverselinkedlist/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="37" selection-start-line="9" selection-start-column="37" selection-end-line="9" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0160/intersectionoftwolinkedlists/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="18" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0142/linkedlistcycleii/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="21" column="16" lean-forward="true" selection-start-line="21" selection-start-column="16" selection-end-line="21" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0141/linkedlistcycle/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="32" lean-forward="true" selection-start-line="5" selection-start-column="32" selection-end-line="5" selection-end-column="32" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0112/pathsum/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="36" selection-start-line="9" selection-start-column="36" selection-end-line="9" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0101/symmetrictree/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="35" selection-start-line="9" selection-start-column="35" selection-end-line="9" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0083/removeduplicatesfromsortedlist/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="16" selection-start-line="8" selection-start-column="16" selection-end-line="8" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0021/mergetwosortedlists/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0104/maximumdepthofbinarytree/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="228">
-          <caret line="12" column="40" selection-start-line="12" selection-start-column="40" selection-end-line="12" selection-end-column="40" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/datastructure/TreeNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="1" lean-forward="true" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0108/convertsortedarraytobinarysearchtree/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="15" selection-start-line="8" selection-start-column="15" selection-end-line="8" selection-end-column="15" />
-          <folding>
-            <element signature="e#178#179#0" expanded="true" />
-            <element signature="e#243#244#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/datastructure/ListNode.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0111/minimumdepthofbinarytree/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="28" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0110/balancedbinarytree/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="8" column="34" selection-start-line="8" selection-start-column="34" selection-end-line="8" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0671/secondminimumnodeinabinarytree/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0235/lowestcommonancesterofabinarysearchtree/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0236/lowestcommonancestorofabinarytree/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0687/longestunivaluepath/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0337/houserobberiii/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="646">
-          <caret line="41" lean-forward="true" selection-start-line="41" selection-end-line="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0637/averageoflevelsinbinarytree/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="33" lean-forward="true" selection-start-line="19" selection-start-column="33" selection-end-line="19" selection-end-column="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0513/findbottomlefttreevalue/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="34" column="7" selection-start-line="34" selection-start-column="4" selection-end-line="51" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0144/binarytreepreordertraversal/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="46" lean-forward="true" selection-start-line="16" selection-start-column="46" selection-end-line="16" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0145/binarytreepostordertraversal/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="20" column="46" selection-start-line="20" selection-start-column="46" selection-end-line="20" selection-end-column="46" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0094/binarytreeinordertraversal/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="399">
-          <caret line="21" column="35" lean-forward="true" selection-start-line="21" selection-start-column="35" selection-end-line="21" selection-end-column="35" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0653/twosumivinputisabst/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="23" lean-forward="true" selection-start-line="11" selection-start-column="23" selection-end-line="35" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0530/minimumabsolutedifferenceinbst/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="23" selection-start-line="9" selection-start-column="23" selection-end-line="27" selection-end-column="5" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0538/convertbsttogreatertree/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="7" column="23" lean-forward="true" selection-start-line="7" selection-start-column="23" selection-end-line="29" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0501/findmodeinbinarysearchtree/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="32" column="20" selection-start-line="32" selection-start-column="20" selection-end-line="32" selection-end-column="20" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0230/kthsmallestelementinabst/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="456">
-          <caret line="33" lean-forward="true" selection-start-line="33" selection-end-line="33" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0208/implementtrieprefixtree/Trie.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="551">
-          <caret line="56" column="1" lean-forward="true" selection-start-line="8" selection-end-line="56" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0677/mapsumpairs/MapSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0461/hammingdistance/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0190/reversebits/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="20" selection-start-line="7" selection-start-column="4" selection-end-line="15" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0342/poweroffour/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="16" selection-start-line="5" selection-start-column="16" selection-end-line="8" selection-end-column="5" />
-          <folding>
-            <element signature="e#138#139#0" expanded="true" />
-            <element signature="e#221#222#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0231/poweroftwo/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="8" selection-end-column="5" />
-          <folding>
-            <element signature="e#141#142#0" expanded="true" />
-            <element signature="e#191#192#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0136/singlenumber/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="23" selection-start-line="5" selection-start-column="23" selection-end-line="12" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0389/findthedifference/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="18" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0260/singlenumberiii/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="209">
-          <caret line="11" column="22" lean-forward="true" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0693/binarynumberwithalternatingbits/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="23" lean-forward="true" selection-start-line="5" selection-start-column="23" selection-end-line="9" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0476/numbercomplement/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0371/sumoftwointegers/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="7" column="29" lean-forward="true" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
-          <folding>
-            <element signature="e#144#145#0" expanded="true" />
-            <element signature="e#187#188#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/aac/q0318/maximumproductofwordlengths/Solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="266">
-          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
+  <component name="WindowStateProjectService">
+    <state x="574" y="141" key="#com.intellij.ide.util.MemberChooser" timestamp="1585541700388">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1585541700388" />
+    <state width="1493" height="224" key="GridCell.Tab.0.bottom" timestamp="1585608469468">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="224" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585608469468" />
+    <state width="1493" height="224" key="GridCell.Tab.0.center" timestamp="1585608469468">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="224" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1585608469468" />
+    <state width="1493" height="224" key="GridCell.Tab.0.left" timestamp="1585608469468">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="224" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1585608469468" />
+    <state width="1493" height="224" key="GridCell.Tab.0.right" timestamp="1585608469468">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="224" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1585608469468" />
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1585440678794">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585440678794" />
+    <state width="1493" height="277" key="GridCell.Tab.1.center" timestamp="1585440678794">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1585440678794" />
+    <state width="1493" height="277" key="GridCell.Tab.1.left" timestamp="1585440678794">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1585440678794" />
+    <state width="1493" height="277" key="GridCell.Tab.1.right" timestamp="1585440678794">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1585440678794" />
+    <state x="270" y="74" key="SettingsEditor" timestamp="1580329841613">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="270" y="74" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1580329841613" />
+    <state x="449" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1585369877531">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="449" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1585369877531" />
+    <state x="562" y="349" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578454722006">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="562" y="349" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1578454722006" />
+    <state x="445" y="278" width="715" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1580329190993">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="445" y="278" width="715" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.864@0.0.1536.864" timestamp="1580329190993" />
+    <state x="425" y="197" key="run.anything.popup" timestamp="1585544877205">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1585544877205" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1585613494996">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1585613494996" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
   </component>
 </project>

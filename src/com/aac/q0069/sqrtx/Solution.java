@@ -16,9 +16,9 @@ public class Solution {
     }
 
     public int mySqrt(int x) {
-        if (x <= 1)
+        if (x == 0)
             return x;
-        int l = 2, h = x;
+        int l = 1, h = x;
         while (l <= h) {
             int mid = l + (h - l) / 2;
             int sqrt = x / mid;
