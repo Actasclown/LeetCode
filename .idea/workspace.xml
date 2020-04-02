@@ -1,33 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Problems related to bit operation including q0461, q0190, q0342, q0231, q0136, q0260, q0693, q0476, q0371, q0318.">
-      <change afterPath="$PROJECT_DIR$/src/com/aac/datastructure/IntegerMountainArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/datastructure/MountainArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/datastructure/NestedInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0102/binarytreelevelordertraversal/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0113/pathsumii/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0191/numberof1bits/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0219/containsduplicateii/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0304/rangesumquery2dimmutable/NumMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0334/increasingtripetsubsequence/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0341/flattennestedlistiterator/NestedIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0341/flattennestedlistiterator/testInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0821/shortestdistancetoacharacter/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0895/maximumfrequencystack/FreqStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0965/univaluedbinarytree/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1095/findinmountainarray/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1171/removezerosumconsecutivenodesfromlinkedlist/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1221/splitastringinbalancedstrings/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1253/reconstructa2rowbinarymatrix/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1293/shortestpathinagridwithobstacleselimination/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="~2020/03/30 random practices.">
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0192/wordfrequency/Solution.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0192/wordfrequency/words.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0202/happynumber/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0623/addonerowtotree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1089/duplicatezeros/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1114/printinorder/Foo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1115/printfoobaralternately/FooBar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1116/printzeroevenodd/ZeroEvenOdd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1117/buildingh2o/H2O.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1195/fizzbuzzmultithreaded/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1226/thediningphilosophers/DiningPhilosophers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1362/closestdivisors/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/datastructure/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/datastructure/ListNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/q0069/sqrtx/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/q0069/sqrtx/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/q0205/isomorphicstrings/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/q0205/isomorphicstrings/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/q0452/minimumnumberofarrowstoburstballons/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/q0452/minimumnumberofarrowstoburstballons/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,20 +77,20 @@
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
   </component>
-  <component name="RunManager" selected="Application.Solution (3)">
+  <component name="RunManager" selected="Application.Solution">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NestedIterator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aac.q0341.flattennestedlistiterator.NestedIterator" />
+    <configuration name="Foo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aac.q1114.printinorder.Foo" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aac.q0341.flattennestedlistiterator.*" />
+          <option name="PATTERN" value="com.aac.q1114.printinorder.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,27 +98,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aac.q1293.shortestpathinagridwithobstacleselimination.Solution" />
+    <configuration name="FooBar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aac.q1115.printfoobaralternately.FooBar" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aac.q1293.shortestpathinagridwithobstacleselimination.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aac.q0965.univaluedbinarytree.Solution" />
-      <module name="LeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.aac.q0965.univaluedbinarytree.*" />
+          <option name="PATTERN" value="com.aac.q1115.printfoobaralternately.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,12 +127,26 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aac.q0205.isomorphicstrings.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.aac.q1089.duplicatezeros.Solution" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aac.q0205.isomorphicstrings.*" />
+          <option name="PATTERN" value="com.aac.q1089.duplicatezeros.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZeroEvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aac.q1116.printzeroevenodd.ZeroEvenOdd" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aac.q1116.printzeroevenodd.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -336,11 +323,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.NestedIterator" />
-        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Foo" />
+        <item itemvalue="Application.ZeroEvenOdd" />
+        <item itemvalue="Application.FooBar" />
+        <item itemvalue="Application.Solution (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -447,7 +434,11 @@
       <workItem from="1583609227894" duration="2018000" />
       <workItem from="1583892716704" duration="1680000" />
       <workItem from="1584400854468" duration="511000" />
-      <workItem from="1585369877833" duration="36273000" />
+      <workItem from="1585369877833" duration="48271000" />
+      <workItem from="1585697906772" duration="9764000" />
+      <workItem from="1585776609142" duration="906000" />
+      <workItem from="1585777663436" duration="15895000" />
+      <workItem from="1585846784304" duration="4688000" />
     </task>
     <task id="LOCAL-00001" summary="idea default changes.">
       <created>1548999425407</created>
@@ -575,7 +566,14 @@
       <option name="project" value="LOCAL" />
       <updated>1562335789462</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="~2020/03/30 random practices.">
+      <created>1585614608413</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1585614608413</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="TodoView">
@@ -630,53 +628,66 @@
     <MESSAGE value="Refactored ListNode.java and TreeNode.java.&#10;Problems related to tree including q0094, q0101, q0104, q0108, q0110, q0111, q0112, q0144, q0145, q0226, q0235, q0236, q0257, q0337, q0404, q0437, q0501, q0513, q0530, q0538, q0543, q0572, q0617, q0637, q0653, q0669, q0671, q0687." />
     <MESSAGE value="Supplementary problems related to tree including q0208, q0230, q0677." />
     <MESSAGE value="Problems related to bit operation including q0461, q0190, q0342, q0231, q0136, q0260, q0693, q0476, q0371, q0318." />
-    <option name="LAST_COMMIT_MESSAGE" value="Problems related to bit operation including q0461, q0190, q0342, q0231, q0136, q0260, q0693, q0476, q0371, q0318." />
+    <MESSAGE value="~2020/03/30 random practices." />
+    <option name="LAST_COMMIT_MESSAGE" value="~2020/03/30 random practices." />
   </component>
   <component name="WindowStateProjectService">
+    <state x="361" y="90" key="#Notifications" timestamp="1585721587911">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="90" key="#Notifications/0.0.1536.864@0.0.1536.864" timestamp="1585721587911" />
     <state x="574" y="141" key="#com.intellij.ide.util.MemberChooser" timestamp="1585541700388">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="574" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1585541700388" />
-    <state width="1493" height="224" key="GridCell.Tab.0.bottom" timestamp="1585608469468">
+    <state x="67" y="24" key="CommitChangelistDialog2" timestamp="1585614605432">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="224" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585608469468" />
-    <state width="1493" height="224" key="GridCell.Tab.0.center" timestamp="1585608469468">
+    <state x="67" y="24" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1585614605432" />
+    <state width="1493" height="277" key="GridCell.Tab.0.bottom" timestamp="1585866580693">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="224" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1585608469468" />
-    <state width="1493" height="224" key="GridCell.Tab.0.left" timestamp="1585608469468">
+    <state width="1493" height="277" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585866580693" />
+    <state width="1493" height="277" key="GridCell.Tab.0.center" timestamp="1585866580693">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="224" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1585608469468" />
-    <state width="1493" height="224" key="GridCell.Tab.0.right" timestamp="1585608469468">
+    <state width="1493" height="277" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1585866580693" />
+    <state width="1493" height="277" key="GridCell.Tab.0.left" timestamp="1585866580692">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="224" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1585608469468" />
-    <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1585440678794">
+    <state width="1493" height="277" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1585866580692" />
+    <state width="1493" height="277" key="GridCell.Tab.0.right" timestamp="1585866580693">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585440678794" />
-    <state width="1493" height="277" key="GridCell.Tab.1.center" timestamp="1585440678794">
+    <state width="1493" height="277" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1585866580693" />
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1585866580693">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1585440678794" />
-    <state width="1493" height="277" key="GridCell.Tab.1.left" timestamp="1585440678794">
+    <state width="1493" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585866580693" />
+    <state width="1493" height="277" key="GridCell.Tab.1.center" timestamp="1585866580693">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1585440678794" />
-    <state width="1493" height="277" key="GridCell.Tab.1.right" timestamp="1585440678794">
+    <state width="1493" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1585866580693" />
+    <state width="1493" height="277" key="GridCell.Tab.1.left" timestamp="1585866580693">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1585440678794" />
+    <state width="1493" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1585866580693" />
+    <state width="1493" height="277" key="GridCell.Tab.1.right" timestamp="1585866580693">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1585866580693" />
     <state x="270" y="74" key="SettingsEditor" timestamp="1580329841613">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="270" y="74" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1580329841613" />
-    <state x="449" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1585369877531">
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1585614623742">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="449" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1585369877531" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1585614623742" />
+    <state x="449" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1585846800450">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="449" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1585846800450" />
     <state x="562" y="349" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578454722006">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -685,14 +696,14 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="445" y="278" width="715" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.864@0.0.1536.864" timestamp="1580329190993" />
-    <state x="425" y="197" key="run.anything.popup" timestamp="1585544877205">
+    <state x="425" y="197" key="run.anything.popup" timestamp="1585786540245">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1585544877205" />
-    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1585613494996">
+    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1585786540245" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1585781627092">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1585613494996" />
+    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1585781627092" />
   </component>
   <component name="masterDetails">
     <states>
