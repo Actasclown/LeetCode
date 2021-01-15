@@ -5,40 +5,80 @@ import java.util.Stack;
 /**
  * Created by He at 21:48 2019/5/7
  */
+//public class MinStack {
+//    Stack<Integer> stack;
+//    Stack<Integer> minStack;
+//    int min;
+//
+//    /** initialize your data structure here. */
+//    public MinStack() {
+//        this.stack = new Stack<>();
+//        this.minStack = new Stack<>();
+//        min = Integer.MAX_VALUE;
+//    }
+//
+//    public void push(int x) {
+//        stack.push(x);
+//        if(x < min)
+//            min = x;
+//        minStack.push(min);
+//    }
+//
+//    public void pop() {
+//        stack.pop();
+//        minStack.pop();
+//        if(minStack.empty())
+//            min = Integer.MAX_VALUE;
+//        else
+//            min = minStack.peek();
+//    }
+//
+//    public int top() {
+//        return stack.peek();
+//    }
+//
+//    public int getMin() {
+//        return min;
+//    }
+//}
+
 public class MinStack {
-    Stack<Integer> stack;
-    Stack<Integer> minStack;
-    int min;
+
+    MinStackNode base;
+
+    class MinStackNode {
+
+        int val;
+        int min;
+        MinStackNode next;
+
+        MinStackNode (int val, int min, MinStackNode next){
+            this.val = val;
+            this.min = min;
+            this.next = next;
+        }
+
+    }
 
     /** initialize your data structure here. */
     public MinStack() {
-        this.stack = new Stack<>();
-        this.minStack = new Stack<>();
-        min = Integer.MAX_VALUE;
+
     }
 
     public void push(int x) {
-        stack.push(x);
-        if(x < min)
-            min = x;
-        minStack.push(min);
+        base = new MinStackNode(x, Math.min(x, base.min), base);
     }
 
     public void pop() {
-        stack.pop();
-        minStack.pop();
-        if(minStack.empty())
-            min = Integer.MAX_VALUE;
-        else
-            min = minStack.peek();
+        base = base.next;
     }
 
     public int top() {
-        return stack.peek();
+        return base.val;
     }
 
     public int getMin() {
-        return min;
+        return base.min;
     }
 }
 

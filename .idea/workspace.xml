@@ -1,20 +1,67 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="~2020/03/30 random practices.">
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0192/wordfrequency/Solution.sh" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0192/wordfrequency/words.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0202/happynumber/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0623/addonerowtotree/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1089/duplicatezeros/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1114/printinorder/Foo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1115/printfoobaralternately/FooBar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1116/printzeroevenodd/ZeroEvenOdd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1117/buildingh2o/H2O.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1195/fizzbuzzmultithreaded/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1226/thediningphilosophers/DiningPhilosophers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1362/closestdivisors/Solution.java" afterDir="false" />
+    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Practices mainly about concurrency.">
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0002/addtwonumbers/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0003/longestsubstringwithoutrepeatingcharacters/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0007/reverseinteger/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0011/containerwithmostwater/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0033/searchinrotatedsortedarray/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0049/groupanagrams/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0096/uniquebinarysearchtrees/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0140/wordbreakii/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0173/binarysearchtreeiterator/BSTIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0187/repeateddnasequences/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0249/performstringshifts/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0319/bulbswitcher/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0332/reconstructitinerary/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0454/foursumii/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0525/contiguousarray/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0529/minesweeper/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0581/shortestunsortedcontinuoussubarray/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0678/validparenthesisstring/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0714/besttimetobuyandsellstockwithtransactionfee/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0844/backspacestringcompare/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0865/smallestsbtreewithallthedeepestnodes/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0876/middleofthelinkedlist/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0901/onlinestockspan/StockSpanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0948/bagoftokens/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0957/prisoncellsafterndays/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1008/constructbinarysearchtreefrompreordertraversal/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1046/laststoneweight/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1104/pathinzigzaglabelledbinarytree/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1108/defanginganipaddress/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1123/lowestcommonancestorofdeepestleaves/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1342/numberofstepstoreduceanumbertozero/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1403/minimumsubsequenceinnonincreasingorder/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1404/numberofstepstoreduceanumberinbinaryrepresentationtoone/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1405/longesthappystring/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1431/kidswiththegreatestnumberofcandies/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1470/shufflethearray/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1480/runningsumof1darray/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1496/pathcrossing/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1497/checkifarraypairsaredivisiblebyk/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1502/canmakearithmeticprogressionfromsequence/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1503/lastmomentbeforeallantsfalloutofaplank/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1504/countsubmatriceswithallones/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1512/numberofgoodpairs/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1513/numberofsubstringswithonly1s/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1514/pathwithmaximumprobability/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1528/shufflestring/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1529/bulbswitcheriv/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1530/numberofgoodleafnodespairs/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1658/minimumoperationstoreducextozero/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/wkt/cyr/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/wkt/etc/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/wkt/q1/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/wkt/q2/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/wkt/q3/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/wkt/q4/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/datastructure/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/datastructure/TreeNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/q0001/twosum/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/q0001/twosum/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/q0155/minstack/MinStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/q0155/minstack/MinStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/q1115/printfoobaralternately/FooBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/q1115/printfoobaralternately/FooBar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,10 +106,24 @@
     <option name="ROOT_SYNC" value="DONT_SYNC" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
   <component name="ProjectId" id="1RyP1AMucS02Zc1R4rmynujhvwO" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
-    <option name="showExcludedFiles" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
@@ -71,119 +132,18 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553693507544" />
-    <property name="last_opened_file_path" value="$USER_HOME$/Downloads/TeX Template.tex" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../hw2" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.tools" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.Solution (3)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Foo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aac.q1114.printinorder.Foo" />
-      <module name="LeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.aac.q1114.printinorder.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="FooBar" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aac.q1115.printfoobaralternately.FooBar" />
-      <module name="LeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.aac.q1115.printfoobaralternately.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aac.q0113.pathsumii.Solution" />
-      <module name="LeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.aac.q0113.pathsumii.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aac.q1089.duplicatezeros.Solution" />
-      <module name="LeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.aac.q1089.duplicatezeros.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ZeroEvenOdd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aac.q1116.printzeroevenodd.ZeroEvenOdd" />
-      <module name="LeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.aac.q1116.printzeroevenodd.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="Application" factoryName="Application">
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -243,6 +203,110 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aac.wkt.q4.Solution" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aac.wkt.q4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aac.wkt.cyr.Solution" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aac.wkt.cyr.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aac.q1658.minimumoperationstoreducextozero.Solution" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aac.q1658.minimumoperationstoreducextozero.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aac.wkt.etc.Solution" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aac.wkt.etc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aac.q0187.repeateddnasequences.Solution" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aac.q0187.repeateddnasequences.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
       <setting name="vmparams" value="" />
       <setting name="cmdLine" value="run-app" />
@@ -260,7 +324,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType" factoryName="Kotlin script">
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <option name="filePath" />
       <option name="vmParameters" />
       <option name="alternativeJrePath" />
@@ -323,26 +387,15 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Foo" />
-        <item itemvalue="Application.ZeroEvenOdd" />
-        <item itemvalue="Application.FooBar" />
         <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.Solution (5)" />
+        <item itemvalue="Application.Solution (1)" />
+        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -438,7 +491,77 @@
       <workItem from="1585697906772" duration="9764000" />
       <workItem from="1585776609142" duration="906000" />
       <workItem from="1585777663436" duration="15895000" />
-      <workItem from="1585846784304" duration="4688000" />
+      <workItem from="1585846784304" duration="12449000" />
+      <workItem from="1585942561473" duration="22248000" />
+      <workItem from="1586054092383" duration="5990000" />
+      <workItem from="1586105845933" duration="15973000" />
+      <workItem from="1586221282259" duration="8810000" />
+      <workItem from="1586304909474" duration="2168000" />
+      <workItem from="1586369959386" duration="1737000" />
+      <workItem from="1586457722281" duration="4072000" />
+      <workItem from="1586551418500" duration="1578000" />
+      <workItem from="1586655994458" duration="1199000" />
+      <workItem from="1586747616591" duration="329000" />
+      <workItem from="1586834431934" duration="3023000" />
+      <workItem from="1586927612859" duration="3638000" />
+      <workItem from="1587069712733" duration="31000" />
+      <workItem from="1587099574075" duration="460000" />
+      <workItem from="1587150624962" duration="2630000" />
+      <workItem from="1587172915902" duration="2214000" />
+      <workItem from="1587220871281" duration="45000" />
+      <workItem from="1587360474250" duration="2621000" />
+      <workItem from="1587442856630" duration="1000000" />
+      <workItem from="1587529658801" duration="632000" />
+      <workItem from="1587575994436" duration="20000" />
+      <workItem from="1588129665438" duration="2000" />
+      <workItem from="1588365739112" duration="3203000" />
+      <workItem from="1588605302781" duration="13000" />
+      <workItem from="1589395504550" duration="574000" />
+      <workItem from="1589928090747" duration="1488000" />
+      <workItem from="1590002814936" duration="1593000" />
+      <workItem from="1590610006781" duration="528000" />
+      <workItem from="1590665699749" duration="8000" />
+      <workItem from="1591203224293" duration="259000" />
+      <workItem from="1591390875602" duration="9000" />
+      <workItem from="1593311061647" duration="10099000" />
+      <workItem from="1593363789719" duration="1166000" />
+      <workItem from="1593377670816" duration="164000" />
+      <workItem from="1593377847767" duration="1265000" />
+      <workItem from="1593395476118" duration="661000" />
+      <workItem from="1593466604579" duration="5074000" />
+      <workItem from="1593812697853" duration="1041000" />
+      <workItem from="1593916682948" duration="5599000" />
+      <workItem from="1593922617819" duration="776000" />
+      <workItem from="1594155325157" duration="2465000" />
+      <workItem from="1594355109551" duration="15000" />
+      <workItem from="1594355185814" duration="2736000" />
+      <workItem from="1594521821292" duration="8347000" />
+      <workItem from="1595466333649" duration="10000" />
+      <workItem from="1595466609780" duration="375000" />
+      <workItem from="1595467103287" duration="12000" />
+      <workItem from="1595467176070" duration="13000" />
+      <workItem from="1595518558635" duration="57000" />
+      <workItem from="1595730116533" duration="6795000" />
+      <workItem from="1595816819315" duration="925000" />
+      <workItem from="1597715881380" duration="6000" />
+      <workItem from="1597850975991" duration="60000" />
+      <workItem from="1598016968798" duration="4000" />
+      <workItem from="1600269695049" duration="115000" />
+      <workItem from="1601223609012" duration="49000" />
+      <workItem from="1601483951645" duration="28000" />
+      <workItem from="1601872038448" duration="7000" />
+      <workItem from="1602329340655" duration="1365000" />
+      <workItem from="1602414809643" duration="2219000" />
+      <workItem from="1603631592912" duration="1896000" />
+      <workItem from="1603684469956" duration="3000" />
+      <workItem from="1603721123387" duration="7000" />
+      <workItem from="1604018509470" duration="2000" />
+      <workItem from="1604603131704" duration="3044000" />
+      <workItem from="1604991936804" duration="3000" />
+      <workItem from="1606457494575" duration="4808000" />
+      <workItem from="1606677653961" duration="18000" />
+      <workItem from="1610665856583" duration="75000" />
+      <workItem from="1610666114011" duration="10389000" />
     </task>
     <task id="LOCAL-00001" summary="idea default changes.">
       <created>1548999425407</created>
@@ -573,7 +696,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585614608413</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Practices mainly about concurrency.">
+      <created>1585867194928</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1585867194928</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TodoView">
@@ -586,7 +716,7 @@
     </todo-panel>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="1" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ORDER">
@@ -603,13 +733,12 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="idea default changes." />
@@ -629,96 +758,23 @@
     <MESSAGE value="Supplementary problems related to tree including q0208, q0230, q0677." />
     <MESSAGE value="Problems related to bit operation including q0461, q0190, q0342, q0231, q0136, q0260, q0693, q0476, q0371, q0318." />
     <MESSAGE value="~2020/03/30 random practices." />
-    <option name="LAST_COMMIT_MESSAGE" value="~2020/03/30 random practices." />
+    <MESSAGE value="Practices mainly about concurrency." />
+    <option name="LAST_COMMIT_MESSAGE" value="Practices mainly about concurrency." />
   </component>
-  <component name="WindowStateProjectService">
-    <state x="361" y="90" key="#Notifications" timestamp="1585721587911">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="361" y="90" key="#Notifications/0.0.1536.864@0.0.1536.864" timestamp="1585721587911" />
-    <state x="574" y="141" key="#com.intellij.ide.util.MemberChooser" timestamp="1585541700388">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="574" y="141" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1585541700388" />
-    <state x="67" y="24" key="CommitChangelistDialog2" timestamp="1585614605432">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="67" y="24" key="CommitChangelistDialog2/0.0.1536.864@0.0.1536.864" timestamp="1585614605432" />
-    <state width="1493" height="277" key="GridCell.Tab.0.bottom" timestamp="1585866580693">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1493" height="277" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585866580693" />
-    <state width="1493" height="277" key="GridCell.Tab.0.center" timestamp="1585866580693">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1493" height="277" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1585866580693" />
-    <state width="1493" height="277" key="GridCell.Tab.0.left" timestamp="1585866580692">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1493" height="277" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1585866580692" />
-    <state width="1493" height="277" key="GridCell.Tab.0.right" timestamp="1585866580693">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1493" height="277" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1585866580693" />
-    <state width="1493" height="277" key="GridCell.Tab.1.bottom" timestamp="1585866580693">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1493" height="277" key="GridCell.Tab.1.bottom/0.0.1536.864@0.0.1536.864" timestamp="1585866580693" />
-    <state width="1493" height="277" key="GridCell.Tab.1.center" timestamp="1585866580693">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1493" height="277" key="GridCell.Tab.1.center/0.0.1536.864@0.0.1536.864" timestamp="1585866580693" />
-    <state width="1493" height="277" key="GridCell.Tab.1.left" timestamp="1585866580693">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1493" height="277" key="GridCell.Tab.1.left/0.0.1536.864@0.0.1536.864" timestamp="1585866580693" />
-    <state width="1493" height="277" key="GridCell.Tab.1.right" timestamp="1585866580693">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state width="1493" height="277" key="GridCell.Tab.1.right/0.0.1536.864@0.0.1536.864" timestamp="1585866580693" />
-    <state x="270" y="74" key="SettingsEditor" timestamp="1580329841613">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="270" y="74" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1580329841613" />
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1585614623742">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1585614623742" />
-    <state x="449" y="256" key="com.intellij.ide.util.TipDialog" timestamp="1585846800450">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="449" y="256" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1585846800450" />
-    <state x="562" y="349" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1578454722006">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="562" y="349" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1536.864@0.0.1536.864" timestamp="1578454722006" />
-    <state x="445" y="278" width="715" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog" timestamp="1580329190993">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="445" y="278" width="715" height="307" key="org.intellij.images.editor.actions.BackgroundImageDialog/0.0.1536.864@0.0.1536.864" timestamp="1580329190993" />
-    <state x="425" y="197" key="run.anything.popup" timestamp="1585786540245">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="425" y="197" key="run.anything.popup/0.0.1536.864@0.0.1536.864" timestamp="1585786540245" />
-    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup" timestamp="1585781627092">
-      <screen x="0" y="0" width="1536" height="864" />
-    </state>
-    <state x="431" y="181" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1585781627092" />
-  </component>
-  <component name="masterDetails">
-    <states>
-      <state key="ProjectJDKs.UI">
-        <settings>
-          <last-edited>12</last-edited>
-          <splitter-proportions>
-            <option name="proportions">
-              <list>
-                <option value="0.2" />
-              </list>
-            </option>
-          </splitter-proportions>
-        </settings>
-      </state>
-    </states>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/aac/q0581/shortestunsortedcontinuoussubarray/Solution.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/aac/q0581/shortestunsortedcontinuoussubarray/Solution.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
