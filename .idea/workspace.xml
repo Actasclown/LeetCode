@@ -1,67 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Practices mainly about concurrency.">
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0002/addtwonumbers/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0003/longestsubstringwithoutrepeatingcharacters/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0007/reverseinteger/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0011/containerwithmostwater/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0033/searchinrotatedsortedarray/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0049/groupanagrams/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0096/uniquebinarysearchtrees/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0140/wordbreakii/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0173/binarysearchtreeiterator/BSTIterator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0187/repeateddnasequences/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0249/performstringshifts/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0319/bulbswitcher/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0332/reconstructitinerary/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0454/foursumii/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0525/contiguousarray/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0529/minesweeper/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0581/shortestunsortedcontinuoussubarray/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0678/validparenthesisstring/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0714/besttimetobuyandsellstockwithtransactionfee/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0844/backspacestringcompare/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0865/smallestsbtreewithallthedeepestnodes/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0876/middleofthelinkedlist/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0901/onlinestockspan/StockSpanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0948/bagoftokens/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0957/prisoncellsafterndays/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1008/constructbinarysearchtreefrompreordertraversal/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1046/laststoneweight/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1104/pathinzigzaglabelledbinarytree/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1108/defanginganipaddress/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1123/lowestcommonancestorofdeepestleaves/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1342/numberofstepstoreduceanumbertozero/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1403/minimumsubsequenceinnonincreasingorder/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1404/numberofstepstoreduceanumberinbinaryrepresentationtoone/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1405/longesthappystring/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1431/kidswiththegreatestnumberofcandies/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1470/shufflethearray/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1480/runningsumof1darray/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1496/pathcrossing/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1497/checkifarraypairsaredivisiblebyk/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1502/canmakearithmeticprogressionfromsequence/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1503/lastmomentbeforeallantsfalloutofaplank/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1504/countsubmatriceswithallones/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1512/numberofgoodpairs/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1513/numberofsubstringswithonly1s/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1514/pathwithmaximumprobability/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1528/shufflestring/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1529/bulbswitcheriv/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1530/numberofgoodleafnodespairs/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1658/minimumoperationstoreducextozero/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/wkt/cyr/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/wkt/etc/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/wkt/q1/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/wkt/q2/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/wkt/q3/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/wkt/q4/Solution.java" afterDir="false" />
+    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Recent random practices.">
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0031/nextpermutation/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/datastructure/TreeNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/datastructure/TreeNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/q0001/twosum/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/q0001/twosum/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/q0155/minstack/MinStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/q0155/minstack/MinStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/q1115/printfoobaralternately/FooBar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/q1115/printfoobaralternately/FooBar.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,14 +76,17 @@
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553693507544" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/../hw2" />
     <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Solution (3)">
+  <component name="RunManager" selected="Application.Solution (4)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -245,13 +190,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aac.wkt.etc.Solution" />
+    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aac.q0031.nextpermutation.Solution" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aac.wkt.etc.*" />
+          <option name="PATTERN" value="com.aac.q0031.nextpermutation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -259,13 +204,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aac.q0187.repeateddnasequences.Solution" />
+    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aac.wkt.etc.Solution" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aac.q0187.repeateddnasequences.*" />
+          <option name="PATTERN" value="com.aac.wkt.etc.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -387,11 +332,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -561,7 +506,10 @@
       <workItem from="1606457494575" duration="4808000" />
       <workItem from="1606677653961" duration="18000" />
       <workItem from="1610665856583" duration="75000" />
-      <workItem from="1610666114011" duration="10389000" />
+      <workItem from="1610666114011" duration="10675000" />
+      <workItem from="1611703347132" duration="16000" />
+      <workItem from="1611703469677" duration="1636000" />
+      <workItem from="1612141204072" duration="2556000" />
     </task>
     <task id="LOCAL-00001" summary="idea default changes.">
       <created>1548999425407</created>
@@ -703,7 +651,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585867194928</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Recent random practices.">
+      <created>1610696599696</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1610696599696</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TodoView">
@@ -759,7 +714,8 @@
     <MESSAGE value="Problems related to bit operation including q0461, q0190, q0342, q0231, q0136, q0260, q0693, q0476, q0371, q0318." />
     <MESSAGE value="~2020/03/30 random practices." />
     <MESSAGE value="Practices mainly about concurrency." />
-    <option name="LAST_COMMIT_MESSAGE" value="Practices mainly about concurrency." />
+    <MESSAGE value="Recent random practices." />
+    <option name="LAST_COMMIT_MESSAGE" value="Recent random practices." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
