@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Mar 1 daily challenge.">
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0268/missingnumber/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1745/palindromepartitioningiv/Solution.java" afterDir="false" />
+    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Mar 3 daily challenge and a simple dp problem(suffix tree is also a solution).">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/q1514/pathwithmaximumprobability/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/q1514/pathwithmaximumprobability/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,7 +84,7 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
   <component name="RunManager" selected="Application.Solution (4)">
     <configuration default="true" type="Applet">
@@ -516,7 +515,9 @@
       <workItem from="1614648566695" duration="519000" />
       <workItem from="1614669479175" duration="2000" />
       <workItem from="1614821078348" duration="2138000" />
-      <workItem from="1614833825911" duration="750000" />
+      <workItem from="1614833825911" duration="1115000" />
+      <workItem from="1614902071891" duration="1720000" />
+      <workItem from="1614916678142" duration="9286000" />
     </task>
     <task id="LOCAL-00001" summary="idea default changes.">
       <created>1548999425407</created>
@@ -679,7 +680,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614649051441</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Mar 3 daily challenge and a simple dp problem(suffix tree is also a solution).">
+      <created>1614834801473</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1614834801473</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TodoView">
@@ -738,7 +746,8 @@
     <MESSAGE value="Recent random practices." />
     <MESSAGE value="Jan 31 daily challenge." />
     <MESSAGE value="Mar 1 daily challenge." />
-    <option name="LAST_COMMIT_MESSAGE" value="Mar 1 daily challenge." />
+    <MESSAGE value="Mar 3 daily challenge and a simple dp problem(suffix tree is also a solution)." />
+    <option name="LAST_COMMIT_MESSAGE" value="Mar 3 daily challenge and a simple dp problem(suffix tree is also a solution)." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -755,5 +764,9 @@
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>
