@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Mar 3 daily challenge and a simple dp problem(suffix tree is also a solution).">
+    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Nice example of Bellman-Ford algorithm and Dijkstra's algorithm.">
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0148/sortlist/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/q1514/pathwithmaximumprobability/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/q1514/pathwithmaximumprobability/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/datastructure/ListNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/datastructure/ListNode.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +87,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.Solution (4)">
+  <component name="RunManager" selected="Application.Solution">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -148,20 +149,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aac.wkt.q4.Solution" />
-      <module name="LeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.aac.wkt.q4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.aac.wkt.cyr.Solution" />
       <module name="LeetCode" />
@@ -211,6 +198,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.aac.wkt.etc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aac.q0148.sortlist.Solution" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aac.q0148.sortlist.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -332,11 +333,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (5)" />
-        <item itemvalue="Application.Solution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -517,7 +518,8 @@
       <workItem from="1614821078348" duration="2138000" />
       <workItem from="1614833825911" duration="1115000" />
       <workItem from="1614902071891" duration="1720000" />
-      <workItem from="1614916678142" duration="9286000" />
+      <workItem from="1614916678142" duration="9571000" />
+      <workItem from="1614985258394" duration="8807000" />
     </task>
     <task id="LOCAL-00001" summary="idea default changes.">
       <created>1548999425407</created>
@@ -687,7 +689,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614834801473</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Nice example of Bellman-Ford algorithm and Dijkstra's algorithm.">
+      <created>1614933952058</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1614933952059</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TodoView">
@@ -747,7 +756,8 @@
     <MESSAGE value="Jan 31 daily challenge." />
     <MESSAGE value="Mar 1 daily challenge." />
     <MESSAGE value="Mar 3 daily challenge and a simple dp problem(suffix tree is also a solution)." />
-    <option name="LAST_COMMIT_MESSAGE" value="Mar 3 daily challenge and a simple dp problem(suffix tree is also a solution)." />
+    <MESSAGE value="Nice example of Bellman-Ford algorithm and Dijkstra's algorithm." />
+    <option name="LAST_COMMIT_MESSAGE" value="Nice example of Bellman-Ford algorithm and Dijkstra's algorithm." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
