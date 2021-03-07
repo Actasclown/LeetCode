@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Mar 6 daily challenge. A trie try. lol">
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1784/checkifbinarystringhasatmostonesegmentofones/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1785/minimumelementstoaddtoformagivensum/Solution.java" afterDir="false" />
+    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Weekly Contest 231.">
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1787/makethexorofallsegmentsequaltozero/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/wkt/q1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/wkt/q1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/wkt/q2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/wkt/q2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/wkt/q3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/wkt/q3/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -523,7 +519,8 @@
       <workItem from="1614902071891" duration="1720000" />
       <workItem from="1614916678142" duration="9571000" />
       <workItem from="1614985258394" duration="9017000" />
-      <workItem from="1615079547273" duration="13015000" />
+      <workItem from="1615079547273" duration="13211000" />
+      <workItem from="1615111369241" duration="6457000" />
     </task>
     <task id="LOCAL-00001" summary="idea default changes.">
       <created>1548999425407</created>
@@ -714,7 +711,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615082321428</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Weekly Contest 231.">
+      <created>1615093946367</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1615093946367</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TodoView">
@@ -752,7 +756,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="idea default changes." />
     <MESSAGE value="Some examples of binary search including q0069, q0441, q0540." />
     <MESSAGE value="Examples of binary search including q0069, q0441, q0540." />
     <MESSAGE value="Examples of greedy algorithm including q0445, q0452, q0122, q0605, q0665, q0392, q0763, q0406." />
@@ -777,7 +780,8 @@
     <MESSAGE value="Nice example of Bellman-Ford algorithm and Dijkstra's algorithm." />
     <MESSAGE value="Merge sort." />
     <MESSAGE value="Mar 6 daily challenge. A trie try. lol" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mar 6 daily challenge. A trie try. lol" />
+    <MESSAGE value="Weekly Contest 231." />
+    <option name="LAST_COMMIT_MESSAGE" value="Weekly Contest 231." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
