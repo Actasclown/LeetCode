@@ -1,4 +1,4 @@
-package com.aac.wkt.q1;
+package com.aac.q1784.checkifbinarystringhasatmostonesegmentofones;
 
 public class Solution {
     public boolean checkOnesSegment(String s) {
@@ -20,6 +20,6 @@ public class Solution {
     }
 
     public static void main(String[] args) {
-        new Solution().checkOnesSegment("110");
+        new com.aac.wkt.q1.Solution().checkOnesSegment("110");
     }
 }

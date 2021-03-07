@@ -1,6 +1,9 @@
-package com.aac.wkt.q3;
+package com.aac.q1786.numberofrestrictedpathsfromfirsttolastnode;
 
-import java.util.*;
+import java.util.Comparator;
+import java.util.HashMap;
+import java.util.Map;
+import java.util.PriorityQueue;
 
 public class Solution {
     Long[] cache;
@@ -77,6 +80,6 @@ public class Solution {
     }
 
     public static void main(String[] args) {
-        System.out.println(new Solution().countRestrictedPaths(5, new int[][]{{1, 2, 3}, {1, 3, 3}, {2, 3, 1}, {1, 4, 2}, {5, 2, 2}, {3, 5, 1}, {5, 4, 10}}));
+        System.out.println(new com.aac.wkt.q3.Solution().countRestrictedPaths(5, new int[][]{{1, 2, 3}, {1, 3, 3}, {2, 3, 1}, {1, 4, 2}, {5, 2, 2}, {3, 5, 1}, {5, 4, 10}}));
     }
 }

@@ -1,4 +1,4 @@
-package com.aac.wkt.q2;
+package com.aac.q1785.minimumelementstoaddtoformagivensum;
 
 public class Solution {
     public int minElements(int[] nums, int limit, int goal) {
