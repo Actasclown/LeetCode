@@ -1,6 +1,5 @@
 package com.aac.q0706.designhashmap;
 
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 public class MyHashMap {
