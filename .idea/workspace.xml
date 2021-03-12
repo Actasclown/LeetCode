@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Mar 8, 10 daily challenge. (Mar 9 challenge is q0623, a binary tree problem done before) q1316 is a nice example where rolling hash significantly saves time.">
+    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Mar 11 daily challenge. (DP / DFS)">
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1044/longestduplicatesubstring/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/aac/q0322/coinchange/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/q0322/coinchange/Solution.java" afterDir="false" />
     </list>
@@ -86,7 +87,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
+  <component name="RunManager" selected="Application.Solution (5)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -162,20 +163,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aac.wkt.q3.Solution" />
-      <module name="LeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.aac.wkt.q3.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.aac.q1332.removepalindromicsubsequences.Solution" />
       <module name="LeetCode" />
@@ -197,6 +184,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.aac.q0012.integertoroman.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aac.q1044.longestduplicatesubstring.Solution" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aac.q1044.longestduplicatesubstring.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -332,11 +333,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -525,7 +526,7 @@
       <workItem from="1615256113537" duration="2187000" />
       <workItem from="1615341061528" duration="5000" />
       <workItem from="1615418929576" duration="14287000" />
-      <workItem from="1615488049775" duration="6337000" />
+      <workItem from="1615488049775" duration="21668000" />
     </task>
     <task id="LOCAL-00001" summary="idea default changes.">
       <created>1548999425407</created>
@@ -751,7 +752,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615434865196</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Mar 11 daily challenge. (DP / DFS)">
+      <created>1615500423887</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1615500423887</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TodoView">
@@ -789,7 +797,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Examples of two pointers including q0167, q0345, q0633, q0680, q0088, q0141, q0524." />
     <MESSAGE value="Examples of sort including q0215, q0347." />
     <MESSAGE value="Examples of search including q0017, q0037, q0039, q0040, q0046, q0047, q0051, q0077, q0078, q0079, q0090, q0093, q0130, q0131, q0200, q0257, q0417, q0547, q0695." />
     <MESSAGE value="Examples of partition including q0241." />
@@ -814,7 +821,8 @@
     <MESSAGE value="Problem 4 of weekly Contest 231. The problem itself is a simple DP. The point is to reduce workload in every stage." />
     <MESSAGE value="Mar 7 daily challenge." />
     <MESSAGE value="Mar 8, 10 daily challenge. (Mar 9 challenge is q0623, a binary tree problem done before) q1316 is a nice example where rolling hash significantly saves time." />
-    <option name="LAST_COMMIT_MESSAGE" value="Mar 8, 10 daily challenge. (Mar 9 challenge is q0623, a binary tree problem done before) q1316 is a nice example where rolling hash significantly saves time." />
+    <MESSAGE value="Mar 11 daily challenge. (DP / DFS)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mar 11 daily challenge. (DP / DFS)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
