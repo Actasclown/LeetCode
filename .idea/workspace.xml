@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Mar 11 daily challenge. (DP / DFS)">
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1044/longestduplicatesubstring/Solution.java" afterDir="false" />
+    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Mar 11 daily challenge. (DP / DFS) (q0322)&#10;q1044 can be solved by Binary Search + Rolling Hash (O(logN) * O(N)) or Suffix Tree. There is an implementation of the former.">
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1461/checkifastringcontainsallbinarycodesofsizek/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/q0322/coinchange/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/q0322/coinchange/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -526,7 +525,8 @@
       <workItem from="1615256113537" duration="2187000" />
       <workItem from="1615341061528" duration="5000" />
       <workItem from="1615418929576" duration="14287000" />
-      <workItem from="1615488049775" duration="21668000" />
+      <workItem from="1615488049775" duration="22241000" />
+      <workItem from="1615589266949" duration="672000" />
     </task>
     <task id="LOCAL-00001" summary="idea default changes.">
       <created>1548999425407</created>
@@ -759,7 +759,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615500423887</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Mar 11 daily challenge. (DP / DFS) (q0322)&#10;q1044 can be solved by Binary Search + Rolling Hash (O(logN) * O(N)) or Suffix Tree. There is an implementation of the former.">
+      <created>1615523882520</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1615523882520</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TodoView">
@@ -797,7 +804,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Examples of sort including q0215, q0347." />
     <MESSAGE value="Examples of search including q0017, q0037, q0039, q0040, q0046, q0047, q0051, q0077, q0078, q0079, q0090, q0093, q0130, q0131, q0200, q0257, q0417, q0547, q0695." />
     <MESSAGE value="Examples of partition including q0241." />
     <MESSAGE value="Example of partition including q0241." />
@@ -822,7 +828,8 @@
     <MESSAGE value="Mar 7 daily challenge." />
     <MESSAGE value="Mar 8, 10 daily challenge. (Mar 9 challenge is q0623, a binary tree problem done before) q1316 is a nice example where rolling hash significantly saves time." />
     <MESSAGE value="Mar 11 daily challenge. (DP / DFS)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mar 11 daily challenge. (DP / DFS)" />
+    <MESSAGE value="Mar 11 daily challenge. (DP / DFS) (q0322)&#10;q1044 can be solved by Binary Search + Rolling Hash (O(logN) * O(N)) or Suffix Tree. There is an implementation of the former." />
+    <option name="LAST_COMMIT_MESSAGE" value="Mar 11 daily challenge. (DP / DFS) (q0322)&#10;q1044 can be solved by Binary Search + Rolling Hash (O(logN) * O(N)) or Suffix Tree. There is an implementation of the former." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
