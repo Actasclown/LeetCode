@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Mar 12 daily challenge. (too many rolling hash problem though lol)">
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0823/binarytreeswithfactors/Solution.java" afterDir="false" />
+    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Mar 13 daily challenge. (ez dp)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/q1784/checkifbinarystringhasatmostonesegmentofones/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/q1784/checkifbinarystringhasatmostonesegmentofones/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/q1786/numberofrestrictedpathsfromfirsttolastnode/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/q1786/numberofrestrictedpathsfromfirsttolastnode/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/wkt/q1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/wkt/q1/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/wkt/q2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/wkt/q2/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/wkt/q3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/wkt/q3/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +90,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.Solution (2)">
+  <component name="RunManager" selected="Application.Solution (4)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -176,13 +180,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aac.q0012.integertoroman.Solution" />
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aac.wkt.q1.Solution" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aac.q0012.integertoroman.*" />
+          <option name="PATTERN" value="com.aac.wkt.q1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aac.wkt.q3.Solution" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aac.wkt.q3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -197,20 +215,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.aac.q1044.longestduplicatesubstring.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aac.q1316.distinctechosubstrings.Solution" />
-      <module name="LeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.aac.q1316.distinctechosubstrings.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -332,11 +336,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (4)" />
+        <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -527,7 +531,7 @@
       <workItem from="1615418929576" duration="14287000" />
       <workItem from="1615488049775" duration="22241000" />
       <workItem from="1615589266949" duration="884000" />
-      <workItem from="1615682393836" duration="3533000" />
+      <workItem from="1615682393836" duration="9452000" />
     </task>
     <task id="LOCAL-00001" summary="idea default changes.">
       <created>1548999425407</created>
@@ -774,7 +778,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615590148659</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Mar 13 daily challenge. (ez dp)">
+      <created>1615688912202</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1615688912202</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TodoView">
@@ -812,7 +823,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Examples of partition including q0241." />
     <MESSAGE value="Example of partition including q0241." />
     <MESSAGE value="Examples of dynamic programming including q0343, q0279, q0091, q0062, q0064, q0070, q0198, q0213, q0300, q0376, q0416, q0139, q0494, q0474, q0322, q0377, q0123, q0188, q0303, q0053, q0413, q0583, q0072, q0309, q0338, q0646, q0121, q0650." />
     <MESSAGE value="Problems solved using stack and queue including q0232, q0225, q0155, q0020, q0739, q0496, q0503.&#10;Problems solved using hashtable including q0535, q0001, q0594.&#10;Problems related to string including q0242, q0205, q0409, q0009, q0647, q0696." />
@@ -837,7 +847,8 @@
     <MESSAGE value="Mar 11 daily challenge. (DP / DFS)" />
     <MESSAGE value="Mar 11 daily challenge. (DP / DFS) (q0322)&#10;q1044 can be solved by Binary Search + Rolling Hash (O(logN) * O(N)) or Suffix Tree. There is an implementation of the former." />
     <MESSAGE value="Mar 12 daily challenge. (too many rolling hash problem though lol)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mar 12 daily challenge. (too many rolling hash problem though lol)" />
+    <MESSAGE value="Mar 13 daily challenge. (ez dp)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mar 13 daily challenge. (ez dp)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

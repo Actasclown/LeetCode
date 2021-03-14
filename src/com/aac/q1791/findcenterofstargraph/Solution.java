@@ -1,4 +1,4 @@
-package com.aac.wkt.q2;
+package com.aac.q1791.findcenterofstargraph;
 
 import java.util.HashSet;
 import java.util.Set;

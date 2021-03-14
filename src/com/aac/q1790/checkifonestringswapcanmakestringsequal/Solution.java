@@ -1,4 +1,4 @@
-package com.aac.wkt.q1;
+package com.aac.q1790.checkifonestringswapcanmakestringsequal;
 
 public class Solution {
     public boolean areAlmostEqual(String s1, String s2) {
@@ -26,9 +26,5 @@ public class Solution {
         if(pos != -1 && !swaped)
             return false;
         return true;
-    }
-
-    public static void main(String[] args) {
-        System.out.println(new Solution().areAlmostEqual("defent", "defend"));
     }
 }

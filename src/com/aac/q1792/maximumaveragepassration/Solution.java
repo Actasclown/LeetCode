@@ -1,6 +1,7 @@
-package com.aac.wkt.q3;
+package com.aac.q1792.maximumaveragepassration;
 
-import java.util.*;
+import java.util.Comparator;
+import java.util.PriorityQueue;
 
 public class Solution {
     public double maxAverageRatio(int[][] classes, int extraStudents) {
@@ -18,9 +19,5 @@ public class Solution {
             ratios += tmp[0] * 1.0 / tmp[1];
         }
         return ratios / classes.length;
-    }
-
-    public static void main(String[] args) {
-        System.out.println(new Solution().maxAverageRatio(new int[][] {{2,4},{3,9},{4,5},{2,10}}, 4));
     }
 }

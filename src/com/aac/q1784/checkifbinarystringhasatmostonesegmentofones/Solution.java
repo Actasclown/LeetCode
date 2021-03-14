@@ -18,8 +18,4 @@ public class Solution {
         }
         return true;
     }
-
-    public static void main(String[] args) {
-        new com.aac.wkt.q1.Solution().checkOnesSegment("110");
-    }
 }
