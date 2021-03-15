@@ -1,13 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Mar 13 daily challenge. (ez dp)">
+    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Weekly contest 232.">
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1721/swappingnodesinalinkedlist/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/q1784/checkifbinarystringhasatmostonesegmentofones/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/q1784/checkifbinarystringhasatmostonesegmentofones/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/q1786/numberofrestrictedpathsfromfirsttolastnode/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/q1786/numberofrestrictedpathsfromfirsttolastnode/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/wkt/q1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/wkt/q1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/wkt/q2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/wkt/q2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/wkt/q3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/wkt/q3/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -531,7 +527,8 @@
       <workItem from="1615418929576" duration="14287000" />
       <workItem from="1615488049775" duration="22241000" />
       <workItem from="1615589266949" duration="884000" />
-      <workItem from="1615682393836" duration="9452000" />
+      <workItem from="1615682393836" duration="10591000" />
+      <workItem from="1615784507125" duration="2415000" />
     </task>
     <task id="LOCAL-00001" summary="idea default changes.">
       <created>1548999425407</created>
@@ -785,7 +782,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615688912202</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Weekly contest 232.">
+      <created>1615695197401</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1615695197401</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TodoView">
@@ -823,7 +827,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Example of partition including q0241." />
     <MESSAGE value="Examples of dynamic programming including q0343, q0279, q0091, q0062, q0064, q0070, q0198, q0213, q0300, q0376, q0416, q0139, q0494, q0474, q0322, q0377, q0123, q0188, q0303, q0053, q0413, q0583, q0072, q0309, q0338, q0646, q0121, q0650." />
     <MESSAGE value="Problems solved using stack and queue including q0232, q0225, q0155, q0020, q0739, q0496, q0503.&#10;Problems solved using hashtable including q0535, q0001, q0594.&#10;Problems related to string including q0242, q0205, q0409, q0009, q0647, q0696." />
     <MESSAGE value="Problems related to arrays and matrices including q0283, qo645, q0448, q0442, q0287, q0240, q0378." />
@@ -848,7 +851,8 @@
     <MESSAGE value="Mar 11 daily challenge. (DP / DFS) (q0322)&#10;q1044 can be solved by Binary Search + Rolling Hash (O(logN) * O(N)) or Suffix Tree. There is an implementation of the former." />
     <MESSAGE value="Mar 12 daily challenge. (too many rolling hash problem though lol)" />
     <MESSAGE value="Mar 13 daily challenge. (ez dp)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mar 13 daily challenge. (ez dp)" />
+    <MESSAGE value="Weekly contest 232." />
+    <option name="LAST_COMMIT_MESSAGE" value="Weekly contest 232." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
