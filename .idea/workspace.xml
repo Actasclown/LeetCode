@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Mar 20 daily challenge.">
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1800/maximumascendingsubarraysum/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1801/numberofordersinthebacklog/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1802/maximumvalueatagivenindexinaboundedarray/Solution.java" afterDir="false" />
+    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="233 weekly challenge.">
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0869/reorderedpowerof2/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +86,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.Solution (1)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -145,6 +144,20 @@
       </option>
       <option name="moduleName" value="" />
       <option name="trusted" value="true" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aac.q0869.reorderedpowerof2.Solution" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aac.q0869.reorderedpowerof2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -333,11 +346,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -536,7 +549,8 @@
       <workItem from="1616149979691" duration="387000" />
       <workItem from="1616249920104" duration="6599000" />
       <workItem from="1616258018133" duration="245000" />
-      <workItem from="1616292080973" duration="11564000" />
+      <workItem from="1616292080973" duration="11613000" />
+      <workItem from="1616355944886" duration="841000" />
     </task>
     <task id="LOCAL-00001" summary="idea default changes.">
       <created>1548999425407</created>
@@ -825,7 +839,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616303757917</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="233 weekly challenge.">
+      <created>1616304014650</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1616304014650</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TodoView">
@@ -863,7 +884,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Refactored ListNode.java and TreeNode.java.&#10;Problems related to tree including q0094, q0101, q0104, q0108, q0110, q0111, q0112, q0144, q0145, q0226, q0235, q0236, q0257, q0337, q0404, q0437, q0501, q0513, q0530, q0538, q0543, q0572, q0617, q0637, q0653, q0669, q0671, q0687." />
     <MESSAGE value="Supplementary problems related to tree including q0208, q0230, q0677." />
     <MESSAGE value="Problems related to bit operation including q0461, q0190, q0342, q0231, q0136, q0260, q0693, q0476, q0371, q0318." />
     <MESSAGE value="~2020/03/30 random practices." />
@@ -888,7 +908,8 @@
     <MESSAGE value="Mar 19 daily challenge." />
     <MESSAGE value="Biweekly challenge." />
     <MESSAGE value="Mar 20 daily challenge." />
-    <option name="LAST_COMMIT_MESSAGE" value="Mar 20 daily challenge." />
+    <MESSAGE value="233 weekly challenge." />
+    <option name="LAST_COMMIT_MESSAGE" value="233 weekly challenge." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
