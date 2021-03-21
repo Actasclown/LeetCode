@@ -1,10 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Mar 14 daily challenge.">
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0478/generaterandompointinacircle/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0841/keysandrooms/Solution.java" afterDir="false" />
+    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Mar 19 daily challenge.">
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1796/secondlargestdigitinastring/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1797/designauthenticationmanager/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/wkt/q1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/wkt/q1/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/wkt/q2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/wkt/q2/AuthenticationManager.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/wkt/q3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/wkt/q3/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +90,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.Solution (4)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -191,13 +194,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aac.q1044.longestduplicatesubstring.Solution" />
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aac.q0478.generaterandompointinacircle.Solution" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aac.q1044.longestduplicatesubstring.*" />
+          <option name="PATTERN" value="com.aac.q0478.generaterandompointinacircle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -206,12 +209,12 @@
       </method>
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aac.q0478.generaterandompointinacircle.Solution" />
+      <option name="MAIN_CLASS_NAME" value="com.aac.wkt.q2.Solution" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aac.q0478.generaterandompointinacircle.*" />
+          <option name="PATTERN" value="com.aac.wkt.q2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -333,11 +336,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (4)" />
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (3)" />
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Solution (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -533,7 +536,10 @@
       <workItem from="1615924500420" duration="344000" />
       <workItem from="1615924902203" duration="624000" />
       <workItem from="1616044221457" duration="2040000" />
-      <workItem from="1616149979691" duration="329000" />
+      <workItem from="1616149979691" duration="387000" />
+      <workItem from="1616249920104" duration="6599000" />
+      <workItem from="1616258018133" duration="245000" />
+      <workItem from="1616292080973" duration="409000" />
     </task>
     <task id="LOCAL-00001" summary="idea default changes.">
       <created>1548999425407</created>
@@ -801,7 +807,14 @@
       <option name="project" value="LOCAL" />
       <updated>1615788759087</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Mar 19 daily challenge.">
+      <created>1616150353803</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1616150353803</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TodoView">
@@ -839,7 +852,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Problems solved using stack and queue including q0232, q0225, q0155, q0020, q0739, q0496, q0503.&#10;Problems solved using hashtable including q0535, q0001, q0594.&#10;Problems related to string including q0242, q0205, q0409, q0009, q0647, q0696." />
     <MESSAGE value="Problems related to arrays and matrices including q0283, qo645, q0448, q0442, q0287, q0240, q0378." />
     <MESSAGE value="Problems related to linked list including q0160, q0206, q0021, q0083, q0234, q0328." />
     <MESSAGE value="Refactored ListNode.java and TreeNode.java.&#10;Problems related to tree including q0094, q0101, q0104, q0108, q0110, q0111, q0112, q0144, q0145, q0226, q0235, q0236, q0257, q0337, q0404, q0437, q0501, q0513, q0530, q0538, q0543, q0572, q0617, q0637, q0653, q0669, q0671, q0687." />
@@ -864,7 +876,8 @@
     <MESSAGE value="Mar 13 daily challenge. (ez dp)" />
     <MESSAGE value="Weekly contest 232." />
     <MESSAGE value="Mar 14 daily challenge." />
-    <option name="LAST_COMMIT_MESSAGE" value="Mar 14 daily challenge." />
+    <MESSAGE value="Mar 19 daily challenge." />
+    <option name="LAST_COMMIT_MESSAGE" value="Mar 19 daily challenge." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
