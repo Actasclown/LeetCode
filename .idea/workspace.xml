@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Mar 21 daily challenge.">
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0966/vowelspellchecker/Solution.java" afterDir="false" />
+    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Mar 22 daily challenge.">
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0870/advantageshuffle/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0923/threesumwithmultiplicity/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +87,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.Solution (1)">
+  <component name="RunManager" selected="Application.Solution (5)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -162,20 +163,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aac.q0823.binarytreeswithfactors.Solution" />
-      <module name="LeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.aac.q0823.binarytreeswithfactors.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.aac.wkt.q1.Solution" />
       <module name="LeetCode" />
@@ -197,6 +184,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.aac.wkt.q3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aac.q0870.advantageshuffle.Solution" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aac.q0870.advantageshuffle.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -346,11 +347,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -552,6 +553,8 @@
       <workItem from="1616292080973" duration="11613000" />
       <workItem from="1616355944886" duration="997000" />
       <workItem from="1616444823262" duration="5310000" />
+      <workItem from="1616530318904" duration="4422000" />
+      <workItem from="1616636229016" duration="3485000" />
     </task>
     <task id="LOCAL-00001" summary="idea default changes.">
       <created>1548999425407</created>
@@ -854,7 +857,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616356945190</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Mar 22 daily challenge.">
+      <created>1616530348556</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1616530348557</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TodoView">
@@ -892,7 +902,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Problems related to bit operation including q0461, q0190, q0342, q0231, q0136, q0260, q0693, q0476, q0371, q0318." />
     <MESSAGE value="~2020/03/30 random practices." />
     <MESSAGE value="Practices mainly about concurrency." />
     <MESSAGE value="Recent random practices." />
@@ -917,7 +926,8 @@
     <MESSAGE value="Mar 20 daily challenge." />
     <MESSAGE value="233 weekly challenge." />
     <MESSAGE value="Mar 21 daily challenge." />
-    <option name="LAST_COMMIT_MESSAGE" value="Mar 21 daily challenge." />
+    <MESSAGE value="Mar 22 daily challenge." />
+    <option name="LAST_COMMIT_MESSAGE" value="Mar 22 daily challenge." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
