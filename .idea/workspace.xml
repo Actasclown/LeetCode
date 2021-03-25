@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Mar 22 daily challenge.">
+    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Mar 23, 24 daily challenge.">
       <change afterPath="$PROJECT_DIR$/src/com/aac/q0870/advantageshuffle/Solution.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/com/aac/q0923/threesumwithmultiplicity/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -554,7 +554,7 @@
       <workItem from="1616355944886" duration="997000" />
       <workItem from="1616444823262" duration="5310000" />
       <workItem from="1616530318904" duration="4422000" />
-      <workItem from="1616636229016" duration="3485000" />
+      <workItem from="1616636229016" duration="3515000" />
     </task>
     <task id="LOCAL-00001" summary="idea default changes.">
       <created>1548999425407</created>
@@ -864,7 +864,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616530348557</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="Mar 23, 24 daily challenge.">
+      <created>1616644288669</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1616644288670</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TodoView">
@@ -902,7 +909,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="~2020/03/30 random practices." />
     <MESSAGE value="Practices mainly about concurrency." />
     <MESSAGE value="Recent random practices." />
     <MESSAGE value="Jan 31 daily challenge." />
@@ -927,7 +933,8 @@
     <MESSAGE value="233 weekly challenge." />
     <MESSAGE value="Mar 21 daily challenge." />
     <MESSAGE value="Mar 22 daily challenge." />
-    <option name="LAST_COMMIT_MESSAGE" value="Mar 22 daily challenge." />
+    <MESSAGE value="Mar 23, 24 daily challenge." />
+    <option name="LAST_COMMIT_MESSAGE" value="Mar 23, 24 daily challenge." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
