@@ -1,4 +1,4 @@
-package com.aac.wkt.q1;
+package com.aac.q1805.numberofdifferentintegersinastring;
 
 import java.util.HashSet;
 import java.util.Set;
@@ -35,4 +35,3 @@ public class Solution {
         System.out.println(new Solution().numDifferentIntegers("leet234code234"));
     }
 }
-
