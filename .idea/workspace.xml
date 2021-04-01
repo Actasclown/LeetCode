@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Mar 28 daily challenge.">
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0354/russiadollenvelopes/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0971/flipbinarytreetomatchpreordertraversal/Solution.java" afterDir="false" />
+    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Mar 29, 30 daily challenge. (A dfs problem and a dp problem, the latter is a transformation of LIS q0300)">
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0936/stampingthesequence/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +86,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.Solution (6)">
+  <component name="RunManager" selected="Application.Solution">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -191,20 +190,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aac.q0870.advantageshuffle.Solution" />
-      <module name="LeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.aac.q0870.advantageshuffle.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Solution (6)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.aac.q0354.russiadollenvelopes.Solution" />
       <module name="LeetCode" />
@@ -212,6 +197,20 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.aac.q0354.russiadollenvelopes.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aac.q0936.stampingthesequence.Solution" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aac.q0936.stampingthesequence.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -333,11 +332,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (6)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Solution (5)" />
       </list>
     </recent_temporary>
   </component>
@@ -548,14 +547,8 @@
       <workItem from="1616976357128" duration="6247000" />
       <workItem from="1616987275181" duration="66000" />
       <workItem from="1617075366833" duration="1210000" />
-      <workItem from="1617160531975" duration="2830000" />
-    </task>
-    <task id="LOCAL-00001" summary="idea default changes.">
-      <created>1548999425407</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1548999425407</updated>
+      <workItem from="1617160531975" duration="3033000" />
+      <workItem from="1617257723899" duration="2452000" />
     </task>
     <task id="LOCAL-00002" summary="idea default changes.">
       <created>1548999678190</created>
@@ -893,7 +886,14 @@
       <option name="project" value="LOCAL" />
       <updated>1616987327741</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Mar 29, 30 daily challenge. (A dfs problem and a dp problem, the latter is a transformation of LIS q0300)">
+      <created>1617165183858</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1617165183858</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TodoView">
@@ -931,7 +931,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Mar 1 daily challenge." />
     <MESSAGE value="Mar 3 daily challenge and a simple dp problem(suffix tree is also a solution)." />
     <MESSAGE value="Nice example of Bellman-Ford algorithm and Dijkstra's algorithm." />
     <MESSAGE value="Merge sort." />
@@ -956,7 +955,8 @@
     <MESSAGE value="Mar 26 daily challenge." />
     <MESSAGE value="234 weekly challenge. (literally just get awake 5 min before the contest ends, big score loss, lol)" />
     <MESSAGE value="Mar 28 daily challenge." />
-    <option name="LAST_COMMIT_MESSAGE" value="Mar 28 daily challenge." />
+    <MESSAGE value="Mar 29, 30 daily challenge. (A dfs problem and a dp problem, the latter is a transformation of LIS q0300)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Mar 29, 30 daily challenge. (A dfs problem and a dp problem, the latter is a transformation of LIS q0300)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
