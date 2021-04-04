@@ -1,6 +1,7 @@
-package com.aac.wkt.q2;
+package com.aac.q1817.findingtheusersactiveminutes;
 
-import java.util.*;
+import java.util.HashMap;
+import java.util.HashSet;
 
 public class Solution {
     public int[] findingUsersActiveMinutes(int[][] logs, int k) {

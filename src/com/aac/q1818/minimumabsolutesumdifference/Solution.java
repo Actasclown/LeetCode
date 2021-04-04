@@ -1,4 +1,4 @@
-package com.aac.wkt.q3;
+package com.aac.q1818.minimumabsolutesumdifference;
 
 import java.util.*;
 
@@ -164,4 +164,3 @@ public class Solution {
         System.out.println(new Solution().minAbsoluteSumDiff(nums1, nums2));
     }
 }
-

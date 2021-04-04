@@ -1,9 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Mar 29, 30 daily challenge. (A dfs problem and a dp problem, the latter is a transformation of LIS q0300)">
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0936/stampingthesequence/Solution.java" afterDir="false" />
+    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Mar 31 daily challenge.">
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0032/longestvalidparentheses/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1803/countpairswithxorinarange/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1812/determinecolorofachessboardsquare/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1813/sentencesimilarityiii/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1814/countnicepairsinanarray/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/wkt/q1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/wkt/q1/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/wkt/q2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/wkt/q2/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/wkt/q3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/wkt/q3/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -86,7 +93,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.Solution (2)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -148,13 +155,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aac.q0916.wordsubsets.Solution" />
+    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aac.wkt.q2.Solution" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aac.q0916.wordsubsets.*" />
+          <option name="PATTERN" value="com.aac.wkt.q2.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -162,13 +169,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aac.wkt.q1.Solution" />
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aac.wkt.q3.Solution" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aac.wkt.q1.*" />
+          <option name="PATTERN" value="com.aac.wkt.q3.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -332,11 +339,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (2)" />
+        <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (6)" />
         <item itemvalue="Application.Solution (4)" />
-        <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -548,14 +555,10 @@
       <workItem from="1616987275181" duration="66000" />
       <workItem from="1617075366833" duration="1210000" />
       <workItem from="1617160531975" duration="3033000" />
-      <workItem from="1617257723899" duration="2452000" />
-    </task>
-    <task id="LOCAL-00002" summary="idea default changes.">
-      <created>1548999678190</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1548999678190</updated>
+      <workItem from="1617257723899" duration="2748000" />
+      <workItem from="1617414597057" duration="2662000" />
+      <workItem from="1617460276283" duration="8839000" />
+      <workItem from="1617503315007" duration="8663000" />
     </task>
     <task id="LOCAL-00003" summary="Examples of binary search including q0069, q0441, q0540.">
       <created>1549523563197</created>
@@ -893,7 +896,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617165183858</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Mar 31 daily challenge.">
+      <created>1617260503937</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1617260503938</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TodoView">
@@ -931,7 +941,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Mar 3 daily challenge and a simple dp problem(suffix tree is also a solution)." />
     <MESSAGE value="Nice example of Bellman-Ford algorithm and Dijkstra's algorithm." />
     <MESSAGE value="Merge sort." />
     <MESSAGE value="Mar 6 daily challenge. A trie try. lol" />
@@ -956,7 +965,8 @@
     <MESSAGE value="234 weekly challenge. (literally just get awake 5 min before the contest ends, big score loss, lol)" />
     <MESSAGE value="Mar 28 daily challenge." />
     <MESSAGE value="Mar 29, 30 daily challenge. (A dfs problem and a dp problem, the latter is a transformation of LIS q0300)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Mar 29, 30 daily challenge. (A dfs problem and a dp problem, the latter is a transformation of LIS q0300)" />
+    <MESSAGE value="Mar 31 daily challenge." />
+    <option name="LAST_COMMIT_MESSAGE" value="Mar 31 daily challenge." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

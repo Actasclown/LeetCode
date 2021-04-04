@@ -1,4 +1,4 @@
-package com.aac.wkt.q1;
+package com.aac.q1816.truncatedsentence;
 
 public class Solution {
     public String truncateSentence(String s, int k) {
@@ -12,4 +12,3 @@ public class Solution {
         return sb.toString();
     }
 }
-
