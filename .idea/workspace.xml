@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Biweekly Contest 49.&#10;Apr 3 daily challenge.&#10;Weekly Contest 235.">
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0622/designcircularqueue/MyCircularQueue.java" afterDir="false" />
+    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Apr 4 daily challenge.">
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0775/globalandlocalinversions/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -553,14 +553,8 @@
       <workItem from="1617414597057" duration="2662000" />
       <workItem from="1617460276283" duration="8839000" />
       <workItem from="1617503315007" duration="8921000" />
-      <workItem from="1617594982993" duration="1426000" />
-    </task>
-    <task id="LOCAL-00004" summary="Examples of greedy algorithm including q0445, q0452, q0122, q0605, q0665, q0392, q0763, q0406.">
-      <created>1549702201124</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1549702201124</updated>
+      <workItem from="1617594982993" duration="2251000" />
+      <workItem from="1617677676697" duration="2021000" />
     </task>
     <task id="LOCAL-00005" summary="Examples of two pointers including q0167, q0345, q0633, q0680, q0088, q0141, q0524.">
       <created>1549783394927</created>
@@ -898,7 +892,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617512613386</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Apr 4 daily challenge.">
+      <created>1617596487616</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1617596487616</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TodoView">
@@ -936,7 +937,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Merge sort." />
     <MESSAGE value="Mar 6 daily challenge. A trie try. lol" />
     <MESSAGE value="Weekly Contest 231." />
     <MESSAGE value="Problem 4 of weekly Contest 231. The problem itself is a simple DP. The point is to reduce workload in every stage." />
@@ -961,7 +961,8 @@
     <MESSAGE value="Mar 29, 30 daily challenge. (A dfs problem and a dp problem, the latter is a transformation of LIS q0300)" />
     <MESSAGE value="Mar 31 daily challenge." />
     <MESSAGE value="Biweekly Contest 49.&#10;Apr 3 daily challenge.&#10;Weekly Contest 235." />
-    <option name="LAST_COMMIT_MESSAGE" value="Biweekly Contest 49.&#10;Apr 3 daily challenge.&#10;Weekly Contest 235." />
+    <MESSAGE value="Apr 4 daily challenge." />
+    <option name="LAST_COMMIT_MESSAGE" value="Apr 4 daily challenge." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
