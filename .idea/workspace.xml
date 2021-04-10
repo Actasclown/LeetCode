@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Apr 5 daily challenge. (naughty problem lol)">
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1551/minimumoperationstomakearrayequal/Solution.java" afterDir="false" />
+    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Apr 6 daily challenge.">
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0953/verifyinganaliendictionary/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1704/determineifstringhalvesarealike/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +88,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.Solution (2)">
+  <component name="RunManager" selected="Application.Solution (4)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -177,13 +178,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aac.q0423.reconstructoriginaldigitsfromenglish.Solution" />
+    <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aac.q1704.determineifstringhalvesarealike.Solution" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aac.q0423.reconstructoriginaldigitsfromenglish.*" />
+          <option name="PATTERN" value="com.aac.q1704.determineifstringhalvesarealike.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -191,13 +192,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (6)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aac.q0354.russiadollenvelopes.Solution" />
+    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aac.q0953.verifyinganaliendictionary.Solution" />
       <module name="LeetCode" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.aac.q0354.russiadollenvelopes.*" />
+          <option name="PATTERN" value="com.aac.q0953.verifyinganaliendictionary.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -333,11 +334,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (4)" />
+        <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Solution (6)" />
-        <item itemvalue="Application.Solution (4)" />
       </list>
     </recent_temporary>
   </component>
@@ -555,14 +556,9 @@
       <workItem from="1617503315007" duration="8921000" />
       <workItem from="1617594982993" duration="2251000" />
       <workItem from="1617677676697" duration="2236000" />
-      <workItem from="1617768879835" duration="704000" />
-    </task>
-    <task id="LOCAL-00006" summary="Examples of two pointers including q0167, q0345, q0633, q0680, q0088, q0141, q0524.">
-      <created>1549854517120</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1549854517120</updated>
+      <workItem from="1617768879835" duration="984000" />
+      <workItem from="1617829598666" duration="1637000" />
+      <workItem from="1618012220279" duration="1951000" />
     </task>
     <task id="LOCAL-00007" summary="Examples of sort including q0215, q0347.">
       <created>1550470885223</created>
@@ -900,7 +896,14 @@
       <option name="project" value="LOCAL" />
       <updated>1617679868452</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Apr 6 daily challenge.">
+      <created>1617769862212</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1617769862212</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TodoView">
@@ -938,7 +941,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Weekly Contest 231." />
     <MESSAGE value="Problem 4 of weekly Contest 231. The problem itself is a simple DP. The point is to reduce workload in every stage." />
     <MESSAGE value="Mar 7 daily challenge." />
     <MESSAGE value="Mar 8, 10 daily challenge. (Mar 9 challenge is q0623, a binary tree problem done before) q1316 is a nice example where rolling hash significantly saves time." />
@@ -963,7 +965,8 @@
     <MESSAGE value="Biweekly Contest 49.&#10;Apr 3 daily challenge.&#10;Weekly Contest 235." />
     <MESSAGE value="Apr 4 daily challenge." />
     <MESSAGE value="Apr 5 daily challenge. (naughty problem lol)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Apr 5 daily challenge. (naughty problem lol)" />
+    <MESSAGE value="Apr 6 daily challenge." />
+    <option name="LAST_COMMIT_MESSAGE" value="Apr 6 daily challenge." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
