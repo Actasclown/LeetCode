@@ -1,4 +1,4 @@
-package com.aac.wkt.q3;
+package com.aac.q1824.minimumsidewayjumps;
 
 public class Solution {
     public int minSideJumps(int[] obstacles) {
@@ -31,4 +31,3 @@ public class Solution {
         System.out.println(new Solution().minSideJumps(test));
     }
 }
-

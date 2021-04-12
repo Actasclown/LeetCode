@@ -1,4 +1,4 @@
-package com.aac.wkt.q2;
+package com.aac.q1823.findthewinnerofthecirculargame;
 
 public class Solution {
     public int findTheWinner(int n, int k) {
