@@ -1,6 +1,7 @@
 package com.aac.q0509.fibonaccinumber;
 
 public class Solution {
+    
     public int fib(int n) {
         if(n == 0)
             return 0;

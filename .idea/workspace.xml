@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="April 12 daily challenge.">
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0086/partitionlist/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0509/fibonaccinumber/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/q0509/fibonaccinumber/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/q0509/fibonaccinumber/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -565,14 +563,7 @@
       <workItem from="1618193339463" duration="3028000" />
       <workItem from="1618264974106" duration="2169000" />
       <workItem from="1618450202477" duration="1578000" />
-      <workItem from="1618517037567" duration="696000" />
-    </task>
-    <task id="LOCAL-00011" summary="Examples of dynamic programming including q0343, q0279, q0091, q0062, q0064, q0070, q0198, q0213, q0300, q0376, q0416, q0139, q0494, q0474, q0322, q0377, q0123, q0188, q0303, q0053, q0413, q0583, q0072, q0309, q0338, q0646, q0121, q0650.">
-      <created>1557064534867</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1557064534867</updated>
+      <workItem from="1618517037567" duration="1002000" />
     </task>
     <task id="LOCAL-00012" summary="Problems solved using stack and queue including q0232, q0225, q0155, q0020, q0739, q0496, q0503.&#10;Problems solved using hashtable including q0535, q0001, q0594.&#10;Problems related to string including q0242, q0205, q0409, q0009, q0647, q0696.">
       <created>1557667990980</created>
@@ -910,7 +901,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618267127012</updated>
     </task>
-    <option name="localTasksCounter" value="60" />
+    <task id="LOCAL-00060" summary="April 12 daily challenge.">
+      <created>1618517946579</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1618517946579</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TodoView">
