@@ -1,4 +1,4 @@
-package com.aac.wkt.q1;
+package com.aac.q1832.checkifthesentenceispangram;
 
 public class Solution {
     public boolean checkIfPangram(String sentence) {
@@ -15,4 +15,3 @@ public class Solution {
         return false;
     }
 }
-

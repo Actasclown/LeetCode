@@ -1,4 +1,4 @@
-package com.aac.wkt.q3;
+package com.aac.q1834.singlethreadedcpu;
 
 import java.util.Comparator;
 import java.util.PriorityQueue;
@@ -57,18 +57,4 @@ public class Solution {
 
         return res;
     }
-
-    public static void main(String[] args) {
-        int[][] test = {{35,36},{11,7},{15,47},{34,2},{47,19},{16,14},{19,8},{7,34},{38,15},{16,18},{27,22},{7,15},{43,2},{10,5},{5,4},{3,11}};
-        //15 14 13 1 6 3 5 12 8 11 9 4 10 7 0 2
-        //int[][] test = {{1,2}, {2,4}, {3,2}, {4,1}};
-        //[0,2,3,1]
-        //int[][] test = {{19,13},{16,9},{21,10},{32,25},{37,4},{49,24},{2,15},{38,41},{37,34},{33,6},{45,4},{18,18},{46,39},{12,24}};
-        //[6,1,2,9,4,10,0,11,5,13,3,8,12,7]
-        for(int i : new Solution().getOrder(test)) {
-            System.out.print(i + " ");
-        }
-        System.out.println();
-    }
 }
-

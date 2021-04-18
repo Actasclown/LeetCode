@@ -1,4 +1,4 @@
-package com.aac.wkt.q4;
+package com.aac.q1835.findxorsumofallpairsbitwiseand;
 
 public class Solution {
     public int getXORSum(int[] arr1, int[] arr2) {
