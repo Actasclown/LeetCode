@@ -1,4 +1,4 @@
-package com.aac.wkt.q1;
+package com.aac.q1827.minimumoperationstomakethearrayincreasing;
 
 public class Solution {
     public int minOperations(int[] nums) {
@@ -15,4 +15,3 @@ public class Solution {
         return res;
     }
 }
-

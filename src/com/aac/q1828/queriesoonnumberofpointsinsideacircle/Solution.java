@@ -1,4 +1,4 @@
-package com.aac.wkt.q2;
+package com.aac.q1828.queriesoonnumberofpointsinsideacircle;
 
 public class Solution {
     public int[] countPoints(int[][] points, int[][] queries) {

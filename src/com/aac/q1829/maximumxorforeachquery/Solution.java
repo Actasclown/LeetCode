@@ -1,4 +1,4 @@
-package com.aac.wkt.q3;
+package com.aac.q1829.maximumxorforeachquery;
 
 public class Solution {
     public int[] getMaximumXor(int[] nums, int maximumBit) {
@@ -20,4 +20,3 @@ public class Solution {
         new Solution().getMaximumXor(null, 3);
     }
 }
-
