@@ -1,17 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Biweekly Contest 50.">
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1074/numberofsubmatricesthatsumtotarget/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1832/checkifthesentenceispangram/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1833/maximumicecreambars/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1834/singlethreadedcpu/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1835/findxorsumofallpairsbitwiseand/Solution.java" afterDir="false" />
+    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Weekly Contest 237.&#10;Apr 17 daily challenge.">
+      <change afterPath="$PROJECT_DIR$/src/com/aac/datastructure/Node.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0019/removenthnodefromendoflist/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0589/narytreepreordertraversal/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/wkt/q1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/wkt/q1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/wkt/q2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/wkt/q2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/wkt/q3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/wkt/q3/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/wkt/q4/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/wkt/q4/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -575,14 +569,9 @@
       <workItem from="1618517037567" duration="1163000" />
       <workItem from="1618612354933" duration="5400000" />
       <workItem from="1618669880222" duration="5509000" />
-      <workItem from="1618712005697" duration="9521000" />
-    </task>
-    <task id="LOCAL-00015" summary="Refactored ListNode.java and TreeNode.java.&#10;Problems related to tree including q0094, q0101, q0104, q0108, q0110, q0111, q0112, q0144, q0145, q0226, q0235, q0236, q0257, q0337, q0404, q0437, q0501, q0513, q0530, q0538, q0543, q0572, q0617, q0637, q0653, q0669, q0671, q0687.">
-      <created>1559551798283</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1559551798283</updated>
+      <workItem from="1618712005697" duration="9695000" />
+      <workItem from="1618808868295" duration="2683000" />
+      <workItem from="1618957681136" duration="659000" />
     </task>
     <task id="LOCAL-00016" summary="Supplementary problems related to tree including q0208, q0230, q0677.">
       <created>1562163360759</created>
@@ -920,7 +909,14 @@
       <option name="project" value="LOCAL" />
       <updated>1618712612301</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="Weekly Contest 237.&#10;Apr 17 daily challenge.">
+      <created>1618726055101</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1618726055101</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TodoView">
@@ -958,7 +954,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Weekly contest 232." />
     <MESSAGE value="Mar 14 daily challenge." />
     <MESSAGE value="Mar 19 daily challenge." />
     <MESSAGE value="Biweekly challenge." />
@@ -983,7 +978,8 @@
     <MESSAGE value="April 15 daily challenge." />
     <MESSAGE value="April 16 daily challenge." />
     <MESSAGE value="Biweekly Contest 50." />
-    <option name="LAST_COMMIT_MESSAGE" value="Biweekly Contest 50." />
+    <MESSAGE value="Weekly Contest 237.&#10;Apr 17 daily challenge." />
+    <option name="LAST_COMMIT_MESSAGE" value="Weekly Contest 237.&#10;Apr 17 daily challenge." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
