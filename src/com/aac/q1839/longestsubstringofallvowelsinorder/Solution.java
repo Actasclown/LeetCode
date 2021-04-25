@@ -1,4 +1,4 @@
-package com.aac.wkt.q3;
+package com.aac.q1839.longestsubstringofallvowelsinorder;
 
 public class Solution {
     public int longestBeautifulSubstring(String word) {
@@ -45,4 +45,3 @@ public class Solution {
         System.out.println(new Solution().longestBeautifulSubstring("aeiaaioaaaaeiiiiouuuooaauuaeiu"));
     }
 }
-

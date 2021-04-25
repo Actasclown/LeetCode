@@ -1,4 +1,4 @@
-package com.aac.wkt.q2;
+package com.aac.q1838.frequencyofthemostfrequentelement;
 
 import java.util.Arrays;
 
