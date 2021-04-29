@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Apr 24 daily challenge. (Tarjan's bridge-finding algorithm)">
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0048/rotateimage/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1642/furthestbuildingyoucanreach/Solution.java" afterDir="false" />
+    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Apr 26 daily challenge.">
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0063/uniquepathsii/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -575,14 +574,8 @@
       <workItem from="1619127114080" duration="2110000" />
       <workItem from="1619314504592" duration="10568000" />
       <workItem from="1619393237763" duration="2529000" />
-      <workItem from="1619501443950" duration="815000" />
-    </task>
-    <task id="LOCAL-00021" summary="Recent random practices.">
-      <created>1610696599696</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1610696599696</updated>
+      <workItem from="1619501443950" duration="868000" />
+      <workItem from="1619679544801" duration="2032000" />
     </task>
     <task id="LOCAL-00022" summary="Jan 31 daily challenge.">
       <created>1612145126634</created>
@@ -920,7 +913,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619333214267</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="Apr 26 daily challenge.">
+      <created>1619502308246</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1619502308246</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TodoView">
@@ -958,7 +958,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Mar 21 daily challenge." />
     <MESSAGE value="Mar 22 daily challenge." />
     <MESSAGE value="Mar 23, 24 daily challenge." />
     <MESSAGE value="Mar 26 daily challenge." />
@@ -983,7 +982,8 @@
     <MESSAGE value="Apr 22 daily challenge." />
     <MESSAGE value="Weekly Contest 238." />
     <MESSAGE value="Apr 24 daily challenge. (Tarjan's bridge-finding algorithm)" />
-    <option name="LAST_COMMIT_MESSAGE" value="Apr 24 daily challenge. (Tarjan's bridge-finding algorithm)" />
+    <MESSAGE value="Apr 26 daily challenge." />
+    <option name="LAST_COMMIT_MESSAGE" value="Apr 26 daily challenge." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
