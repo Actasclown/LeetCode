@@ -1,6 +1,5 @@
-package com.aac.wkt.q2;
+package com.aac.q1849.splitingastringintodescendingconsecutivevalues;
 
-import java.util.Arrays;
 import java.util.Stack;
 
 public class Solution {
@@ -18,11 +17,11 @@ public class Solution {
         if(s.length() < 2)
             return false;
         char[] sChars = s.toCharArray();
-        Stack<Pair> stack = new Stack<>();
+        Stack<Solution.Pair> stack = new Stack<>();
         int cur = 1;
         int num = 0;
         int bit = 0;
-        stack.push(new Pair(1, sChars[0] - '0'));
+        stack.push(new Solution.Pair(1, sChars[0] - '0'));
         while (true) {
             num *= 10;
             num += sChars[cur] - '0';

@@ -1,4 +1,4 @@
-package com.aac.wkt.q1;
+package com.aac.q1848.minimumdistancetothetargetelement;
 
 public class Solution {
     public int getMinDistance(int[] nums, int target, int start) {
@@ -16,4 +16,3 @@ public class Solution {
         }
     }
 }
-

@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Apr 28 daily challenge.">
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0034/findfirstandlastpositionofelementinsortedarray/Solution.java" afterDir="false" />
+    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Apr 29 daily challenge.">
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0970/powerfulintegers/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1848/minimumdistancetothetargetelement/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/wkt/q1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/wkt/q1/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/wkt/q2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/wkt/q2/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -87,7 +90,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.Solution (5)">
+  <component name="RunManager" selected="Application.Solution (4)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -333,10 +336,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (2)" />
-        <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (3)" />
       </list>
     </recent_temporary>
@@ -576,14 +579,9 @@
       <workItem from="1619393237763" duration="2529000" />
       <workItem from="1619501443950" duration="868000" />
       <workItem from="1619679544801" duration="2098000" />
-      <workItem from="1619764784994" duration="1621000" />
-    </task>
-    <task id="LOCAL-00023" summary="Mar 1 daily challenge.">
-      <created>1614649051441</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1614649051441</updated>
+      <workItem from="1619764784994" duration="1935000" />
+      <workItem from="1619846102794" duration="1575000" />
+      <workItem from="1619922491838" duration="7034000" />
     </task>
     <task id="LOCAL-00024" summary="Mar 3 daily challenge and a simple dp problem(suffix tree is also a solution).">
       <created>1614834801473</created>
@@ -921,7 +919,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619683595645</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="Apr 29 daily challenge.">
+      <created>1619766675943</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1619766675943</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TodoView">
@@ -959,7 +964,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Mar 23, 24 daily challenge." />
     <MESSAGE value="Mar 26 daily challenge." />
     <MESSAGE value="234 weekly challenge. (literally just get awake 5 min before the contest ends, big score loss, lol)" />
     <MESSAGE value="Mar 28 daily challenge." />
@@ -984,7 +988,8 @@
     <MESSAGE value="Apr 24 daily challenge. (Tarjan's bridge-finding algorithm)" />
     <MESSAGE value="Apr 26 daily challenge." />
     <MESSAGE value="Apr 28 daily challenge." />
-    <option name="LAST_COMMIT_MESSAGE" value="Apr 28 daily challenge." />
+    <MESSAGE value="Apr 29 daily challenge." />
+    <option name="LAST_COMMIT_MESSAGE" value="Apr 29 daily challenge." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
