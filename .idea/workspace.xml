@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Apr 29 daily challenge.">
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0970/powerfulintegers/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1848/minimumdistancetothetargetelement/Solution.java" afterDir="false" />
+    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Weekly Contest 239.">
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0745/prefixandsuffixsearch/WordFilter.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/wkt/q1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/wkt/q1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/wkt/q2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/wkt/q2/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -581,14 +578,7 @@
       <workItem from="1619679544801" duration="2098000" />
       <workItem from="1619764784994" duration="1935000" />
       <workItem from="1619846102794" duration="1575000" />
-      <workItem from="1619922491838" duration="7034000" />
-    </task>
-    <task id="LOCAL-00024" summary="Mar 3 daily challenge and a simple dp problem(suffix tree is also a solution).">
-      <created>1614834801473</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1614834801473</updated>
+      <workItem from="1619922491838" duration="9118000" />
     </task>
     <task id="LOCAL-00025" summary="Nice example of Bellman-Ford algorithm and Dijkstra's algorithm.">
       <created>1614933952058</created>
@@ -926,7 +916,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619766675943</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="Weekly Contest 239.">
+      <created>1619930580614</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1619930580615</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TodoView">
@@ -964,7 +961,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Mar 26 daily challenge." />
     <MESSAGE value="234 weekly challenge. (literally just get awake 5 min before the contest ends, big score loss, lol)" />
     <MESSAGE value="Mar 28 daily challenge." />
     <MESSAGE value="Mar 29, 30 daily challenge. (A dfs problem and a dp problem, the latter is a transformation of LIS q0300)" />
@@ -989,7 +985,8 @@
     <MESSAGE value="Apr 26 daily challenge." />
     <MESSAGE value="Apr 28 daily challenge." />
     <MESSAGE value="Apr 29 daily challenge." />
-    <option name="LAST_COMMIT_MESSAGE" value="Apr 29 daily challenge." />
+    <MESSAGE value="Weekly Contest 239." />
+    <option name="LAST_COMMIT_MESSAGE" value="Weekly Contest 239." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
