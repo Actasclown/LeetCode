@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Weekly Contest 239.">
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0745/prefixandsuffixsearch/WordFilter.java" afterDir="false" />
+    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="May 1 daily challenge. (Trie)">
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0630/coursescheduleiii/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -578,14 +578,8 @@
       <workItem from="1619679544801" duration="2098000" />
       <workItem from="1619764784994" duration="1935000" />
       <workItem from="1619846102794" duration="1575000" />
-      <workItem from="1619922491838" duration="9118000" />
-    </task>
-    <task id="LOCAL-00025" summary="Nice example of Bellman-Ford algorithm and Dijkstra's algorithm.">
-      <created>1614933952058</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1614933952059</updated>
+      <workItem from="1619922491838" duration="9232000" />
+      <workItem from="1620019489853" duration="1106000" />
     </task>
     <task id="LOCAL-00026" summary="Merge sort.">
       <created>1614997443179</created>
@@ -923,7 +917,14 @@
       <option name="project" value="LOCAL" />
       <updated>1619930580615</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="May 1 daily challenge. (Trie)">
+      <created>1619932676009</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1619932676009</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TodoView">
@@ -961,7 +962,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="234 weekly challenge. (literally just get awake 5 min before the contest ends, big score loss, lol)" />
     <MESSAGE value="Mar 28 daily challenge." />
     <MESSAGE value="Mar 29, 30 daily challenge. (A dfs problem and a dp problem, the latter is a transformation of LIS q0300)" />
     <MESSAGE value="Mar 31 daily challenge." />
@@ -986,7 +986,8 @@
     <MESSAGE value="Apr 28 daily challenge." />
     <MESSAGE value="Apr 29 daily challenge." />
     <MESSAGE value="Weekly Contest 239." />
-    <option name="LAST_COMMIT_MESSAGE" value="Weekly Contest 239." />
+    <MESSAGE value="May 1 daily challenge. (Trie)" />
+    <option name="LAST_COMMIT_MESSAGE" value="May 1 daily challenge. (Trie)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
