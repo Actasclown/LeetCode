@@ -1,4 +1,4 @@
-package com.aac.wkt.q1;
+package com.aac.q1854.maximumpopulationyear;
 
 public class Solution {
     public int maximumPopulation(int[][] logs) {
@@ -19,4 +19,3 @@ public class Solution {
         return res;
     }
 }
-

@@ -1,48 +1,53 @@
 package com.aac.wkt.q3;
 
-public class Solution {
-    public int longestBeautifulSubstring(String word) {
-        char[] wordChars = word.toCharArray();
-        int res = 0;
-        int cur = 0;
-        int last = -1;
-        char[] vowel = {'a', 'e', 'i', 'o', 'u'};
-        for (int i = 0; i < wordChars.length; i++) {
-            if (last == -1) {
-                if (wordChars[i] == 'a') {
-                    cur = 1;
-                    last = 0;
-                } else {
-                    continue;
-                }
-            } else {
-                if (wordChars[i] == vowel[last]) {
-                    cur += 1;
-                } else if (last < 4 && wordChars[i] == vowel[last + 1]) {
-                    cur += 1;
-                    last += 1;
-                } else {
-                    if (last == 4) {
-                        res = Math.max(res, cur);
-                    }
-                    if (wordChars[i] == vowel[0]) {
-                        cur = 1;
-                        last = 0;
-                    } else {
-                        cur = 0;
-                        last = -1;
-                    }
-                }
-            }
-        }
-        if (last == 4) {
-            res = Math.max(res, cur);
-        }
-        return res;
-    }
+import java.util.Comparator;
+import java.util.PriorityQueue;
 
-    public static void main(String[] args) {
-        System.out.println(new Solution().longestBeautifulSubstring("aeiaaioaaaaeiiiiouuuooaauuaeiu"));
-    }
+public class Solution {
+//    public int maxSumMinProduct(int[] nums) {
+//        long[] preSum = new long[nums.length + 1];
+//        preSum[0] = 0;
+//        for (int i = 1; i <= nums.length; i++) {
+//            preSum[i] = preSum[i - 1] + nums[i - 1];
+//        }
+//        long res = 0;
+//        for(int i = 0;i < nums.length;++i) {
+//            long min = nums[i];
+//            for (int j = i; j < nums.length; j++) {
+//                min = nums[j] < min ? nums[j] : min;
+//                long subSum = preSum[j + 1] - preSum[i];
+//                long subPro = min * subSum;
+//                if(subPro > res)
+//                    res = subPro;
+//            }
+//        }
+//        return (int)(res % 1000000007);
+//    }
+
+//    class Pair {
+//        int value;
+//        int position;
+//        public Pair(int v, int p) {
+//            value = v;
+//            position = p;
+//        }
+//    }
+//
+//    public int maxSumMinProduct(int[] nums) {
+//        PriorityQueue<Pair> pq = new PriorityQueue<>(new Comparator<Pair>() {
+//            @Override
+//            public int compare(Pair o1, Pair o2) {
+//                return o1.value - o2.value;
+//            }
+//        });
+//        long[] preSum = new long[nums.length + 1];
+//        preSum[0] = 0;
+//        for (int i = 1; i <= nums.length; i++) {
+//            preSum[i] = preSum[i - 1] + nums[i - 1];
+//        }
+//        for (int i = 0; i < nums.length; i++) {
+//            pq.offer(new Pair(nums[i], i));
+//        }
+//    }
 }
 

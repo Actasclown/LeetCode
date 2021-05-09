@@ -1,4 +1,4 @@
-package com.aac.wkt.q2;
+package com.aac.q1855.maximumdistancebetweenapairofvalues;
 
 public class Solution {
     public int maxDistance(int[] nums1, int[] nums2) {
