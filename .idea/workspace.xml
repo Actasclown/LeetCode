@@ -1,14 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="May 6 daily challenge.">
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0906/superpalindromes/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1854/maximumpopulationyear/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1855/maximumdistancebetweenapairofvalues/Solution.java" afterDir="false" />
+    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Weekly Contest 240.&#10;May 8 daily challenge.">
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1354/constructtargetarraywithmuiltiplesums/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/wkt/q1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/wkt/q1/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/wkt/q2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/wkt/q2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/wkt/q3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/wkt/q3/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -587,14 +582,8 @@
       <workItem from="1620019489853" duration="1266000" />
       <workItem from="1620275786083" duration="1504000" />
       <workItem from="1620362694524" duration="1557000" />
-      <workItem from="1620526216774" duration="7587000" />
-    </task>
-    <task id="LOCAL-00028" summary="Weekly Contest 231.">
-      <created>1615093946367</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1615093946367</updated>
+      <workItem from="1620526216774" duration="7639000" />
+      <workItem from="1620625362262" duration="311000" />
     </task>
     <task id="LOCAL-00029" summary="Problem 4 of weekly Contest 231. The problem itself is a simple DP. The point is to reduce workload in every stage.">
       <created>1615118375263</created>
@@ -932,7 +921,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620365103761</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="Weekly Contest 240.&#10;May 8 daily challenge.">
+      <created>1620542053981</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1620542053981</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TodoView">
@@ -970,7 +966,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Mar 31 daily challenge." />
     <MESSAGE value="Biweekly Contest 49.&#10;Apr 3 daily challenge.&#10;Weekly Contest 235." />
     <MESSAGE value="Apr 4 daily challenge." />
     <MESSAGE value="Apr 5 daily challenge. (naughty problem lol)" />
@@ -995,7 +990,8 @@
     <MESSAGE value="May 1 daily challenge. (Trie)" />
     <MESSAGE value="May 2 daily challenge. (Greedy)" />
     <MESSAGE value="May 6 daily challenge." />
-    <option name="LAST_COMMIT_MESSAGE" value="May 6 daily challenge." />
+    <MESSAGE value="Weekly Contest 240.&#10;May 8 daily challenge." />
+    <option name="LAST_COMMIT_MESSAGE" value="Weekly Contest 240.&#10;May 8 daily challenge." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
