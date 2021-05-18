@@ -1,4 +1,4 @@
-package com.aac.wkt.q1;
+package com.aac.q1863.sumofallsubsetxortotals;
 
 public class Solution {
     public int subsetXORSum(int[] nums) {
@@ -20,4 +20,3 @@ public class Solution {
         System.out.println(new Solution().subsetXORSum(new int[] {1, 3}));
     }
 }
-

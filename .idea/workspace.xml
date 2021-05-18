@@ -1,11 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="May 9 daily challenge.">
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0114/flattenbinarytreetolinkedlist/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0816/ambiguouscoordinates/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1423/maximumpointsyoucanobtainfromcards/Solution.java" afterDir="false" />
+    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="May 14 daily challenge.">
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0065/validnumber/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0968/binarytreecameras/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1048/longeststringchain/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1863/sumofallsubsetxortotals/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1864/minimumnumberofswapstomakethebinarystringalternating/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1865/findingpairswithacertainsum/FindSumPairs.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/wkt/q1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/wkt/q1/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/wkt/q2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/wkt/q2/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/wkt/q3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/wkt/q3/FindSumPairs.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -89,7 +95,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.Solution (3)">
+  <component name="RunManager" selected="Application.Solution (2)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -165,6 +171,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aac.wkt.q1.Solution" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aac.wkt.q1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution (3)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.aac.q0816.ambiguouscoordinates.Solution" />
       <module name="LeetCode" />
@@ -200,20 +220,6 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.aac.q0034.findfirstandlastpositionofelementinsortedarray.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aac.wkt.q4.Solution" />
-      <module name="LeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.aac.wkt.q4.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -335,11 +341,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (1)" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (5)" />
-        <item itemvalue="Application.Solution" />
       </list>
     </recent_temporary>
   </component>
@@ -588,14 +594,10 @@
       <workItem from="1620625362262" duration="559000" />
       <workItem from="1620792231566" duration="709000" />
       <workItem from="1620941547233" duration="2227000" />
-      <workItem from="1621042163623" duration="1416000" />
-    </task>
-    <task id="LOCAL-00030" summary="Mar 7 daily challenge.">
-      <created>1615170906378</created>
-      <option name="number" value="00030" />
-      <option name="presentableId" value="LOCAL-00030" />
-      <option name="project" value="LOCAL" />
-      <updated>1615170906378</updated>
+      <workItem from="1621042163623" duration="1553000" />
+      <workItem from="1621131889320" duration="101000" />
+      <workItem from="1621132082731" duration="9288000" />
+      <workItem from="1621310137065" duration="5690000" />
     </task>
     <task id="LOCAL-00031" summary="Mar 7 daily challenge.">
       <created>1615170940240</created>
@@ -933,7 +935,14 @@
       <option name="project" value="LOCAL" />
       <updated>1620625749705</updated>
     </task>
-    <option name="localTasksCounter" value="79" />
+    <task id="LOCAL-00079" summary="May 14 daily challenge.">
+      <created>1621043716317</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1621043716318</updated>
+    </task>
+    <option name="localTasksCounter" value="80" />
     <servers />
   </component>
   <component name="TodoView">
@@ -971,7 +980,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Apr 4 daily challenge." />
     <MESSAGE value="Apr 5 daily challenge. (naughty problem lol)" />
     <MESSAGE value="Apr 6 daily challenge." />
     <MESSAGE value="Apr 9 daily challenge." />
@@ -996,7 +1004,8 @@
     <MESSAGE value="May 6 daily challenge." />
     <MESSAGE value="Weekly Contest 240.&#10;May 8 daily challenge." />
     <MESSAGE value="May 9 daily challenge." />
-    <option name="LAST_COMMIT_MESSAGE" value="May 9 daily challenge." />
+    <MESSAGE value="May 14 daily challenge." />
+    <option name="LAST_COMMIT_MESSAGE" value="May 14 daily challenge." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
