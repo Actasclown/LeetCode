@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="May 14 daily challenge.">
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0065/validnumber/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0968/binarytreecameras/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1048/longeststringchain/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1863/sumofallsubsetxortotals/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1864/minimumnumberofswapstomakethebinarystringalternating/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1865/findingpairswithacertainsum/FindSumPairs.java" afterDir="false" />
+    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Weekly Contest 241.&#10;May 15, 16, 17 daily challenge.">
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0609/findduplicatefileinsystem/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0890/findandreplacepattern/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1869/longercontiguoussegmentsofonesthanzeros/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1870/minimumspeedtoarriveontime/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1871/jumpgamevii/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/aac/wkt/q1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/wkt/q1/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/aac/wkt/q2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/wkt/q2/Solution.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/aac/wkt/q3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/wkt/q3/FindSumPairs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/wkt/q3/FindSumPairs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/wkt/q3/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -95,7 +94,7 @@
     <property name="project.structure.side.proportion" value="0.0" />
     <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
   </component>
-  <component name="RunManager" selected="Application.Solution (2)">
+  <component name="RunManager" selected="Application.Solution (4)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -341,10 +340,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (3)" />
         <item itemvalue="Application.Solution (1)" />
-        <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (5)" />
       </list>
     </recent_temporary>
@@ -597,14 +596,11 @@
       <workItem from="1621042163623" duration="1553000" />
       <workItem from="1621131889320" duration="101000" />
       <workItem from="1621132082731" duration="9288000" />
-      <workItem from="1621310137065" duration="5690000" />
-    </task>
-    <task id="LOCAL-00031" summary="Mar 7 daily challenge.">
-      <created>1615170940240</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1615170940240</updated>
+      <workItem from="1621310137065" duration="6071000" />
+      <workItem from="1621405652455" duration="629000" />
+      <workItem from="1621536557415" duration="958000" />
+      <workItem from="1621663570238" duration="2323000" />
+      <workItem from="1621735362378" duration="8630000" />
     </task>
     <task id="LOCAL-00032" summary="Mar 8, 10 daily challenge. (Mar 9 challenge is q0623, a binary tree problem done before) q1316 is a nice example where rolling hash significantly saves time.">
       <created>1615434865196</created>
@@ -942,7 +938,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621043716318</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="Weekly Contest 241.&#10;May 15, 16, 17 daily challenge.">
+      <created>1621316047135</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1621316047135</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TodoView">
@@ -980,7 +983,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Apr 5 daily challenge. (naughty problem lol)" />
     <MESSAGE value="Apr 6 daily challenge." />
     <MESSAGE value="Apr 9 daily challenge." />
     <MESSAGE value="Apr 10 daily challenge." />
@@ -1005,7 +1007,8 @@
     <MESSAGE value="Weekly Contest 240.&#10;May 8 daily challenge." />
     <MESSAGE value="May 9 daily challenge." />
     <MESSAGE value="May 14 daily challenge." />
-    <option name="LAST_COMMIT_MESSAGE" value="May 14 daily challenge." />
+    <MESSAGE value="Weekly Contest 241.&#10;May 15, 16, 17 daily challenge." />
+    <option name="LAST_COMMIT_MESSAGE" value="Weekly Contest 241.&#10;May 15, 16, 17 daily challenge." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

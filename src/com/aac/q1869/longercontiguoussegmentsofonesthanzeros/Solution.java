@@ -1,4 +1,4 @@
-package com.aac.wkt.q1;
+package com.aac.q1869.longercontiguoussegmentsofonesthanzeros;
 
 public class Solution {
     public boolean checkZeroOnes(String s) {
@@ -18,4 +18,3 @@ public class Solution {
         return l[1] > l[0];
     }
 }
-

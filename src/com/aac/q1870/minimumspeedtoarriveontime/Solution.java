@@ -1,6 +1,4 @@
-package com.aac.wkt.q2;
-
-import java.util.Arrays;
+package com.aac.q1870.minimumspeedtoarriveontime;
 
 public class Solution {
     public int minSpeedOnTime(int[] dist, double hour) {
