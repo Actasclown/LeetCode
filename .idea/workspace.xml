@@ -1,9 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Weekly Contest 242.">
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0943/findtheshortestsuperstring/Solution.java" afterDir="false" />
+    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="May 23 daily challenge. (TSP)">
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0709/tolowercase/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1897/redistributecharacterstomakeallstringsequal/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1899/mergetripletstoformtargettriplet/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/unresolved/q0150/evaluatereversepolishnotation/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/unresolved/q0486/predictthewinner/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/unresolved/q1426/countingelements/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/unresolved/q1427/performstringshifts/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/unresolved/q1428/leftmostcolumnwithatleastaone/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/unresolved/q1689/partitioningintominimumnumberofdecibinarynumbers/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/unresolved/q1898/maximumnumberofremovablecharacters/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/wkt/xx/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/q1803/countpairswithxorinarange/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/unresolved/q1803/countpairswithxorinarange/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/q1871/jumpgamevii/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/q1871/jumpgamevii/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/wkt/q1/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/wkt/q1/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/wkt/q2/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/wkt/q2/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/aac/wkt/q3/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/aac/wkt/q3/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,6 +71,12 @@
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
   </component>
+  <component name="KotlinMultiplatform">
+    <allAvailableExecutables />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="ukizaonk" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
       <MavenImportingSettings>
@@ -85,11 +106,39 @@
     <property name="project.structure.last.edited" value="Project" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="reference.projectsettings.compiler.javacompiler" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
-  <component name="RunManager" selected="Application.Solution">
+  <component name="RunManager" selected="Application.Solution (5)">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="ArquillianTestNG" factoryName="">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <properties />
+      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -149,20 +198,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aac.q0109.convertsortedlisttobinarysearchtree.Solution" />
-      <module name="LeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.aac.q0109.convertsortedlisttobinarysearchtree.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Solution (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.aac.wkt.q1.Solution" />
       <module name="LeetCode" />
@@ -205,6 +240,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aac.wkt.xx.Solution" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aac.wkt.xx.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.aac.q0943.findtheshortestsuperstring.Solution" />
       <module name="LeetCode" />
@@ -221,34 +270,6 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianJUnit" factoryName="" nameIsGenerated="true">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration default="true" type="ArquillianTestNG" factoryName="">
-      <option name="arquillianRunConfiguration">
-        <value>
-          <option name="containerStateName" value="" />
-        </value>
-      </option>
-      <option name="TEST_OBJECT" value="CLASS" />
-      <option name="VM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <properties />
-      <listeners />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -272,34 +293,6 @@
     </configuration>
     <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
       <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
-      <module name="" />
-      <option name="filePath" />
-      <option name="vmParameters" />
-      <option name="alternativeJrePath" />
-      <option name="programParameters" />
-      <option name="passParentEnvs" value="true" />
-      <option name="workingDirectory" />
-      <option name="isAlternativeJrePathEnabled" value="false" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="WORKING_DIRECTORY" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -333,11 +326,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Solution (5)" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Solution (4)" />
         <item itemvalue="Application.Solution (2)" />
         <item itemvalue="Application.Solution (3)" />
-        <item itemvalue="Application.Solution (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -594,14 +587,22 @@
       <workItem from="1621536557415" duration="958000" />
       <workItem from="1621663570238" duration="2323000" />
       <workItem from="1621735362378" duration="8846000" />
-      <workItem from="1621828033077" duration="2679000" />
-    </task>
-    <task id="LOCAL-00033" summary="Mar 11 daily challenge. (DP / DFS)">
-      <created>1615500423887</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1615500423887</updated>
+      <workItem from="1621828033077" duration="2773000" />
+      <workItem from="1621923761367" duration="905000" />
+      <workItem from="1623547707898" duration="8672000" />
+      <workItem from="1626360593991" duration="3000" />
+      <workItem from="1627866846830" duration="1415000" />
+      <workItem from="1629701906212" duration="5000" />
+      <workItem from="1630075271601" duration="597000" />
+      <workItem from="1631836560008" duration="115000" />
+      <workItem from="1631836718715" duration="104000" />
+      <workItem from="1631836841580" duration="331000" />
+      <workItem from="1631838495686" duration="139000" />
+      <workItem from="1631839019973" duration="68000" />
+      <workItem from="1632022744526" duration="144000" />
+      <workItem from="1632435938584" duration="87000" />
+      <workItem from="1638313288608" duration="2070000" />
+      <workItem from="1638321314788" duration="1755000" />
     </task>
     <task id="LOCAL-00034" summary="Mar 11 daily challenge. (DP / DFS) (q0322)&#10;q1044 can be solved by Binary Search + Rolling Hash (O(logN) * O(N)) or Suffix Tree. There is an implementation of the former.">
       <created>1615523882520</created>
@@ -939,7 +940,14 @@
       <option name="project" value="LOCAL" />
       <updated>1621744959910</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="May 23 daily challenge. (TSP)">
+      <created>1621830823728</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1621830823728</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TodoView">
@@ -977,7 +985,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Apr 9 daily challenge." />
     <MESSAGE value="Apr 10 daily challenge." />
     <MESSAGE value="Weekly Contest 236." />
     <MESSAGE value="April 12 daily challenge." />
@@ -1002,7 +1009,8 @@
     <MESSAGE value="May 14 daily challenge." />
     <MESSAGE value="Weekly Contest 241.&#10;May 15, 16, 17 daily challenge." />
     <MESSAGE value="Weekly Contest 242." />
-    <option name="LAST_COMMIT_MESSAGE" value="Weekly Contest 242." />
+    <MESSAGE value="May 23 daily challenge. (TSP)" />
+    <option name="LAST_COMMIT_MESSAGE" value="May 23 daily challenge. (TSP)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

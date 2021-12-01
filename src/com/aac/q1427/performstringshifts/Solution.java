@@ -1,4 +1,4 @@
-package com.aac.q0249.performstringshifts;
+package com.aac.q1427.performstringshifts;
 
 public class Solution {
     public String stringShift(String s, int[][] shift) {

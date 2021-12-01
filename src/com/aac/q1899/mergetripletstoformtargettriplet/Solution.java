@@ -1,6 +1,6 @@
-package com.aac.wkt.q3;
+package com.aac.q1899.mergetripletstoformtargettriplet;
 
-public class Solution {
+class Solution {
 
     public boolean mergeTriplets(int[][] triplets, int[] target) {
         int[] ret = {0, 0, 0};

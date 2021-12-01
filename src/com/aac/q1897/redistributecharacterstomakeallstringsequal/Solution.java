@@ -1,6 +1,6 @@
-package com.aac.wkt.q1;
+package com.aac.q1897.redistributecharacterstomakeallstringsequal;
 
-public class Solution {
+class Solution {
     public boolean makeEqual(String[] words) {
         int[] calc = new int[26];
         for(String word : words) {
@@ -16,4 +16,3 @@ public class Solution {
         return true;
     }
 }
-
