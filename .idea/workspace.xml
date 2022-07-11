@@ -1,9 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="Reorganize the files.">
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0921/minimumaddtomakeparenthesesvalid/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q1696/jumpgamevi/Solution.java" afterDir="false" />
+    <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q0199/binarytreerightsideview/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -592,14 +591,8 @@
       <workItem from="1651074756350" duration="2000" />
       <workItem from="1651877295667" duration="6000" />
       <workItem from="1657128561498" duration="16000" />
-      <workItem from="1657334641189" duration="4571000" />
-    </task>
-    <task id="LOCAL-00035" summary="Mar 12 daily challenge. (too many rolling hash problem though lol)">
-      <created>1615590148659</created>
-      <option name="number" value="00035" />
-      <option name="presentableId" value="LOCAL-00035" />
-      <option name="project" value="LOCAL" />
-      <updated>1615590148659</updated>
+      <workItem from="1657334641189" duration="5147000" />
+      <workItem from="1657503384971" duration="1121000" />
     </task>
     <task id="LOCAL-00036" summary="Mar 13 daily challenge. (ez dp)">
       <created>1615688912202</created>
@@ -937,7 +930,14 @@
       <option name="project" value="LOCAL" />
       <updated>1638323419772</updated>
     </task>
-    <option name="localTasksCounter" value="84" />
+    <task id="LOCAL-00084" summary="Daily Challenge.&#10;q1696 = DP + Max Heap.">
+      <created>1657339808489</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1657339808489</updated>
+    </task>
+    <option name="localTasksCounter" value="85" />
     <servers />
   </component>
   <component name="TodoView">
@@ -974,7 +974,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Weekly Contest 236." />
     <MESSAGE value="April 12 daily challenge." />
     <MESSAGE value="April 15 daily challenge." />
     <MESSAGE value="April 16 daily challenge." />
@@ -999,7 +998,8 @@
     <MESSAGE value="Weekly Contest 242." />
     <MESSAGE value="May 23 daily challenge. (TSP)" />
     <MESSAGE value="Reorganize the files." />
-    <option name="LAST_COMMIT_MESSAGE" value="Reorganize the files." />
+    <MESSAGE value="Daily Challenge.&#10;q1696 = DP + Max Heap." />
+    <option name="LAST_COMMIT_MESSAGE" value="Daily Challenge.&#10;q1696 = DP + Max Heap." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
