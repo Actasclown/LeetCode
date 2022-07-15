@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="cdbb118a-89ca-4e09-a4b8-b8940651482f" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0105/constructbinarytreefrompreorderandinordertraversal/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/aac/q0746/mincostclimbingstairs/Solution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/aac/q1710/maximumunitsonatruck/Solution.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,7 +85,7 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.com.aac.q0105.constructbinarytreefrompreorderandinordertraversal.Solution">
+  <component name="RunManager" selected="Application.com.aac.q1710.maximumunitsonatruck.Solution">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -186,20 +185,6 @@
       <setting name="depsClasspath" value="false" />
       <method v="2" />
     </configuration>
-    <configuration name="Solution (4)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.aac.wkt.q2.Solution" />
-      <module name="LeetCode" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.aac.wkt.q2.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Solution (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.aac.wkt.xx.Solution" />
       <module name="LeetCode" />
@@ -262,6 +247,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="com.aac.q1710.maximumunitsonatruck.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.aac.q1710.maximumunitsonatruck.Solution" />
+      <module name="LeetCode" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.aac.q1710.maximumunitsonatruck.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="TEST_OBJECT" value="class" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -304,6 +303,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.com.aac.q1710.maximumunitsonatruck.Solution" />
         <item itemvalue="Application.com.aac.q0105.constructbinarytreefrompreorderandinordertraversal.Solution" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.com.aac.q1696.jumpgamevi.Solution" />
@@ -598,14 +598,8 @@
       <workItem from="1657503384971" duration="1326000" />
       <workItem from="1657594306683" duration="3550000" />
       <workItem from="1657664751277" duration="1185000" />
-      <workItem from="1657851814183" duration="3243000" />
-    </task>
-    <task id="LOCAL-00038" summary="Mar 14 daily challenge.">
-      <created>1615788759087</created>
-      <option name="number" value="00038" />
-      <option name="presentableId" value="LOCAL-00038" />
-      <option name="project" value="LOCAL" />
-      <updated>1615788759087</updated>
+      <workItem from="1657851814183" duration="3498000" />
+      <workItem from="1657900737568" duration="596000" />
     </task>
     <task id="LOCAL-00039" summary="Mar 19 daily challenge.">
       <created>1616150353803</created>
@@ -943,7 +937,14 @@
       <option name="project" value="LOCAL" />
       <updated>1657597777283</updated>
     </task>
-    <option name="localTasksCounter" value="87" />
+    <task id="LOCAL-00087" summary="Daily Challenge.">
+      <created>1657855317685</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1657855317686</updated>
+    </task>
+    <option name="localTasksCounter" value="88" />
     <servers />
   </component>
   <component name="TodoView">
